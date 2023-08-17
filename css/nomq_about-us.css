@@ -1,0 +1,604 @@
+#muse_css_mq {
+    background-color: #FFFFFF;
+}
+
+#bp_infinity.active {
+    display: block;
+}
+
+#page {
+    min-height: 500px;
+}
+
+#u23786 {
+    left: 100px;
+}
+
+#menuu23830 {
+    z-index: 155;
+    width: 400px;
+    height: 50px;
+    position: fixed;
+    top: 0px;
+    right: 170px;
+}
+
+#u23831 {
+    width: 98px;
+    min-height: 50px;
+    position: relative;
+    margin-right: -10000px;
+}
+
+#u23832 {
+    width: 98px;
+    padding-bottom: 36px;
+    position: relative;
+}
+
+#u23832:hover {
+    width: 98px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u23835-4 {
+    width: 98px;
+    min-height: 14px;
+    position: relative;
+    margin-right: -10000px;
+    top: 18px;
+}
+
+#u23832:hover #u23835-4 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 14px;
+    width: 98px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u27205 {
+    width: 98px;
+    min-height: 50px;
+    position: relative;
+    margin-right: -10000px;
+    left: 100px;
+}
+
+#u27208 {
+    width: 98px;
+    padding-bottom: 36px;
+    position: relative;
+}
+
+#u23832.MuseMenuActive,
+#u27208:hover {
+    width: 98px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u27208.MuseMenuActive {
+    width: 98px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u27209-4 {
+    width: 98px;
+    min-height: 14px;
+    position: relative;
+    margin-right: -10000px;
+    top: 18px;
+}
+
+#u23832.MuseMenuActive #u23835-4,
+#u27208:hover #u27209-4 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 14px;
+    width: 98px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u27208.MuseMenuActive #u27209-4 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 14px;
+    width: 98px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u27296 {
+    width: 99px;
+    min-height: 50px;
+    position: relative;
+    margin-right: -10000px;
+    left: 200px;
+}
+
+#u27299 {
+    width: 99px;
+    padding-bottom: 36px;
+    position: relative;
+}
+
+#u27299:hover {
+    width: 99px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u27300-4 {
+    width: 99px;
+    min-height: 14px;
+    position: relative;
+    margin-right: -10000px;
+    top: 18px;
+}
+
+#u27299:hover #u27300-4 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 14px;
+    width: 99px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u27387 {
+    width: 99px;
+    min-height: 50px;
+    position: relative;
+    margin-right: -10000px;
+    left: 301px;
+}
+
+#u27390 {
+    width: 99px;
+    padding-bottom: 36px;
+    position: relative;
+}
+
+#u27299.MuseMenuActive,
+#u27390:hover {
+    width: 99px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u27390.MuseMenuActive {
+    width: 99px;
+    min-height: 0px;
+    margin: 0px;
+}
+
+#u27392-4 {
+    width: 99px;
+    min-height: 14px;
+    position: relative;
+    margin-right: -10000px;
+    top: 18px;
+}
+
+#u27299.MuseMenuActive #u27300-4,
+#u27390:hover #u27392-4 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 14px;
+    width: 99px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u27390.MuseMenuActive #u27392-4 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 14px;
+    width: 99px;
+    margin: 0px -10000px 0px 0px;
+}
+
+#u39281-4 {
+    z-index: 190;
+    right: 115px;
+}
+
+#u39282-4 {
+    z-index: 194;
+    right: 80px;
+}
+
+#pu28801 {
+    z-index: 3;
+    padding-bottom: 0px;
+    margin-right: -10000px;
+    margin-top: 50px;
+    width: 100%;
+}
+
+#u28801 {
+    min-height: 554px;
+    background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+    padding-bottom: 90px;
+}
+
+#u28801_align_to_page {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 100%;
+}
+
+#u28812-14 {
+    min-height: 427px;
+    background-color: #599C7D;
+    background-color: rgba(0, 104, 55, 0.65);
+    margin-top: 127px;
+    width: 42.49%;
+    left: 28.76%;
+}
+
+#u28812-12 {
+    font-size: 18px;
+    line-height: 25px;
+    padding-bottom: 40px;
+}
+
+#u28799 {
+    width: 113px;
+    margin-top: 70px;
+    margin-left: 50%;
+    left: -56px;
+}
+
+#permits {
+    margin-top: 452px;
+    left: 48.63%;
+}
+
+#u28801-bw {
+    min-height: 554px;
+    left: 0px;
+    margin-left: 0px;
+}
+
+#ppu28787-4 {
+    z-index: 0;
+    margin-top: 108px;
+    width: 55.59%;
+}
+
+#pu28787-4 {
+    z-index: 61;
+    margin-right: -10000px;
+    width: 53.48%;
+    left: 0%;
+    margin-left: 40.2%;
+}
+
+#u28787-4 {
+    min-height: 30px;
+    line-height: 28px;
+    font-size: 23px;
+    width: 100%;
+}
+
+#u28807-4 {
+    min-height: 104px;
+    line-height: 19px;
+    font-size: 16px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+#pu28803 {
+    z-index: 53;
+    margin-top: 14px;
+    width: 100%;
+}
+
+#u28803 {
+    margin-top: 6px;
+    width: 38.06%;
+    left: 61.95%;
+}
+
+#u28797 {
+    width: 58.24%;
+}
+
+#responsibility {
+    margin-top: 4px;
+    left: 90.03%;
+}
+
+#u29137-3 {
+    min-height: 261px;
+    background-image: url("../images/lrcp-nosotros-legal-u6629-fr.jpg?crc=229354077");
+    position: relative;
+    margin-right: -10000px;
+    width: 39.21%;
+    left: 60.8%;
+    margin-left: 40.2%;
+}
+
+#u28791 {
+    padding-bottom: 12px;
+    width: 12.66%;
+    left: 87.47%;
+    margin-left: 40.2%;
+}
+
+#u28785 {
+    margin-top: 10px;
+    width: 74.51%;
+    left: 13.73%;
+}
+
+#u28786 {
+    width: 100%;
+}
+
+#pamphletu28902 {
+    margin-right: -10000px;
+    margin-top: 235px;
+    width: 86.11%;
+    margin-left: 46.9%;
+    left: 9px;
+}
+
+#u28905 {
+    margin-right: -10000px;
+    width: 27.81%;
+    left: 70.32%;
+}
+
+#u28906 {
+    padding-bottom: 2px;
+}
+
+#u28907-4 {
+    min-height: 20px;
+    width: 90.68%;
+    left: 3.11%;
+}
+
+#u28906:hover #u28907-4 {
+    min-height: 20px;
+    width: 90.68%;
+}
+
+#u28906.PamphletThumbSelected #u28907-4 {
+    min-height: 20px;
+    width: 90.68%;
+}
+
+#u28912 {
+    background-color: #444444;
+    background-color: rgba(48, 48, 48, 0.9);
+}
+
+#u28912popup {
+    margin-top: -305px;
+    height: 406px;
+    width: 93.66%;
+    margin-left: 3.18%;
+}
+
+#u28913 {
+    padding-top: 30px;
+}
+
+#u28918-4 {
+    min-height: 47px;
+    width: 100%;
+}
+
+#u28923-8 {
+    min-height: 80px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+#u28914-8 {
+    min-height: 80px;
+    top: -1px;
+    margin-bottom: -1px;
+    width: 100%;
+}
+
+#u28919-8,
+#u28927-8 {
+    min-height: 80px;
+    width: 100%;
+}
+
+#u28910 {
+    width: 30px;
+    height: 25px;
+}
+
+#u28910:hover {
+    width: 30px;
+    height: 25px;
+}
+
+#u28910:active {
+    width: 30px;
+    height: 25px;
+}
+
+#u28911-4 {
+    width: 23px;
+    left: 10%;
+}
+
+#u28910popup {
+    margin-top: -290px;
+    width: 30px;
+    margin-left: 90.93%;
+}
+
+#u28806 {
+    min-height: 478.5500000000004px;
+    background-image: url("../images/lrcp-nosotros-responsabilidad.jpg?crc=4053573867");
+    padding-bottom: 0px;
+}
+
+#u28806_align_to_page {
+    padding-top: 97px;
+    padding-bottom: 110px;
+}
+
+#u28814 {
+    width: 106px;
+    left: 60.14%;
+}
+
+#u28813-4 {
+    min-height: 30px;
+    line-height: 28px;
+    font-size: 23px;
+    margin-top: 19px;
+    width: 28.35%;
+    left: 49.59%;
+}
+
+#u28809-4 {
+    min-height: 105px;
+    line-height: 19px;
+    font-size: 16px;
+    margin-top: 11px;
+    width: 28.35%;
+    left: 49.59%;
+}
+
+#u28806-bw {
+    min-height: 478.5500000000004px;
+    margin-top: 107px;
+    left: 0px;
+    margin-left: 0px;
+}
+
+#pu28810 {
+    z-index: 69;
+    margin-top: 104px;
+    width: 46.07%;
+    left: 0%;
+    margin-left: 26.97%;
+}
+
+#u28810 {
+    margin-right: -10000px;
+    margin-top: 4px;
+}
+
+#u28789 {
+    margin-right: -10000px;
+    margin-top: 6px;
+    left: 45.66%;
+}
+
+#u28794 {
+    margin-right: -10000px;
+    left: 86.98%;
+}
+
+#pu28805-4 {
+    z-index: 43;
+    margin-top: 9px;
+    width: 55.59%;
+    left: 0%;
+    margin-left: 22.35%;
+}
+
+#u28805-4 {
+    min-height: 29px;
+    line-height: 28px;
+    font-size: 23px;
+    margin-right: -10000px;
+    width: 28.54%;
+}
+
+#u28784-4 {
+    min-height: 29px;
+    line-height: 28px;
+    font-size: 23px;
+    margin-right: -10000px;
+    width: 28.54%;
+    left: 36.48%;
+}
+
+#u28792-4 {
+    min-height: 29px;
+    line-height: 28px;
+    font-size: 23px;
+    margin-right: -10000px;
+    width: 28.54%;
+    left: 71.47%;
+}
+
+#pu28808-4 {
+    z-index: 27;
+    margin-top: 7px;
+    width: 55.59%;
+    left: 0%;
+    margin-left: 22.35%;
+}
+
+#u28808-4 {
+    min-height: 143px;
+    margin-right: -10000px;
+    width: 28.54%;
+}
+
+#u28802-4 {
+    min-height: 105px;
+    margin-right: -10000px;
+    width: 28.54%;
+    left: 36.48%;
+}
+
+#u28796-14 {
+    min-height: 125px;
+    margin-right: -10000px;
+    width: 28.54%;
+    left: 71.47%;
+}
+
+#u28793 {
+    height: 283px;
+    background-image: url("../images/lrcp-nosotros-mision%20vision%20valores.jpg?crc=3809472261");
+}
+
+#u28793-bw {
+    height: 283px;
+    left: 0px;
+    margin-left: 0px;
+}
+
+.css_verticalspacer .verticalspacer {
+    height: calc(100vh - 2372px);
+}
+
+#u23861 {
+    min-height: 32px;
+    padding-bottom: 18px;
+}
+
+#u23859-8 {
+    z-index: 180;
+    min-height: 15px;
+    margin-top: 17px;
+    width: 88.69%;
+    left: 5.66%;
+}
+
+#u23861-bw {
+    min-height: 32px;
+    margin-top: -1px;
+}
+
+.verticalspacer {
+    min-height: 1px;
+}

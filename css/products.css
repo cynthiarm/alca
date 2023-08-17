@@ -1,0 +1,6049 @@
+.version.products {
+    color: #0000E6;
+    background-color: #337B73;
+}
+
+.js body {
+    visibility: hidden;
+}
+
+.js body.initialized {
+    visibility: visible;
+}
+
+#page {
+    border-color: #000000;
+    border-width: 0px;
+    margin-right: auto;
+    background-image: none;
+    margin-left: auto;
+    background-color: transparent;
+    width: 100%;
+    z-index: 1;
+}
+
+#pu23860 {
+    width: 0.01px;
+    z-index: 89;
+    padding-bottom: 50px;
+    margin-right: -10000px;
+    height: 0px;
+}
+
+#u23860 {
+    top: 0px;
+    z-index: 89;
+    position: fixed;
+    height: 95px;
+}
+
+#u23860-bw {
+    z-index: 89;
+}
+
+#u23786 {
+    top: 5px;
+    width: 403px;
+    z-index: 90;
+    position: fixed;
+}
+
+#u23787 {
+    z-index: 91;
+}
+
+#u39312-4 {
+    text-align: center;
+    width: 35px;
+    top: 0px;
+    font-family: lato, sans-serif;
+    font-weight: 400;
+    line-height: 14px;
+    min-height: 50px;
+    font-size: 14px;
+    background-color: transparent;
+    color: #666666;
+    position: fixed;
+}
+
+#u39312-4:hover p {
+    visibility: inherit;
+    color: #ff9934;
+}
+
+#u39313-4 {
+    text-align: center;
+    width: 35px;
+    top: 0px;
+    font-family: lato, sans-serif;
+    font-weight: 400;
+    line-height: 14px;
+    min-height: 50px;
+    font-size: 14px;
+    background-color: transparent;
+    color: #ff9934;
+    position: fixed;
+}
+
+#u39312-4:hover,
+#u39313-4.MuseLinkActive {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 50px;
+    width: 35px;
+    margin: 0px;
+}
+
+#u39313-4.MuseLinkActive p {
+    text-align: center;
+    padding-top: 40px;
+    color: #ff9934;
+    visibility: inherit;
+}
+
+#u39312-2,
+#u39313-2 {
+    padding-top: 40px;
+}
+
+#ppamphletu24415 {
+    width: 100%;
+    z-index: 2;
+}
+
+#pamphletu24415 {
+    width: 100%;
+    margin-right: -10000px;
+    z-index: 2;
+    position: relative;
+}
+
+#u24454 {
+    background-color: transparent;
+    width: 100%;
+    position: absolute;
+}
+
+#u24454popup {
+    margin-right: -10000px;
+    z-index: 3;
+    width: 100%;
+}
+
+#u24456 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 4;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24463 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 5;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24459 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 6;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24458 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 7;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24460 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 8;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24455 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 9;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24462 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 10;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24457 {
+    border-color: transparent;
+    width: 100%;
+    filter: alpha(opacity=100);
+    opacity: 1;
+    background-repeat: no-repeat;
+    margin-right: -10000px;
+    border-width: 0px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: #FFFFFF;
+    z-index: 11;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+}
+
+#u24416 {
+    margin-right: -10000px;
+    z-index: 12;
+    position: relative;
+}
+
+#u24445:hover {
+    border-color: transparent;
+    border-width: 0px;
+    margin-bottom: 0px;
+    min-height: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+#u24445.PamphletThumbSelected {
+    margin-bottom: 0px;
+    min-height: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+#u24446 {
+    background-color: transparent;
+    margin-right: -10000px;
+    z-index: 65;
+    position: relative;
+}
+
+#u24447 {
+    display: block;
+    z-index: 66;
+}
+
+#u24448-4 {
+    text-align: left;
+    z-index: 67;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24445.PamphletThumbSelected #u24448-4 p,
+#u24445.PamphletThumbSelected #u24448-4 h2 {
+    font-size: 22px;
+    font-family: lato, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#u24431 {
+    background-color: transparent;
+    margin-right: -10000px;
+    z-index: 58;
+    position: relative;
+}
+
+#u24432 {
+    display: block;
+    z-index: 59;
+}
+
+#u24430-4 {
+    text-align: left;
+    z-index: 60;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24426 {
+    background-color: transparent;
+    margin-right: -10000px;
+    z-index: 51;
+    position: relative;
+}
+
+#u24427 {
+    display: block;
+    z-index: 52;
+}
+
+#u24428-4 {
+    text-align: left;
+    z-index: 53;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24437 {
+    border-color: transparent;
+    border-width: 0px;
+    padding-bottom: 1px;
+    background-color: transparent;
+    position: absolute;
+}
+
+#u24439 {
+    background-color: transparent;
+    margin-right: -10000px;
+    z-index: 48;
+    position: relative;
+}
+
+#u24440 {
+    display: block;
+    z-index: 49;
+}
+
+#u24438-4 {
+    text-align: left;
+    z-index: 44;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24434 {
+    background-color: transparent;
+    margin-right: -10000px;
+    z-index: 41;
+    position: relative;
+}
+
+#u24435 {
+    display: block;
+    z-index: 42;
+}
+
+#u24436-4 {
+    text-align: left;
+    z-index: 37;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24423 {
+    margin-right: -10000px;
+    z-index: 34;
+    background-color: transparent;
+    position: relative;
+}
+
+#u24445:hover #u24446,
+#u24445.PamphletThumbSelected #u24446,
+#u24425:hover #u24426,
+#u24425.PamphletThumbSelected #u24426,
+#u24437:hover #u24439,
+#u24437.PamphletThumbSelected #u24439,
+#u24433:hover #u24434,
+#u24433.PamphletThumbSelected #u24434,
+#u24421:hover #u24423,
+#u24421.PamphletThumbSelected #u24423 {
+    margin-bottom: 0px;
+    min-height: 0px;
+    margin-right: -10000px;
+}
+
+#u24424 {
+    display: block;
+    z-index: 35;
+}
+
+#u24422-6 {
+    text-align: left;
+    z-index: 28;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24421:hover #u24422-6,
+#u24421:active #u24422-6,
+#u24421.PamphletThumbSelected #u24422-6 {
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-left: 0%;
+    margin-right: -10000px;
+}
+
+#u24419 {
+    background-color: transparent;
+    margin-right: -10000px;
+    z-index: 21;
+    position: relative;
+}
+
+#u24429:hover #u24431,
+#u24429.PamphletThumbSelected #u24431,
+#u24417:hover #u24419,
+#u24417.PamphletThumbSelected #u24419 {
+    margin-bottom: 0px;
+    min-height: 0px;
+    margin-right: -10000px;
+    margin-top: 0px;
+}
+
+#u24420 {
+    display: block;
+    z-index: 22;
+}
+
+#u24418-4 {
+    text-align: left;
+    z-index: 23;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24445,
+#u24429,
+#u24425,
+#u24433,
+#u24421,
+#u24417,
+#u24441 {
+    border-color: transparent;
+    border-width: 0px;
+    background-color: transparent;
+    position: absolute;
+}
+
+#u24429:hover,
+#u24425:hover,
+#u24437:hover,
+#u24433:hover,
+#u24421:hover,
+#u24417:hover,
+#u24441:hover {
+    border-color: transparent;
+    border-width: 0px;
+    min-height: 0px;
+    margin: 0px 0px 0px 0%;
+}
+
+#u24429.PamphletThumbSelected,
+#u24425.PamphletThumbSelected,
+#u24437.PamphletThumbSelected,
+#u24433.PamphletThumbSelected,
+#u24421.PamphletThumbSelected,
+#u24417.PamphletThumbSelected,
+#u24441.PamphletThumbSelected {
+    min-height: 0px;
+    border-radius: 0px;
+    margin: 0px 0px 0px 0%;
+}
+
+#u24443 {
+    margin-right: -10000px;
+    z-index: 14;
+    background-color: transparent;
+    position: relative;
+    margin-top: 1px;
+}
+
+#u24441:hover #u24443,
+#u24441.PamphletThumbSelected #u24443 {
+    margin-bottom: 0px;
+    min-height: 0px;
+    margin-right: -10000px;
+    margin-top: 1px;
+}
+
+#u24444 {
+    display: block;
+    z-index: 15;
+}
+
+#u24442-4 {
+    text-align: left;
+    z-index: 16;
+    font-weight: 400;
+    font-family: lato, sans-serif;
+    margin-right: -10000px;
+    line-height: 26px;
+    font-size: 22px;
+    background-color: transparent;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#u24429:hover #u24430-4 p,
+#u24429:hover #u24430-4 h2,
+#u24425:hover #u24428-4 p,
+#u24425:hover #u24428-4 h2,
+#u24437:hover #u24438-4 p,
+#u24437:hover #u24438-4 h2,
+#u24433:hover #u24436-4 p,
+#u24433:hover #u24436-4 h2,
+#u24417:hover #u24418-4 p,
+#u24417:hover #u24418-4 h2,
+#u24441:hover #u24442-4 p,
+#u24441:hover #u24442-4 h2 {
+    padding-top: 16px;
+}
+
+#u24445:hover #u24448-4,
+#u24445:active #u24448-4,
+#u24445.PamphletThumbSelected #u24448-4,
+#u24429:hover #u24430-4,
+#u24429.PamphletThumbSelected #u24430-4,
+#u24425:hover #u24428-4,
+#u24425.PamphletThumbSelected #u24428-4,
+#u24437:hover #u24438-4,
+#u24437.PamphletThumbSelected #u24438-4,
+#u24433:hover #u24436-4,
+#u24433.PamphletThumbSelected #u24436-4,
+#u24417:hover #u24418-4,
+#u24417.PamphletThumbSelected #u24418-4,
+#u24441:hover #u24442-4,
+#u24441.PamphletThumbSelected #u24442-4 {
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-right: -10000px;
+}
+
+#u24445:active #u24448-4 p,
+#u24445:active #u24448-4 h2,
+#u24429.PamphletThumbSelected #u24430-4 p,
+#u24429.PamphletThumbSelected #u24430-4 h2,
+#u24425.PamphletThumbSelected #u24428-4 p,
+#u24425.PamphletThumbSelected #u24428-4 h2,
+#u24437.PamphletThumbSelected #u24438-4 p,
+#u24437.PamphletThumbSelected #u24438-4 h2,
+#u24433.PamphletThumbSelected #u24436-4 p,
+#u24433.PamphletThumbSelected #u24436-4 h2,
+#u24421:hover #u24422-6 p,
+#u24421:hover #u24422-6 h2,
+#u24421:active #u24422-6 p,
+#u24421:active #u24422-6 h2,
+#u24421.PamphletThumbSelected #u24422-6 p,
+#u24421.PamphletThumbSelected #u24422-6 h2,
+#u24417.PamphletThumbSelected #u24418-4 p,
+#u24417.PamphletThumbSelected #u24418-4 h2,
+#u24441.PamphletThumbSelected #u24442-4 p,
+#u24441.PamphletThumbSelected #u24442-4 h2 {
+    padding-top: 0px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,
+.PamphletNextButton,
+.PamphletPrevButton,
+.PamphletCloseButton {
+    cursor: pointer;
+}
+
+#u24468-4 {
+    text-align: center;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-family: lato, sans-serif;
+    z-index: 71;
+}
+
+#u24550 {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    z-index: 75;
+    background-size: cover;
+}
+
+#u24551 {
+    z-index: 86;
+    background-color: transparent;
+    position: relative;
+}
+
+#u24552 {
+    display: block;
+    z-index: 87;
+}
+
+#u24550-bw {
+    z-index: 75;
+}
+
+#u24553-6 {
+    text-align: center;
+    background-color: transparent;
+    font-weight: 300;
+    font-family: lato, sans-serif;
+    z-index: 80;
+}
+
+#u24554-4 {
+    border-color: transparent;
+    z-index: 76;
+    text-align: center;
+    font-family: lato, sans-serif;
+    border-radius: 5px;
+    font-weight: 300;
+    border-width: 0px;
+    margin-left: 50%;
+    font-size: 14px;
+    background-color: #ff9934;
+    color: #FFFFFF;
+    position: relative;
+    padding: 5px 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#u24554-4:hover {
+    border-color: transparent;
+    padding-top: 0px;
+    background-color: #ff9934;
+    box-shadow: none;
+    margin-right: 0px;
+    border-width: 0px;
+    padding-bottom: 0px;
+    margin-left: 50%;
+    margin-bottom: 0px;
+    padding: 5px 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#u24554-2 {
+    padding-top: 6px;
+}
+
+#u23861 {
+    z-index: 88;
+}
+
+#u23861_align_to_page {
+    margin-right: auto;
+    width: 100%;
+    margin-left: auto;
+    position: relative;
+}
+
+#u23859-8 {
+    margin-right: -10000px;
+    position: relative;
+}
+
+#u23861-bw {
+    margin-bottom: -1px;
+    z-index: 88;
+}
+
+.html {
+    background-color: #FFFFFF;
+}
+
+body {
+    position: relative;
+}
+
+@media (min-width: 1401px),
+print {
+    #muse_css_mq {
+        background-color: #FFFFFF;
+    }
+
+    #bp_infinity.active {
+        display: block;
+    }
+
+    #page {
+        min-height: 1184px;
+    }
+
+    #u23786 {
+        left: 150px;
+    }
+
+    #menuu23830 {
+        z-index: 92;
+        width: 400px;
+        height: 50px;
+        position: fixed;
+        top: 0px;
+        right: 300px;
+    }
+
+    #u23831 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #u23832 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u23835-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u23832:hover #u23835-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27205 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 100px;
+    }
+
+    #u27208 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832.MuseMenuActive,
+    #u27208:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27208.MuseMenuActive {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27209-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u23832.MuseMenuActive #u23835-4,
+    #u27208:hover #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27208.MuseMenuActive #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27296 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 200px;
+    }
+
+    #u27299 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27300-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u27299:hover #u27300-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27387 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 301px;
+    }
+
+    #u27390 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299.MuseMenuActive,
+    #u27390:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27390.MuseMenuActive {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27392-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u27299.MuseMenuActive #u27300-4,
+    #u27390:hover #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27390.MuseMenuActive #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u39312-4 {
+        z-index: 125;
+        right: 115px;
+    }
+
+    #u39313-4 {
+        z-index: 129;
+        right: 80px;
+    }
+
+    #pppamphletu24415 {
+        z-index: 0;
+        margin-right: -10000px;
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    #ppamphletu24415 {
+        left: 0px;
+        margin-left: 0px;
+    }
+
+    #u24454popup {
+        height: 876px;
+    }
+
+    #u24456 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-diesel marino-u12367-fr3 - Copy.jpg");
+    }
+
+    #u24463 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-gas avion - Copy.jpg");
+    }
+
+    #u24459 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-diesel marino-u12367-fr3 - Copy.jpg");
+    }
+
+    #u24458 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-diesel copy.jpg");
+    }
+
+    #u24460 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-gas natural copy.jpg");
+    }
+
+    #u24455 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+    }
+
+    #u24462 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+    }
+
+    #u24457 {
+        height: 876px;
+        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr copy.jpg");
+    }
+
+    #u24416 {
+        margin-top: 328px;
+        width: 58.63%;
+        left: 20.69%;
+    }
+
+    #pu24445 {
+        z-index: 64;
+        margin-right: -10000px;
+        width: 26.83%;
+    }
+
+    #u24445 {
+        width: 100%;
+    }
+
+    #u24445:hover {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24446 {
+        width: 31.28%;
+    }
+
+    #u24445:hover #u24446 {
+        margin-top: 0px;
+        width: 31.28%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24446 {
+        margin-top: 0px;
+        width: 31.28%;
+        margin-left: 0%;
+    }
+
+    #u24448-4 {
+        min-height: 53px;
+        margin-top: 18px;
+        width: 60.36%;
+        left: 36.13%;
+    }
+
+    #u24445:hover #u24448-4 {
+        margin-top: 18px;
+        min-height: 53px;
+        width: 60.36%;
+        margin-left: 0%;
+    }
+
+    #u24445:active #u24448-4 {
+        margin-top: 18px;
+        min-height: 53px;
+        width: 60.36%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24448-4 {
+        margin-top: 18px;
+        min-height: 53px;
+        width: 60.36%;
+        margin-left: 0%;
+    }
+
+    #u24445popup {
+        height: 71px;
+        width: 99.57%;
+    }
+
+    #u24447,
+    #u24429 {
+        width: 100%;
+    }
+
+    #u24429:hover {
+        width: 100%;
+    }
+
+    #u24431 {
+        width: 29.96%;
+    }
+
+    #u24429:hover #u24431 {
+        width: 29.96%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24431 {
+        width: 29.96%;
+        margin-left: 0%;
+    }
+
+    #u24430-4 {
+        min-height: 47px;
+        margin-top: 21px;
+        width: 63.88%;
+        left: 36.13%;
+    }
+
+    #u24429:hover #u24430-4 {
+        margin-top: 21px;
+        min-height: 47px;
+        width: 63.88%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24430-4 {
+        margin-top: 21px;
+        min-height: 47px;
+        width: 63.88%;
+        margin-left: 0%;
+    }
+
+    #u24429popup {
+        height: 68px;
+        margin-top: 11px;
+        width: 99.57%;
+    }
+
+    #u24429.PamphletThumbSelected,
+    #u24432,
+    #u24425 {
+        width: 100%;
+    }
+
+    #u24425:hover {
+        width: 100%;
+    }
+
+    #u24426 {
+        width: 29.39%;
+    }
+
+    #u24425:hover #u24426 {
+        margin-top: 0px;
+        width: 29.39%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24426 {
+        margin-top: 0px;
+        width: 29.39%;
+        margin-left: 0%;
+    }
+
+    #u24428-4 {
+        min-height: 49px;
+        margin-top: 18px;
+        width: 63.6%;
+        left: 36.41%;
+    }
+
+    #u24425:hover #u24428-4 {
+        margin-top: 18px;
+        min-height: 49px;
+        width: 63.6%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24428-4 {
+        margin-top: 18px;
+        min-height: 49px;
+        width: 63.6%;
+        margin-left: 0%;
+    }
+
+    #u24425popup {
+        height: 67px;
+        margin-top: 11px;
+        width: 100%;
+    }
+
+    #pu24437 {
+        z-index: 43;
+        margin-right: -10000px;
+        width: 26.95%;
+        margin-left: 36.83%;
+    }
+
+    #u24425.PamphletThumbSelected,
+    #u24427,
+    #u24437 {
+        width: 100%;
+    }
+
+    #u24437:hover {
+        width: 100%;
+    }
+
+    #u24439 {
+        margin-top: 1px;
+        width: 30.57%;
+    }
+
+    #u24437:hover #u24439 {
+        margin-top: 1px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24439 {
+        margin-top: 1px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24438-4 {
+        min-height: 53px;
+        margin-top: 18px;
+        width: 62.89%;
+        left: 37.12%;
+    }
+
+    #u24437:hover #u24438-4 {
+        margin-top: 18px;
+        min-height: 53px;
+        width: 62.89%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24438-4 {
+        margin-top: 18px;
+        min-height: 53px;
+        width: 62.89%;
+        margin-left: 0%;
+    }
+
+    #u24437popup {
+        height: 72px;
+        width: 100%;
+    }
+
+    #u24437.PamphletThumbSelected,
+    #u24440,
+    #u24433 {
+        width: 100%;
+    }
+
+    #u24433:hover {
+        width: 100%;
+    }
+
+    #u24434 {
+        width: 30.57%;
+    }
+
+    #u24433:hover #u24434 {
+        margin-top: 0px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24434 {
+        margin-top: 0px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24436-4 {
+        min-height: 51px;
+        margin-top: 19px;
+        width: 55.03%;
+        left: 38%;
+    }
+
+    #u24433:hover #u24436-4 {
+        margin-top: 19px;
+        min-height: 51px;
+        width: 55.03%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24436-4 {
+        margin-top: 19px;
+        min-height: 51px;
+        width: 55.03%;
+        margin-left: 0%;
+    }
+
+    #u24433popup {
+        height: 70px;
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    #u24421 {
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    #u24433.PamphletThumbSelected,
+    #u24435,
+    #u24421:hover {
+        width: 100%;
+    }
+
+    #u24423 {
+        margin-top: 6px;
+        width: 27.08%;
+        left: 1.75%;
+    }
+
+    #u24421:hover #u24423 {
+        margin-top: 6px;
+        width: 27.08%;
+        margin-left: 0%;
+    }
+
+    #u24421.PamphletThumbSelected #u24423 {
+        margin-top: 6px;
+        width: 27.08%;
+        margin-left: 0%;
+    }
+
+    #u24422-6 {
+        min-height: 47px;
+        margin-top: 7px;
+        width: 59.83%;
+        left: 38%;
+    }
+
+    #u24421:hover #u24422-6 {
+        margin-top: 7px;
+        min-height: 47px;
+        width: 59.83%;
+    }
+
+    #u24421:active #u24422-6 {
+        margin-top: 7px;
+        min-height: 47px;
+        width: 59.83%;
+    }
+
+    #u24421.PamphletThumbSelected #u24422-6 {
+        margin-top: 7px;
+        min-height: 47px;
+        width: 59.83%;
+    }
+
+    #u24421popup {
+        height: 78px;
+        margin-top: 7px;
+        width: 100%;
+    }
+
+    #pu24417 {
+        z-index: 20;
+        margin-right: -10000px;
+        width: 26.36%;
+        margin-left: 73.65%;
+    }
+
+    #u24421.PamphletThumbSelected,
+    #u24424,
+    #u24417 {
+        width: 100%;
+    }
+
+    #u24417:hover {
+        width: 100%;
+    }
+
+    #u24419 {
+        width: 29.92%;
+    }
+
+    #u24417:hover #u24419 {
+        width: 29.92%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24419 {
+        width: 29.92%;
+        margin-left: 0%;
+    }
+
+    #u24418-4 {
+        min-height: 49px;
+        margin-top: 18px;
+        width: 58.49%;
+        left: 38.84%;
+    }
+
+    #u24417:hover #u24418-4 {
+        margin-top: 18px;
+        min-height: 49px;
+        width: 58.49%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24418-4 {
+        margin-top: 18px;
+        min-height: 49px;
+        width: 58.49%;
+        margin-left: 0%;
+    }
+
+    #u24417popup {
+        height: 67px;
+        width: 100%;
+    }
+
+    #u24441 {
+        padding-bottom: 1px;
+        width: 100%;
+    }
+
+    #u24417.PamphletThumbSelected,
+    #u24420,
+    #u24441:hover {
+        width: 100%;
+    }
+
+    #u24443 {
+        width: 27.68%;
+        left: 0.9%;
+    }
+
+    #u24441:hover #u24443 {
+        width: 27.68%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24443 {
+        width: 27.68%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected,
+    #u24444 {
+        width: 100%;
+    }
+
+    #u24442-4 {
+        min-height: 41px;
+        margin-top: 21px;
+        width: 58.49%;
+        left: 38.84%;
+    }
+
+    #u24441:hover #u24442-4 {
+        margin-top: 21px;
+        min-height: 41px;
+        width: 58.49%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24442-4 {
+        margin-top: 21px;
+        min-height: 41px;
+        width: 58.49%;
+        margin-left: 0%;
+    }
+
+    #u24441popup {
+        height: 64px;
+        margin-top: 14px;
+        width: 100%;
+    }
+
+    #u24468-4 {
+        min-height: 72px;
+        line-height: 36px;
+        font-size: 30px;
+    }
+
+    #u24468-4-bw {
+        z-index: 71;
+        min-height: 72px;
+        margin-top: 241px;
+    }
+
+    #u24550 {
+        min-height: 373px;
+    }
+
+    #u24550_align_to_page {
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        width: 100%;
+    }
+
+    #u24551 {
+        width: 118px;
+        left: -59px;
+        margin: 284px -10000px -30px 50%;
+    }
+
+    #u24552 {
+        margin-bottom: 1px;
+    }
+
+    #u24550-bw {
+        min-height: 373px;
+        margin-top: 495px;
+    }
+
+    #u24553-6 {
+        min-height: 57px;
+        line-height: 24px;
+        font-size: 20px;
+        margin-top: 50px;
+        position: relative;
+        width: 61.45%;
+        left: 0%;
+        margin-left: 19.32%;
+    }
+
+    #u24554-4 {
+        width: 203px;
+        min-height: 32px;
+        margin-top: 21px;
+        left: -101px;
+    }
+
+    #u24554-4:hover {
+        margin-top: 21px;
+        min-height: 32px;
+        width: 203px;
+        left: -101px;
+    }
+
+    .css_verticalspacer .verticalspacer {
+        height: 100px !important;
+        min-height: 83px;
+    }
+
+    #u23861 {
+        min-height: 33px;
+        padding-bottom: 17px;
+    }
+
+    #u23859-8 {
+        z-index: 117;
+        min-height: 15px;
+        margin-top: 18px;
+        width: 88.69%;
+        left: 5.66%;
+    }
+
+    #u23861-bw {
+        min-height: 33px;
+        margin-top: -1px;
+    }
+
+    .verticalspacer {
+        min-height: 64px;
+    }
+}
+
+@media (min-width: 1201px) and (max-width: 1400px) {
+    #muse_css_mq {
+        background-color: #000578;
+    }
+
+    #bp_1400.active {
+        display: block;
+    }
+
+    #page {
+        min-height: 1294px;
+        max-width: 1400px;
+    }
+
+    #u23786 {
+        left: 100px;
+    }
+
+    #menuu23830 {
+        z-index: 92;
+        width: 400px;
+        height: 50px;
+        position: fixed;
+        top: 0px;
+        right: 150px;
+    }
+
+    #u23831 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #u23832 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u23835-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u23832:hover #u23835-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27205 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 100px;
+    }
+
+    #u27208 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832.MuseMenuActive,
+    #u27208:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27208.MuseMenuActive {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27209-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 18px;
+    }
+
+    #u23832.MuseMenuActive #u23835-4,
+    #u27208:hover #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27208.MuseMenuActive #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27296 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 200px;
+    }
+
+    #u27299 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27300-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 18px;
+    }
+
+    #u27299:hover #u27300-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27387 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 301px;
+    }
+
+    #u27390 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299.MuseMenuActive,
+    #u27390:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27390.MuseMenuActive {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27392-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 18px;
+    }
+
+    #u27299.MuseMenuActive #u27300-4,
+    #u27390:hover #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27390.MuseMenuActive #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u39312-4 {
+        z-index: 125;
+        right: 97px;
+    }
+
+    #u39313-4 {
+        z-index: 129;
+        right: 62px;
+    }
+
+    #pppamphletu24415 {
+        z-index: 0;
+        padding-bottom: 0px;
+        margin-right: -10000px;
+        margin-top: 50px;
+        width: 100%;
+    }
+
+    #ppamphletu24415 {
+        margin-left: 0%;
+    }
+
+    #pamphletu24415,
+    #u24454 {
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24454popup {
+        height: 820px;
+        margin-left: 0%;
+    }
+
+
+    #u24456 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24463 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-gas avion - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24459 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-diesel marino-u12367-fr3 - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24458 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-diesel copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24460 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-gas natural copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24455 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24462 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24457 {
+        height: 820px;
+        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24416 {
+        margin-top: 257px;
+        width: 63.22%;
+        left: 20%;
+    }
+
+    #pu24445 {
+        z-index: 64;
+        margin-right: -10000px;
+        width: 25.77%;
+    }
+
+    #u24445 {
+        width: 100%;
+    }
+
+    #u24445:hover {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24446 {
+        width: 31.28%;
+    }
+
+    #u24445:hover #u24446 {
+        margin-top: 0px;
+        width: 31.28%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24446 {
+        margin-top: 0px;
+        width: 31.28%;
+        margin-left: 0%;
+    }
+
+    #u24448-4 {
+        min-height: 50px;
+        margin-top: 21px;
+        width: 60.36%;
+        left: 36.13%;
+    }
+
+    #u24445:hover #u24448-4 {
+        margin-top: 21px;
+        min-height: 50px;
+        width: 60.36%;
+        margin-left: 0%;
+    }
+
+    #u24445:active #u24448-4 {
+        margin-top: 21px;
+        min-height: 50px;
+        width: 60.36%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24448-4 {
+        margin-top: 21px;
+        min-height: 50px;
+        width: 60.36%;
+        margin-left: 0%;
+    }
+
+    #u24445popup {
+        height: 71px;
+        width: 99.57%;
+    }
+
+    #u24447,
+    #u24429 {
+        width: 100%;
+    }
+
+    #u24429:hover {
+        width: 100%;
+    }
+
+    #u24431 {
+        width: 29.96%;
+    }
+
+    #u24429:hover #u24431 {
+        width: 29.96%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24431 {
+        width: 29.96%;
+        margin-left: 0%;
+    }
+
+    #u24430-4 {
+        min-height: 47px;
+        margin-top: 21px;
+        width: 63.88%;
+        left: 36.13%;
+    }
+
+    #u24429:hover #u24430-4 {
+        margin-top: 21px;
+        min-height: 47px;
+        width: 63.88%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24430-4 {
+        margin-top: 21px;
+        min-height: 47px;
+        width: 63.88%;
+        margin-left: 0%;
+    }
+
+    #u24429popup {
+        height: 68px;
+        margin-top: 11px;
+        width: 99.57%;
+    }
+
+    #u24429.PamphletThumbSelected,
+    #u24432,
+    #u24425 {
+        width: 100%;
+    }
+
+    #u24425:hover {
+        width: 100%;
+    }
+
+    #u24426 {
+        width: 29.39%;
+    }
+
+    #u24425:hover #u24426 {
+        margin-top: 0px;
+        width: 29.39%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24426 {
+        margin-top: 0px;
+        width: 29.39%;
+        margin-left: 0%;
+    }
+
+    #u24428-4 {
+        min-height: 46px;
+        margin-top: 21px;
+        width: 63.6%;
+        left: 36.41%;
+    }
+
+    #u24425:hover #u24428-4 {
+        margin-top: 21px;
+        min-height: 46px;
+        width: 63.6%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24428-4 {
+        margin-top: 21px;
+        min-height: 46px;
+        width: 63.6%;
+        margin-left: 0%;
+    }
+
+    #u24425popup {
+        height: 67px;
+        margin-top: 11px;
+        width: 100%;
+    }
+
+    #pu24437 {
+        z-index: 43;
+        margin-right: -10000px;
+        width: 31.42%;
+        margin-left: 35.37%;
+    }
+
+    #u24425.PamphletThumbSelected,
+    #u24427,
+    #u24437 {
+        width: 100%;
+    }
+
+    #u24437:hover {
+        width: 100%;
+    }
+
+    #u24439 {
+        margin-top: 1px;
+        width: 30.57%;
+    }
+
+    #u24437:hover #u24439 {
+        margin-top: 1px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24439 {
+        margin-top: 1px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24438-4 {
+        min-height: 51px;
+        margin-top: 20px;
+        width: 62.89%;
+        left: 37.12%;
+    }
+
+    #u24437:hover #u24438-4 {
+        margin-top: 20px;
+        min-height: 51px;
+        width: 62.89%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24438-4 {
+        margin-top: 20px;
+        min-height: 51px;
+        width: 62.89%;
+        margin-left: 0%;
+    }
+
+    #u24437popup {
+        height: 72px;
+        width: 82.38%;
+    }
+
+    #u24437.PamphletThumbSelected,
+    #u24440,
+    #u24433 {
+        width: 100%;
+    }
+
+    #u24433:hover {
+        width: 100%;
+    }
+
+    #u24434 {
+        width: 30.57%;
+    }
+
+    #u24433:hover #u24434 {
+        margin-top: 0px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24434 {
+        margin-top: 0px;
+        width: 30.57%;
+        margin-left: 0%;
+    }
+
+    #u24436-4 {
+        min-height: 49px;
+        margin-top: 21px;
+        width: 55.03%;
+        left: 38%;
+    }
+
+    #u24433:hover #u24436-4 {
+        margin-top: 21px;
+        min-height: 49px;
+        width: 55.03%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24436-4 {
+        margin-top: 21px;
+        min-height: 49px;
+        width: 55.03%;
+        margin-left: 0%;
+    }
+
+    #u24433popup {
+        height: 70px;
+        margin-top: 10px;
+        width: 82.38%;
+    }
+
+    #u24421 {
+        padding-bottom: 12px;
+        width: 100%;
+    }
+
+    #u24433.PamphletThumbSelected,
+    #u24435,
+    #u24421:hover {
+        width: 100%;
+    }
+
+    #u24423 {
+        margin-top: 6px;
+        width: 22.31%;
+        left: 1.44%;
+    }
+
+    #u24421:hover #u24423 {
+        margin-top: 6px;
+        width: 22.31%;
+        margin-left: 0%;
+    }
+
+    #u24421.PamphletThumbSelected #u24423 {
+        margin-top: 6px;
+        width: 22.31%;
+        margin-left: 0%;
+    }
+
+    #u24422-6 {
+        min-height: 46px;
+        margin-top: 9px;
+        width: 68.71%;
+        left: 31.3%;
+    }
+
+    #u24421:hover #u24422-6 {
+        margin-top: 9px;
+        min-height: 46px;
+        width: 68.71%;
+    }
+
+    #u24421:active #u24422-6 {
+        margin-top: 9px;
+        min-height: 46px;
+        width: 68.71%;
+    }
+
+    #u24421.PamphletThumbSelected #u24422-6 {
+        margin-top: 9px;
+        min-height: 46px;
+        width: 68.71%;
+    }
+
+    #u24421popup {
+        height: 80px;
+        margin-top: 7px;
+        width: 100%;
+    }
+
+    #pu24417 {
+        z-index: 20;
+        margin-right: -10000px;
+        width: 29.27%;
+        margin-left: 70.74%;
+    }
+
+    #u24421.PamphletThumbSelected,
+    #u24424,
+    #u24417 {
+        width: 100%;
+    }
+
+    #u24417:hover {
+        width: 100%;
+    }
+
+    #u24419 {
+        width: 29.92%;
+    }
+
+    #u24417:hover #u24419 {
+        width: 29.92%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24419 {
+        width: 29.92%;
+        margin-left: 0%;
+    }
+
+    #u24418-4 {
+        min-height: 47px;
+        margin-top: 20px;
+        width: 58.49%;
+        left: 38.84%;
+    }
+
+    #u24417:hover #u24418-4 {
+        margin-top: 20px;
+        min-height: 47px;
+        width: 58.49%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24418-4 {
+        margin-top: 20px;
+        min-height: 47px;
+        width: 58.49%;
+        margin-left: 0%;
+    }
+
+    #u24417popup {
+        height: 67px;
+        width: 86.49%;
+    }
+
+    #u24441 {
+        padding-bottom: 1px;
+        width: 100%;
+    }
+
+    #u24417.PamphletThumbSelected,
+    #u24420,
+    #u24441:hover {
+        width: 100%;
+    }
+
+    #u24443 {
+        width: 23.94%;
+        left: 0.78%;
+    }
+
+    #u24441:hover #u24443 {
+        width: 23.94%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24443 {
+        width: 23.94%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected,
+    #u24444 {
+        width: 100%;
+    }
+
+    #u24442-4 {
+        min-height: 39px;
+        margin-top: 16px;
+        width: 66.41%;
+        left: 33.6%;
+    }
+
+    #u24441:hover #u24442-4 {
+        margin-top: 16px;
+        min-height: 39px;
+        width: 66.41%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24442-4 {
+        margin-top: 16px;
+        min-height: 39px;
+        width: 66.41%;
+        margin-left: 0%;
+    }
+
+    #u24441popup {
+        height: 64px;
+        margin-top: 19px;
+        width: 100%;
+    }
+
+    #u24468-4 {
+        min-height: 72px;
+        line-height: 36px;
+        font-size: 30px;
+    }
+
+    #u24468-4-bw {
+        z-index: 71;
+        min-height: 72px;
+        margin-top: 198px;
+    }
+
+    #u24550 {
+        height: 242px;
+    }
+
+    #u24550-bw {
+        margin-top: 601px;
+        height: 242px;
+    }
+
+    #u24551 {
+        margin-top: 29px;
+        width: 8.43%;
+        left: 0%;
+        margin-left: 45.79%;
+    }
+
+    #u24552 {
+        margin-bottom: 0.847457627118644%;
+        width: 100%;
+    }
+
+    #u24553-6 {
+        min-height: 57px;
+        line-height: 24px;
+        font-size: 20px;
+    }
+
+    #u24553-6-bw {
+        z-index: 80;
+        min-height: 57px;
+        margin-top: 21px;
+        left: 0px;
+        margin-left: 0px;
+    }
+
+    #u24554-4 {
+        width: 175px;
+        min-height: 32px;
+        margin-top: 13px;
+        left: -87px;
+    }
+
+    #u24554-4:hover {
+        margin-top: 13px;
+        min-height: 32px;
+        width: 175px;
+        left: -87px;
+    }
+
+    .css_verticalspacer .verticalspacer {
+        height: 100px !important;
+        min-height: 83px;
+    }
+
+
+    #u23861 {
+        min-height: 32px;
+        padding-bottom: 18px;
+    }
+
+    #u23859-8 {
+        z-index: 117;
+        min-height: 14px;
+        margin-top: 18px;
+        width: 76.08%;
+        left: 12%;
+    }
+
+    #u23861-bw {
+        min-height: 32px;
+        margin-top: -1px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .verticalspacer {
+        min-height: 83px;
+    }
+}
+
+@media (min-width: 961px) and (max-width: 1200px) {
+    #muse_css_mq {
+        background-color: #0004b0;
+    }
+
+    #bp_1200.active {
+        display: block;
+    }
+
+    #page {
+        min-height: 1240px;
+        max-width: 1200px;
+    }
+
+    #u23786 {
+        left: 100px;
+    }
+
+    #menuu23830 {
+        z-index: 92;
+        width: 400px;
+        height: 50px;
+        position: fixed;
+        top: 0px;
+        right: 200px;
+    }
+
+    #u23831 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #u23832 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u23835-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u23832:hover #u23835-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27205 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 100px;
+    }
+
+    #u27208 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832.MuseMenuActive,
+    #u27208:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27208.MuseMenuActive {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27209-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 18px;
+    }
+
+    #u23832.MuseMenuActive #u23835-4,
+    #u27208:hover #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27208.MuseMenuActive #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27296 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 200px;
+    }
+
+    #u27299 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27300-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u27299:hover #u27300-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27387 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 301px;
+    }
+
+    #u27390 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299.MuseMenuActive,
+    #u27390:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27390.MuseMenuActive {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27392-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u27299.MuseMenuActive #u27300-4,
+    #u27390:hover #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27390.MuseMenuActive #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u39312-4 {
+        z-index: 125;
+        right: 137px;
+    }
+
+    #u39313-4 {
+        z-index: 129;
+        right: 102px;
+    }
+
+    #pppamphletu24415 {
+        z-index: 0;
+        padding-bottom: 0px;
+        margin-right: -10000px;
+        margin-top: 50px;
+        width: 100%;
+    }
+
+    #ppamphletu24415 {
+        left: 0px;
+        margin-left: 0px;
+    }
+
+    #u24454 {
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24454popup {
+        height: 752px;
+        margin-left: 0%;
+    }
+
+    #u24456 {
+        height: 752px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24463 {
+        height: 752px;
+        background-image: url("../images/lrcp-productos-foto-gas avion - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24459 {
+        height: 752px;
+        background-image: url("../images/lrcp-productos-foto-diesel marino-u12367-fr3 - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24458 {
+        height: 752px;
+        background-image: url("../images/lrcp-productos-foto-diesel copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24460 {
+        height: 752px;
+        background-image: url("../images/lrcp-productos-foto-gas natural copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24455 {
+        height: 752px;
+        background-image: url("../images/lrcp-productos-foto-gasolina copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24462 {
+        height: 752px;
+        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24416 {
+        margin-top: 214px;
+        width: 67.92%;
+        left: 17.75%;
+    }
+
+    #pu24445 {
+        z-index: 64;
+        padding-bottom: 0px;
+        margin-right: -10000px;
+        width: 33.62%;
+    }
+
+    #u24445 {
+        width: 100%;
+    }
+
+    #u24445:hover {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24446 {
+        margin-top: 13px;
+        width: 27.36%;
+    }
+
+    #u24445:hover #u24446 {
+        margin-top: 13px;
+        width: 27.36%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24446 {
+        margin-top: 13px;
+        width: 27.36%;
+        margin-left: 0%;
+    }
+
+    #u24448-4 {
+        min-height: 47px;
+        margin-top: 30px;
+        width: 61.97%;
+        left: 38.04%;
+    }
+
+    #u24445:hover #u24448-4 {
+        margin-top: 30px;
+        min-height: 47px;
+        width: 61.97%;
+        margin-left: 0%;
+    }
+
+    #u24445:active #u24448-4 {
+        margin-top: 30px;
+        min-height: 47px;
+        width: 61.97%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24448-4 {
+        margin-top: 30px;
+        min-height: 47px;
+        width: 61.97%;
+        margin-left: 0%;
+    }
+
+    #u24445popup {
+        height: 77px;
+        width: 85.41%;
+    }
+
+    #u24447,
+    #u24429 {
+        width: 100%;
+    }
+
+    #u24429:hover {
+        width: 100%;
+    }
+
+    #u24431 {
+        width: 22.27%;
+        left: 0.37%;
+    }
+
+    #u24429:hover #u24431 {
+        width: 22.27%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24431 {
+        width: 22.27%;
+        margin-left: 0%;
+    }
+
+    #u24430-4 {
+        min-height: 45px;
+        margin-top: 16px;
+        width: 67.52%;
+        left: 32.49%;
+    }
+
+    #u24429:hover #u24430-4 {
+        margin-top: 16px;
+        min-height: 45px;
+        width: 67.52%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24430-4 {
+        margin-top: 16px;
+        min-height: 45px;
+        width: 67.52%;
+        margin-left: 0%;
+    }
+
+    #u24429popup {
+        height: 61px;
+        margin-top: 38px;
+        width: 100%;
+    }
+
+    #u24429.PamphletThumbSelected,
+    #u24432,
+    #u24425 {
+        width: 100%;
+    }
+
+    #u24425:hover {
+        width: 100%;
+    }
+
+    #u24426 {
+        width: 26.93%;
+    }
+
+    #u24425:hover #u24426 {
+        margin-top: 0px;
+        width: 26.93%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24426 {
+        margin-top: 0px;
+        width: 26.93%;
+        margin-left: 0%;
+    }
+
+    #u24428-4 {
+        min-height: 48px;
+        margin-top: 15px;
+        width: 61.97%;
+        left: 38.04%;
+    }
+
+    #u24425:hover #u24428-4 {
+        margin-top: 15px;
+        min-height: 48px;
+        width: 61.97%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24428-4 {
+        margin-top: 15px;
+        min-height: 48px;
+        width: 61.97%;
+        margin-left: 0%;
+    }
+
+    #u24425popup {
+        height: 63px;
+        margin-top: 36px;
+        width: 85.41%;
+    }
+
+    #pu24437 {
+        z-index: 43;
+        padding-bottom: 1px;
+        margin-right: -10000px;
+        margin-top: 13px;
+        width: 31.05%;
+        margin-left: 36.69%;
+    }
+
+    #u24425.PamphletThumbSelected,
+    #u24427,
+    #u24437 {
+        width: 100%;
+    }
+
+    #u24437:hover {
+        width: 100%;
+    }
+
+    #u24439 {
+        width: 24.9%;
+    }
+
+    #u24437:hover #u24439 {
+        margin-top: 0px;
+        width: 24.9%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24439 {
+        margin-top: 0px;
+        width: 24.9%;
+        margin-left: 0%;
+    }
+
+    #u24438-4 {
+        min-height: 45px;
+        margin-top: 16px;
+        width: 65.72%;
+        left: 34.29%;
+    }
+
+    #u24437:hover #u24438-4 {
+        margin-top: 16px;
+        min-height: 45px;
+        width: 65.72%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24438-4 {
+        margin-top: 16px;
+        min-height: 45px;
+        width: 65.72%;
+        margin-left: 0%;
+    }
+
+    #u24437popup {
+        height: 62px;
+        width: 96.84%;
+        margin-left: 0.8%;
+    }
+
+    #u24433 {
+        padding-bottom: 11px;
+        width: 100%;
+    }
+
+    #u24437.PamphletThumbSelected,
+    #u24440,
+    #u24433:hover {
+        width: 100%;
+    }
+
+    #u24434 {
+        width: 25.7%;
+    }
+
+    #u24433:hover #u24434 {
+        margin-top: 0px;
+        width: 25.7%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24434 {
+        margin-top: 0px;
+        width: 25.7%;
+        margin-left: 0%;
+    }
+
+    #u24436-4 {
+        min-height: 42px;
+        margin-top: 19px;
+        width: 66.41%;
+        left: 33.6%;
+    }
+
+    #u24433:hover #u24436-4 {
+        margin-top: 19px;
+        min-height: 42px;
+        width: 66.41%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24436-4 {
+        margin-top: 19px;
+        min-height: 42px;
+        width: 66.41%;
+        margin-left: 0%;
+    }
+
+    #u24433popup {
+        height: 76px;
+        margin-top: 35px;
+        width: 100%;
+    }
+
+    #u24421 {
+        padding-bottom: 3px;
+        width: 100%;
+    }
+
+    #u24433.PamphletThumbSelected,
+    #u24435,
+    #u24421:hover {
+        width: 100%;
+    }
+
+    #u24423 {
+        width: 26.25%;
+        left: 0.42%;
+    }
+
+    #u24421:hover #u24423 {
+        margin-top: 0px;
+        width: 26.25%;
+        margin-left: 0%;
+    }
+
+    #u24421.PamphletThumbSelected #u24423 {
+        margin-top: 0px;
+        width: 26.25%;
+        margin-left: 0%;
+    }
+
+    #u24422-6 {
+        min-height: 47px;
+        margin-top: 4px;
+        width: 64.59%;
+        left: 35.42%;
+    }
+
+    #u24421:hover #u24422-6 {
+        margin-top: 4px;
+        min-height: 47px;
+        width: 64.59%;
+    }
+
+    #u24421:active #u24422-6 {
+        margin-top: 4px;
+        min-height: 47px;
+        width: 64.59%;
+    }
+
+    #u24421.PamphletThumbSelected #u24422-6 {
+        margin-top: 4px;
+        min-height: 47px;
+        width: 64.59%;
+    }
+
+    #u24421popup {
+        height: 66px;
+        margin-top: 25px;
+        width: 94.87%;
+    }
+
+    #pu24417 {
+        z-index: 20;
+        padding-bottom: 1px;
+        margin-right: -10000px;
+        margin-top: 13px;
+        width: 30.31%;
+        margin-left: 69.7%;
+    }
+
+    #u24417 {
+        padding-bottom: 2px;
+        width: 100%;
+    }
+
+    #u24421.PamphletThumbSelected,
+    #u24424,
+    #u24417:hover {
+        width: 100%;
+    }
+
+    #u24419 {
+        width: 27.73%;
+    }
+
+    #u24417:hover #u24419 {
+        width: 27.73%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24419 {
+        width: 27.73%;
+        margin-left: 0%;
+    }
+
+    #u24418-4 {
+        min-height: 45px;
+        margin-top: 16px;
+        width: 61.37%;
+        left: 38.19%;
+    }
+
+    #u24417:hover #u24418-4 {
+        margin-top: 16px;
+        min-height: 45px;
+        width: 61.37%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24418-4 {
+        margin-top: 16px;
+        min-height: 45px;
+        width: 61.37%;
+        margin-left: 0%;
+    }
+
+    #u24417popup {
+        height: 63px;
+        width: 89.07%;
+    }
+
+    #u24417.PamphletThumbSelected,
+    #u24420,
+    #u24441 {
+        width: 100%;
+    }
+
+    #u24441:hover {
+        width: 100%;
+    }
+
+    #u24443 {
+        width: 24.3%;
+        left: 0.41%;
+    }
+
+    #u24441:hover #u24443 {
+        width: 24.3%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24443 {
+        width: 24.3%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected,
+    #u24444 {
+        width: 100%;
+    }
+
+    #u24442-4 {
+        min-height: 50px;
+        margin-top: 18px;
+        width: 66%;
+        left: 32.39%;
+    }
+
+    #u24441:hover #u24442-4 {
+        margin-top: 18px;
+        min-height: 50px;
+        width: 66%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24442-4 {
+        margin-top: 18px;
+        min-height: 50px;
+        width: 66%;
+        margin-left: 0%;
+    }
+
+    #u24441popup {
+        height: 68px;
+        margin-top: 35px;
+        width: 100%;
+    }
+
+    #u24468-4 {
+        min-height: 55px;
+        line-height: 36px;
+        font-size: 30px;
+    }
+
+    #u24468-4-bw {
+        z-index: 71;
+        min-height: 55px;
+        margin-top: 154px;
+    }
+
+    #u24550 {
+        height: 242px;
+    }
+
+    #u24550-bw {
+        margin-top: 601px;
+        height: 242px;
+    }
+
+    #u24551 {
+        top: -7px;
+        margin-bottom: -7px;
+        width: 8%;
+        left: 0%;
+        margin-left: 46.01%;
+    }
+
+    #u24552 {
+        margin-bottom: 1.0416666666666665%;
+        width: 100%;
+    }
+
+    #u24553-6 {
+        min-height: 61px;
+        line-height: 24px;
+        font-size: 20px;
+    }
+
+    #u24553-6-bw {
+        z-index: 80;
+        min-height: 61px;
+        margin-top: 20px;
+        left: 0px;
+        margin-left: 0px;
+    }
+
+    #u24554-4 {
+        width: 154px;
+        min-height: 30px;
+        margin-top: 6px;
+        left: -77px;
+    }
+
+    #u24554-4:hover {
+        margin-top: 6px;
+        min-height: 30px;
+        width: 154px;
+        left: -77px;
+    }
+
+    .css_verticalspacer .verticalspacer {
+        height: 100px !important;
+        min-height: 83px;
+    }
+
+
+    #u23861 {
+        min-height: 30px;
+        padding-bottom: 20px;
+    }
+
+    #u23859-8 {
+        z-index: 117;
+        min-height: 14px;
+        margin-top: 16px;
+        width: 71%;
+        left: 14.5%;
+    }
+
+    #u23861-bw {
+        min-height: 30px;
+        margin-top: -1px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .verticalspacer {
+        min-height: 90px;
+    }
+}
+
+@media (min-width: 781px) and (max-width: 960px) {
+    #muse_css_mq {
+        background-color: #0003c0;
+    }
+
+    #bp_960.active {
+        display: block;
+    }
+
+    #page {
+        min-height: 1100px;
+        max-width: 960px;
+    }
+
+    #u23786 {
+        left: 80px;
+    }
+
+    #menuu23830 {
+        z-index: 92;
+        width: 400px;
+        height: 50px;
+        position: fixed;
+        top: 0px;
+        right: 110px;
+    }
+
+    #u23831 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+    }
+
+    #u23832 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u23835-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 40px;
+    }
+
+    #u23832:hover #u23835-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27205 {
+        width: 98px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 100px;
+    }
+
+    #u27208 {
+        width: 98px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u23832.MuseMenuActive,
+    #u27208:hover {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27208.MuseMenuActive {
+        width: 98px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27209-4 {
+        width: 98px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 18px;
+    }
+
+    #u23832.MuseMenuActive #u23835-4,
+    #u27208:hover #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27208.MuseMenuActive #u27209-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 98px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27296 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 200px;
+    }
+
+    #u27299 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27300-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 18px;
+    }
+
+    #u27299:hover #u27300-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27387 {
+        width: 99px;
+        min-height: 50px;
+        position: relative;
+        margin-right: -10000px;
+        left: 301px;
+    }
+
+    #u27390 {
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
+
+    #u27299.MuseMenuActive,
+    #u27390:hover {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27390.MuseMenuActive {
+        width: 99px;
+        min-height: 0px;
+        margin: 0px;
+    }
+
+    #u27392-4 {
+        width: 99px;
+        min-height: 14px;
+        position: relative;
+        margin-right: -10000px;
+        top: 18px;
+    }
+
+    #u27299.MuseMenuActive #u27300-4,
+    #u27390:hover #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u27390.MuseMenuActive #u27392-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 14px;
+        width: 99px;
+        margin: 0px -10000px 0px 0px;
+    }
+
+    #u39312-4 {
+        z-index: 125;
+        right: 65px;
+    }
+
+    #u39313-4 {
+        z-index: 129;
+        right: 30px;
+    }
+
+    #pppamphletu24415 {
+        z-index: 0;
+        padding-bottom: 0px;
+        margin-right: -10000px;
+        margin-top: 50px;
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #ppamphletu24415 {
+        margin-left: 0%;
+    }
+
+    #pamphletu24415,
+    #u24454 {
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24454popup {
+        height: 622px;
+        margin-left: 0%;
+    }
+
+    #u24456 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24463 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-gas avion - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24459 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-diesel marino-u12367-fr3 - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24458 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-diesel copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24460 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-gas natural copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24455 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24462 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24457 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24416 {
+        margin-top: 208px;
+        width: 71.57%;
+        margin-left: 14.22%;
+        left: 14px;
+    }
+
+    #pu24445 {
+        z-index: 64;
+        margin-right: -10000px;
+        width: 34.79%;
+        margin-left: 32.61%;
+    }
+
+    #u24445 {
+        width: 100%;
+        margin-left: 0%;
+        left: -234px;
+    }
+
+    #u24445:hover {
+        width: 100%;
+        margin-left: 0%;
+        left: -234px;
+    }
+
+    #u24446 {
+        width: 28.77%;
+    }
+
+    #u24445:hover #u24446 {
+        margin-top: 0px;
+        width: 28.77%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24446 {
+        margin-top: 0px;
+        width: 28.77%;
+        margin-left: 0%;
+    }
+
+    #u24448-4 {
+        min-height: 47px;
+        margin-top: 16px;
+        width: 65.3%;
+        left: 34.71%;
+    }
+
+    #u24445:hover #u24448-4 {
+        margin-top: 16px;
+        min-height: 47px;
+        width: 65.3%;
+        margin-left: 0%;
+    }
+
+    #u24445:active #u24448-4 {
+        margin-top: 16px;
+        min-height: 47px;
+        width: 65.3%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24448-4 {
+        margin-top: 16px;
+        min-height: 47px;
+        width: 65.3%;
+        margin-left: 0%;
+    }
+
+    #u24445popup {
+        height: 63px;
+        width: 91.64%;
+        margin-left: 4.19%;
+    }
+
+    #u24429 {
+        padding-bottom: 1px;
+        width: 100%;
+        margin-left: 0%;
+        left: -224px;
+    }
+
+    #u24429:hover {
+        width: 100%;
+        left: -224px;
+    }
+
+    #u24429.PamphletThumbSelected {
+        width: 100%;
+        left: -224px;
+    }
+
+    #u24431 {
+        width: 26.36%;
+    }
+
+    #u24429:hover #u24431 {
+        width: 26.36%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24431 {
+        width: 26.36%;
+        margin-left: 0%;
+    }
+
+    #u24430-4 {
+        min-height: 46px;
+        margin-top: 17px;
+        width: 68.62%;
+        left: 31.39%;
+    }
+
+    #u24429:hover #u24430-4 {
+        margin-top: 17px;
+        min-height: 46px;
+        width: 68.62%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24430-4 {
+        margin-top: 17px;
+        min-height: 46px;
+        width: 68.62%;
+        margin-left: 0%;
+    }
+
+    #u24429popup {
+        height: 64px;
+        margin-top: 14px;
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected,
+    #u24425 {
+        width: 100%;
+        margin-left: 0%;
+        left: -234px;
+    }
+
+    #u24425:hover {
+        width: 100%;
+        left: -234px;
+    }
+
+    #u24425.PamphletThumbSelected {
+        width: 100%;
+        left: -234px;
+    }
+
+    #u24426 {
+        margin-top: 1px;
+        width: 27.86%;
+    }
+
+    #u24425:hover #u24426 {
+        margin-top: 1px;
+        width: 27.86%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24426 {
+        margin-top: 1px;
+        width: 27.86%;
+        margin-left: 0%;
+    }
+
+    #u24428-4 {
+        min-height: 44px;
+        margin-top: 18px;
+        width: 65.76%;
+        left: 34.25%;
+    }
+
+    #u24425:hover #u24428-4 {
+        margin-top: 18px;
+        min-height: 44px;
+        width: 65.76%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24428-4 {
+        margin-top: 18px;
+        min-height: 44px;
+        width: 65.76%;
+        margin-left: 0%;
+    }
+
+    #u24425popup {
+        height: 62px;
+        margin-top: 15px;
+        width: 91.64%;
+        margin-left: 4.19%;
+    }
+
+    #ppu24437 {
+        z-index: 0;
+        margin-right: -10000px;
+        width: 64.92%;
+        margin-left: 17.55%;
+    }
+
+    #pu24437 {
+        z-index: 43;
+        width: 92.38%;
+        margin-left: 3.82%;
+    }
+
+    #u24437 {
+        width: 100%;
+        margin-left: 0%;
+        left: -0.9999999999999858px;
+    }
+
+    #u24437:hover {
+        width: 100%;
+        left: -0.9999999999999858px;
+    }
+
+    #u24437.PamphletThumbSelected {
+        width: 100%;
+        left: -0.9999999999999858px;
+    }
+
+    #u24439 {
+        margin-top: 1px;
+        width: 29.76%;
+    }
+
+    #u24437:hover #u24439 {
+        margin-top: 1px;
+        width: 29.76%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24439 {
+        margin-top: 1px;
+        width: 29.76%;
+        margin-left: 0%;
+    }
+
+    #u24438-4 {
+        min-height: 48px;
+        margin-top: 15px;
+        width: 63.42%;
+        left: 36.59%;
+    }
+
+    #u24437:hover #u24438-4 {
+        margin-top: 15px;
+        min-height: 48px;
+        width: 63.42%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24438-4 {
+        margin-top: 15px;
+        min-height: 48px;
+        width: 63.42%;
+        margin-left: 0%;
+    }
+
+    #u24437popup {
+        height: 64px;
+        margin-right: -10000px;
+        width: 49.76%;
+        margin-left: 25.13%;
+    }
+
+    #u24417 {
+        padding-bottom: 1px;
+        width: 100%;
+        margin-left: 0%;
+        left: 211px;
+    }
+
+    #u24417:hover {
+        width: 100%;
+        left: 211px;
+    }
+
+    #u24417.PamphletThumbSelected {
+        width: 100%;
+        left: 211px;
+    }
+
+    #u24419 {
+        width: 31.29%;
+    }
+
+    #u24417:hover #u24419 {
+        width: 31.29%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24419 {
+        width: 31.29%;
+        margin-left: 0%;
+    }
+
+    #u24418-4 {
+        min-height: 46px;
+        margin-top: 15px;
+        width: 61.03%;
+        left: 38.47%;
+    }
+
+    #u24417:hover #u24418-4 {
+        margin-top: 15px;
+        min-height: 46px;
+        width: 61.03%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24418-4 {
+        margin-top: 15px;
+        min-height: 46px;
+        width: 61.03%;
+        margin-left: 0%;
+    }
+
+    #u24417popup {
+        height: 62px;
+        margin-right: -10000px;
+        width: 47.34%;
+        margin-left: 26.34%;
+    }
+
+    #pu24433 {
+        z-index: 36;
+        margin-top: 13px;
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24433 {
+        width: 100%;
+        margin-left: 0%;
+        left: 3.500000000000014px;
+    }
+
+    #u24433:hover {
+        width: 100%;
+        left: 3.500000000000014px;
+    }
+
+    #u24433.PamphletThumbSelected {
+        width: 100%;
+        left: 3.500000000000014px;
+    }
+
+    #u24434 {
+        width: 28.98%;
+    }
+
+    #u24433:hover #u24434 {
+        margin-top: 0px;
+        width: 28.98%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24434 {
+        margin-top: 0px;
+        width: 28.98%;
+        margin-left: 0%;
+    }
+
+    #u24436-4 {
+        min-height: 48px;
+        margin-top: 16px;
+        width: 64.96%;
+        left: 35.05%;
+    }
+
+    #u24433:hover #u24436-4 {
+        margin-top: 16px;
+        min-height: 48px;
+        width: 64.96%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24436-4 {
+        margin-top: 16px;
+        min-height: 48px;
+        width: 64.96%;
+        margin-left: 0%;
+    }
+
+    #u24433popup {
+        height: 64px;
+        margin-right: -10000px;
+        width: 47.99%;
+        margin-left: 26.01%;
+    }
+
+    #u24441 {
+        padding-bottom: 1px;
+        width: 100%;
+        margin-left: 0%;
+        left: 228.5px;
+    }
+
+    #u24441:hover {
+        width: 100%;
+        left: 228.5px;
+    }
+
+    #u24441.PamphletThumbSelected {
+        width: 100%;
+        left: 228.5px;
+    }
+
+    #u24443 {
+        width: 25.66%;
+        left: 0.44%;
+    }
+
+    #u24441:hover #u24443 {
+        width: 25.66%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24443 {
+        width: 25.66%;
+        margin-left: 0%;
+    }
+
+    #u24442-4 {
+        min-height: 46px;
+        margin-top: 14px;
+        width: 67.4%;
+        left: 32.61%;
+    }
+
+    #u24441:hover #u24442-4 {
+        margin-top: 14px;
+        min-height: 46px;
+        width: 67.4%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24442-4 {
+        margin-top: 14px;
+        min-height: 46px;
+        width: 67.4%;
+        margin-left: 0%;
+    }
+
+    #u24441popup {
+        margin-top: 1px;
+        height: 61px;
+        margin-right: -10000px;
+        width: 51.57%;
+        margin-left: 24.22%;
+    }
+
+    #u24421 {
+        padding-bottom: 9px;
+        width: 100%;
+        margin-left: 0%;
+        left: 12.000000000000014px;
+    }
+
+    #u24421:hover {
+        width: 100%;
+        left: 12.000000000000014px;
+    }
+
+    #u24421.PamphletThumbSelected {
+        width: 100%;
+        left: 12.000000000000014px;
+    }
+
+    #u24423 {
+        margin-top: 2px;
+        width: 24.68%;
+        left: 1.3%;
+    }
+
+    #u24421:hover #u24423 {
+        margin-top: 2px;
+        width: 24.68%;
+        margin-left: 0%;
+    }
+
+    #u24421.PamphletThumbSelected #u24423 {
+        margin-top: 2px;
+        width: 24.68%;
+        margin-left: 0%;
+    }
+
+    #u24422-6 {
+        min-height: 45px;
+        margin-top: 4px;
+        width: 67.54%;
+        left: 32.47%;
+    }
+
+    #u24421:hover #u24422-6 {
+        margin-top: 4px;
+        min-height: 45px;
+        width: 67.54%;
+    }
+
+    #u24421:active #u24422-6 {
+        margin-top: 4px;
+        min-height: 45px;
+        width: 67.54%;
+    }
+
+    #u24421.PamphletThumbSelected #u24422-6 {
+        margin-top: 4px;
+        min-height: 45px;
+        width: 67.54%;
+    }
+
+    #u24421popup {
+        height: 68px;
+        margin-top: 16px;
+        width: 51.8%;
+        margin-left: 24.11%;
+    }
+
+    #u24468-4 {
+        min-height: 52px;
+        line-height: 29px;
+        font-size: 24px;
+    }
+
+    #u24468-4-bw {
+        z-index: 71;
+        min-height: 52px;
+        margin-top: 148px;
+    }
+
+    #u24550 {
+        min-height: 242px;
+    }
+
+    #u24550_align_to_page {
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        width: 100%;
+    }
+
+    #u24551 {
+        margin-bottom: -23px;
+        margin-right: -10000px;
+        margin-top: 183px;
+        width: 8.55%;
+        left: 45.73%;
+    }
+
+    #u24447,
+    #u24432,
+    #u24427,
+    #u24440,
+    #u24420,
+    #u24435,
+    #u24444,
+    #u24424,
+    #u24552 {
+        width: 100%;
+    }
+
+    #u24550-bw {
+        min-height: 242px;
+        margin-top: 536px;
+    }
+
+    #u24553-6 {
+        min-height: 53px;
+        line-height: 22px;
+        font-size: 18px;
+    }
+
+    #u24553-6-bw {
+        z-index: 80;
+        min-height: 53px;
+        margin-top: 42px;
+    }
+
+    #u24554-4 {
+        width: 147px;
+        min-height: 30px;
+        margin-top: 12px;
+        left: -73px;
+    }
+
+    #u24554-4:hover {
+        margin-top: 12px;
+        min-height: 30px;
+        width: 147px;
+        left: -73px;
+    }
+
+    .css_verticalspacer .verticalspacer {
+        height: 100px !important;
+        min-height: 83px;
+    }
+
+
+    #u23861 {
+        min-height: 38px;
+        padding-bottom: 12px;
+    }
+
+    #u23859-8 {
+        z-index: 117;
+        min-height: 27px;
+        margin-top: 11px;
+        width: 72.09%;
+        left: 13.96%;
+    }
+
+    #u23861-bw {
+        min-height: 38px;
+        margin-top: -1px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .verticalspacer {
+        min-height: 85px;
+    }
+}
+
+@media (min-width: 381px) and (max-width: 780px) {
+    #muse_css_mq {
+        background-color: #00030c;
+    }
+
+    #bp_780.active {
+        display: block;
+    }
+
+    #page {
+        min-height: 1481px;
+        max-width: 780px;
+    }
+
+    #u23786 {
+        left: 60px;
+    }
+
+    #u39312-4 {
+        z-index: 144;
+        right: 131px;
+    }
+
+    #u39313-4 {
+        z-index: 148;
+        right: 96px;
+    }
+
+    #ppamphletu23788 {
+        z-index: 92;
+        height: 1343px;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #pamphletu23788 {
+        z-index: 92;
+        position: relative;
+        width: 81.03%;
+        left: 0%;
+        margin-left: 7.7%;
+    }
+
+    #pamphletu23788_position_content {
+        margin-bottom: -519px;
+        width: 100%;
+    }
+
+    #u23824 {
+        z-index: 93;
+        padding-bottom: 50px;
+        position: relative;
+        width: 7.44%;
+        margin-left: 102.22%;
+    }
+
+    #u23825 {
+        width: 47px;
+        height: 16px;
+        padding-top: 17px;
+        padding-bottom: 17px;
+        position: fixed;
+        top: 0px;
+        right: 27px;
+    }
+
+    #u23826 {
+        z-index: 96;
+        width: 16px;
+        height: 3px;
+        position: relative;
+        margin-left: 31.92%;
+    }
+
+    #u23825.PamphletThumbSelected #u23826 {
+        width: 16px;
+        height: 3px;
+        min-height: 0px;
+        margin: 0px 0px 0px 31.914893617021278%;
+    }
+
+    #u23827 {
+        z-index: 97;
+        width: 16px;
+        height: 3px;
+        margin-top: 3px;
+        position: relative;
+        margin-left: 31.92%;
+    }
+
+    #u23825.PamphletThumbSelected #u23827 {
+        width: 16px;
+        height: 3px;
+        min-height: 0px;
+        margin: 3px 0px 0px 31.914893617021278%;
+    }
+
+    #u23828 {
+        z-index: 95;
+        width: 16px;
+        height: 3px;
+        margin-top: 4px;
+        position: relative;
+        margin-left: 31.92%;
+    }
+
+    #u23825.PamphletThumbSelected #u23828 {
+        width: 16px;
+        height: 3px;
+        min-height: 0px;
+        margin: 4px 0px 0px 31.914893617021278%;
+    }
+
+    #pu23789 {
+        z-index: 98;
+        width: 100%;
+        margin-left: 2.22%;
+    }
+
+    #u23789 {
+        position: absolute;
+        width: 100%;
+    }
+
+    #u23789popup {
+        z-index: 98;
+        height: 520px;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u23790 {
+        z-index: 99;
+        padding-bottom: 57px;
+        margin-right: -10000px;
+        position: relative;
+        width: 100%;
+    }
+
+    #menuu23791 {
+        z-index: 100;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 69px;
+        width: 92.09%;
+        left: 3.96%;
+    }
+
+    #u23807 {
+        min-height: 29px;
+        padding-bottom: 49px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u23809-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 24px;
+        width: 100%;
+    }
+
+    #u27481 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u27483-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u27572 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u27573-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u27665 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u27667-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u23806,
+    #u27480,
+    #u27571,
+    #u27662,
+    #u27753 {
+        position: relative;
+        width: 100%;
+    }
+
+    #u27754 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u23807.MuseMenuActive,
+    #u27481.MuseMenuActive,
+    #u27572.MuseMenuActive,
+    #u27665.MuseMenuActive,
+    #u27754.MuseMenuActive {
+        min-height: 29px;
+        width: 100%;
+        margin: 0px -10000px 0px 0%;
+    }
+
+    #u27757-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u23807.MuseMenuActive #u23809-4,
+    #u27481.MuseMenuActive #u27483-4,
+    #u27572.MuseMenuActive #u27573-4,
+    #u27665.MuseMenuActive #u27667-4,
+    #u27754.MuseMenuActive #u27757-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 29px;
+        width: 100%;
+        margin: 0px -10000px 0px 0%;
+    }
+
+    #u23822 {
+        position: absolute;
+        padding-bottom: 3px;
+        width: 100%;
+    }
+
+    #u23823-4 {
+        z-index: 132;
+        min-height: 22px;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 5px;
+        width: 98.11%;
+        left: 1.04%;
+    }
+
+    #u23822popup {
+        margin-top: 27px;
+        height: 30px;
+        margin-right: -10000px;
+        width: 91.78%;
+        margin-left: 4.12%;
+    }
+
+    #ppamphletu24415 {
+        margin-left: 0%;
+    }
+
+    #pamphletu24415,
+    #u24454 {
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24454popup {
+        height: 963px;
+        margin-left: 0%;
+    }
+
+    #u24457 {
+        height: 622px;
+        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24456 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24463 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-gas avion - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24459 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-diesel marino-u12367-fr3 - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24458 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-diesel copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24460 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-gas natural copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24455 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24462 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-gas lp - Copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24457 {
+        height: 963px;
+        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr copy.jpg");
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24416 {
+        padding-bottom: 0px;
+        margin-top: 197px;
+        width: 33.47%;
+        left: 37.18%;
+    }
+
+    #u24445 {
+        width: 259px;
+        height: 63px;
+        margin-left: 50%;
+        left: -260.5px;
+    }
+
+    #u24445:hover {
+        width: 259px;
+        height: 63px;
+        margin-left: 50%;
+        left: -260.5px;
+    }
+
+    #u24445.PamphletThumbSelected {
+        width: 259px;
+        height: 63px;
+        margin-left: 50%;
+        left: -260.5px;
+    }
+
+    #u24446 {
+        width: 63px;
+    }
+
+    #u24445:hover #u24446 {
+        margin-left: 0px;
+        margin-top: 0px;
+        width: 63px;
+    }
+
+    #u24445.PamphletThumbSelected #u24446 {
+        margin-left: 0px;
+        margin-top: 0px;
+        width: 63px;
+    }
+
+    #u24448-4 {
+        width: 183px;
+        min-height: 46px;
+        margin-top: 17px;
+        left: 76px;
+    }
+
+    #u24445:hover #u24448-4 {
+        margin-left: 0px;
+        margin-top: 17px;
+        min-height: 46px;
+        width: 183px;
+    }
+
+    #u24445:active #u24448-4 {
+        margin-left: 0px;
+        margin-top: 17px;
+        min-height: 46px;
+        width: 183px;
+    }
+
+    #u24445.PamphletThumbSelected #u24448-4 {
+        margin-left: 0px;
+        margin-top: 17px;
+        min-height: 46px;
+        width: 183px;
+    }
+
+    #u24445popup {
+        width: 259px;
+        height: 63px;
+        margin-left: 50%;
+    }
+
+    #u24429 {
+        width: 260px;
+        height: 63px;
+        padding-bottom: 1px;
+    }
+
+    #u24429:hover {
+        width: 260px;
+        height: 63px;
+    }
+
+    #u24431 {
+        width: 63px;
+    }
+
+    #u24429:hover #u24431 {
+        margin-left: 0px;
+        width: 63px;
+    }
+
+    #u24429.PamphletThumbSelected #u24431 {
+        margin-left: 0px;
+        width: 63px;
+    }
+
+    #u24430-4 {
+        width: 185px;
+        min-height: 44px;
+        margin-top: 19px;
+        left: 75px;
+    }
+
+    #u24429:hover #u24430-4 {
+        margin-left: 0px;
+        margin-top: 19px;
+        min-height: 44px;
+        width: 185px;
+    }
+
+    #u24429.PamphletThumbSelected #u24430-4 {
+        margin-left: 0px;
+        margin-top: 19px;
+        min-height: 44px;
+        width: 185px;
+    }
+
+    #u24425 {
+        width: 260px;
+        height: 62px;
+    }
+
+    #u24425:hover {
+        width: 260px;
+        height: 62px;
+    }
+
+    #u24425.PamphletThumbSelected {
+        width: 260px;
+        height: 62px;
+    }
+
+    #u24426 {
+        width: 61px;
+        margin-top: 1px;
+    }
+
+    #u24425:hover #u24426 {
+        margin-left: 0px;
+        margin-top: 1px;
+        width: 61px;
+    }
+
+    #u24425.PamphletThumbSelected #u24426 {
+        margin-left: 0px;
+        margin-top: 1px;
+        width: 61px;
+    }
+
+    #u24428-4 {
+        width: 185px;
+        min-height: 43px;
+        margin-top: 19px;
+        left: 75px;
+    }
+
+    #u24425:hover #u24428-4 {
+        margin-left: 0px;
+        margin-top: 19px;
+        min-height: 43px;
+        width: 185px;
+    }
+
+    #u24425.PamphletThumbSelected #u24428-4 {
+        margin-left: 0px;
+        margin-top: 19px;
+        min-height: 43px;
+        width: 185px;
+    }
+
+    #u24425popup {
+        width: 260px;
+        height: 62px;
+        margin-top: 26px;
+    }
+
+    #u24429.PamphletThumbSelected,
+    #u24437 {
+        width: 260px;
+        height: 63px;
+    }
+
+    #u24437:hover {
+        width: 260px;
+        height: 63px;
+    }
+
+    #u24439 {
+        width: 61px;
+        margin-top: 1px;
+        margin-left: 50%;
+        left: -130px;
+    }
+
+    #u24437:hover #u24439 {
+        margin-top: 1px;
+        width: 61px;
+        margin-left: 50%;
+        left: -130px;
+    }
+
+    #u24437.PamphletThumbSelected #u24439 {
+        margin-top: 1px;
+        width: 61px;
+        margin-left: 50%;
+        left: -130px;
+    }
+
+    #u24438-4 {
+        width: 185px;
+        min-height: 48px;
+        margin-top: 15px;
+        margin-left: 50%;
+        left: -55px;
+    }
+
+    #u24437:hover #u24438-4 {
+        margin-top: 15px;
+        min-height: 48px;
+        width: 185px;
+        margin-left: 50%;
+        left: -55px;
+    }
+
+    #u24437.PamphletThumbSelected #u24438-4 {
+        margin-top: 15px;
+        min-height: 48px;
+        width: 185px;
+        margin-left: 50%;
+        left: -55px;
+    }
+
+    #u24429popup,
+    #u24437popup {
+        width: 260px;
+        height: 64px;
+        margin-top: 25px;
+    }
+
+    #u24437.PamphletThumbSelected,
+    #u24433 {
+        width: 260px;
+        height: 63px;
+    }
+
+    #u24433:hover {
+        width: 260px;
+        height: 63px;
+    }
+
+    #u24433.PamphletThumbSelected {
+        width: 260px;
+        height: 63px;
+    }
+
+    #u24434 {
+        width: 58px;
+        margin-top: 3px;
+        margin-left: 50%;
+        left: -128px;
+    }
+
+    #u24433:hover #u24434 {
+        margin-top: 3px;
+        width: 58px;
+        margin-left: 50%;
+        left: -128px;
+    }
+
+    #u24433.PamphletThumbSelected #u24434 {
+        margin-top: 3px;
+        width: 58px;
+        margin-left: 50%;
+        left: -128px;
+    }
+
+    #u24436-4 {
+        width: 185px;
+        min-height: 47px;
+        margin-top: 16px;
+        margin-left: 50%;
+        left: -55px;
+    }
+
+    #u24433:hover #u24436-4 {
+        margin-top: 16px;
+        min-height: 47px;
+        width: 185px;
+        margin-left: 50%;
+        left: -55px;
+    }
+
+    #u24433.PamphletThumbSelected #u24436-4 {
+        margin-top: 16px;
+        min-height: 47px;
+        width: 185px;
+        margin-left: 50%;
+        left: -55px;
+    }
+
+    #u24433popup {
+        width: 260px;
+        height: 63px;
+        margin-top: 25px;
+    }
+
+    #u24421 {
+        width: 261px;
+        height: 59px;
+        padding-bottom: 11px;
+    }
+
+    #u24421:hover {
+        width: 261px;
+        height: 59px;
+    }
+
+    #u24421.PamphletThumbSelected {
+        width: 261px;
+        height: 59px;
+    }
+
+    #u24423 {
+        width: 57px;
+        margin-top: 2px;
+        margin-left: 50%;
+        left: -129px;
+    }
+
+    #u24421:hover #u24423 {
+        margin-top: 2px;
+        width: 57px;
+        margin-left: 50%;
+        left: -129px;
+    }
+
+    #u24421.PamphletThumbSelected #u24423 {
+        margin-top: 2px;
+        width: 57px;
+        margin-left: 50%;
+        left: -129px;
+    }
+
+    #u24422-6 {
+        width: 186px;
+        min-height: 46px;
+        margin-top: 5px;
+        left: 28.74%;
+    }
+
+    #u24421:hover #u24422-6 {
+        margin-top: 5px;
+        min-height: 46px;
+        width: 186px;
+    }
+
+    #u24421:active #u24422-6 {
+        margin-top: 5px;
+        min-height: 46px;
+        width: 186px;
+    }
+
+    #u24421.PamphletThumbSelected #u24422-6 {
+        margin-top: 5px;
+        min-height: 46px;
+        width: 186px;
+    }
+
+    #u24421popup {
+        width: 261px;
+        height: 70px;
+        margin-top: 26px;
+    }
+
+    #u24417 {
+        width: 261px;
+        height: 61px;
+        padding-bottom: 1px;
+    }
+
+    #u24417:hover {
+        width: 261px;
+        height: 61px;
+    }
+
+    #u24417.PamphletThumbSelected {
+        width: 261px;
+        height: 61px;
+    }
+
+    #u24419 {
+        width: 61px;
+        margin-left: 100%;
+        left: -261px;
+    }
+
+    #u24417:hover #u24419 {
+        width: 61px;
+        margin-left: 100%;
+        left: -261px;
+    }
+
+    #u24417.PamphletThumbSelected #u24419 {
+        width: 61px;
+        margin-left: 100%;
+        left: -261px;
+    }
+
+    #u24418-4 {
+        width: 186px;
+        min-height: 46px;
+        margin-top: 15px;
+        margin-left: 100%;
+        left: -186px;
+    }
+
+    #u24417:hover #u24418-4 {
+        margin-top: 15px;
+        min-height: 46px;
+        width: 186px;
+        margin-left: 100%;
+        left: -186px;
+    }
+
+    #u24417.PamphletThumbSelected #u24418-4 {
+        margin-top: 15px;
+        min-height: 46px;
+        width: 186px;
+        margin-left: 100%;
+        left: -186px;
+    }
+
+    #u24417popup {
+        width: 261px;
+        height: 62px;
+        margin-top: 23px;
+    }
+
+    #u24441 {
+        width: 261px;
+        height: 60px;
+        padding-bottom: 1px;
+    }
+
+    #u24441:hover {
+        width: 261px;
+        height: 60px;
+    }
+
+    #u24441.PamphletThumbSelected {
+        width: 261px;
+        height: 60px;
+    }
+
+    #u24443 {
+        width: 59px;
+        margin-left: 100%;
+        left: -260px;
+    }
+
+    #u24441:hover #u24443 {
+        width: 59px;
+        margin-left: 100%;
+        left: -260px;
+    }
+
+    #u24441.PamphletThumbSelected #u24443 {
+        width: 59px;
+        margin-left: 100%;
+        left: -260px;
+    }
+
+    #u24442-4 {
+        width: 186px;
+        min-height: 45px;
+        margin-top: 15px;
+        margin-left: 100%;
+        left: -186px;
+    }
+
+    #u24441:hover #u24442-4 {
+        margin-top: 15px;
+        min-height: 45px;
+        width: 186px;
+        margin-left: 100%;
+        left: -186px;
+    }
+
+    #u24441.PamphletThumbSelected #u24442-4 {
+        margin-top: 15px;
+        min-height: 45px;
+        width: 186px;
+        margin-left: 100%;
+        left: -186px;
+    }
+
+    #u24441popup {
+        width: 261px;
+        height: 61px;
+        margin-top: 25px;
+    }
+
+    #u24468-4 {
+        min-height: 72px;
+        line-height: 29px;
+        font-size: 24px;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 82px;
+        width: 59.88%;
+        margin-left: 20.07%;
+        left: 1px;
+    }
+
+    #u24550 {
+        height: 242px;
+    }
+
+    #u24550-bw {
+        margin-top: 881px;
+        height: 242px;
+    }
+
+    #u24551 {
+        width: 82px;
+        margin-right: -10000px;
+        margin-top: 1082px;
+        margin-left: 50%;
+        left: -41px;
+    }
+
+    #u24553-6 {
+        min-height: 53px;
+        line-height: 24px;
+        font-size: 20px;
+    }
+
+    #u24553-6-bw {
+        z-index: 80;
+        min-height: 53px;
+        margin-top: 21px;
+        left: 0px;
+        margin-left: 0px;
+    }
+
+    #u24554-4 {
+        width: 119px;
+        min-height: 30px;
+        margin-top: 24px;
+        left: -59px;
+    }
+
+    #u24554-4:hover {
+        margin-top: 24px;
+        min-height: 30px;
+        width: 119px;
+        left: -59px;
+    }
+
+    .css_verticalspacer .verticalspacer {
+        height: 100px !important;
+        min-height: 83px;
+    }
+
+    #u23861 {
+        min-height: 41px;
+        padding-bottom: 9px;
+    }
+
+    #u23859-8 {
+        z-index: 136;
+        min-height: 32px;
+        margin-top: 9px;
+        width: 88.72%;
+        left: 5.65%;
+    }
+
+    #u23861-bw {
+        min-height: 41px;
+        margin-top: 2px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .verticalspacer {
+        min-height: 85px;
+    }
+}
+
+@media (max-width: 380px) {
+    #muse_css_mq {
+        background-color: #00017c;
+    }
+
+    #bp_380.active {
+        display: block;
+    }
+
+    #page {
+        min-height: 1556px;
+        max-width: 380px;
+    }
+
+    #u23786 {
+        left: 40px;
+    }
+
+    #u39312-4 {
+        z-index: 144;
+        right: 129px;
+    }
+
+    #u39313-4 {
+        z-index: 148;
+        right: 94px;
+    }
+
+    #ppamphletu23788 {
+        z-index: 92;
+        height: 1413px;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #pamphletu23788 {
+        z-index: 92;
+        position: relative;
+        width: 88.16%;
+        left: 0%;
+        margin-left: 6.06%;
+    }
+
+    #pamphletu23788_position_content {
+        margin-bottom: -519px;
+        width: 100%;
+    }
+
+    #u23824 {
+        z-index: 93;
+        padding-bottom: 50px;
+        position: relative;
+        width: 14.03%;
+        margin-left: 80.9%;
+    }
+
+    #u23825 {
+        width: 47px;
+        height: 16px;
+        padding-top: 16px;
+        padding-bottom: 18px;
+        position: fixed;
+        top: 0px;
+        right: 39px;
+    }
+
+    #u23826 {
+        z-index: 96;
+        width: 16px;
+        height: 3px;
+        position: relative;
+        margin-left: 31.92%;
+    }
+
+    #u23825.PamphletThumbSelected #u23826 {
+        width: 16px;
+        height: 3px;
+        min-height: 0px;
+        margin: 0px 0px 0px 31.914893617021278%;
+    }
+
+    #u23827 {
+        z-index: 97;
+        width: 16px;
+        height: 3px;
+        margin-top: 3px;
+        position: relative;
+        margin-left: 31.92%;
+    }
+
+    #u23825.PamphletThumbSelected #u23827 {
+        width: 16px;
+        height: 3px;
+        min-height: 0px;
+        margin: 3px 0px 0px 31.914893617021278%;
+    }
+
+    #u23828 {
+        z-index: 95;
+        width: 16px;
+        height: 3px;
+        margin-top: 4px;
+        position: relative;
+        margin-left: 31.92%;
+    }
+
+    #u23825.PamphletThumbSelected #u23828 {
+        width: 16px;
+        height: 3px;
+        min-height: 0px;
+        margin: 4px 0px 0px 31.914893617021278%;
+    }
+
+    #pu23789 {
+        z-index: 98;
+        margin-top: 4px;
+        width: 100%;
+    }
+
+    #u23789 {
+        position: absolute;
+        width: 100%;
+    }
+
+    #u23789popup {
+        z-index: 98;
+        height: 515px;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u23790 {
+        z-index: 99;
+        padding-bottom: 52px;
+        margin-right: -10000px;
+        position: relative;
+        width: 100%;
+    }
+
+    #menuu23791 {
+        z-index: 100;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 69px;
+        width: 92.84%;
+        left: 3.59%;
+    }
+
+    #u23807 {
+        min-height: 29px;
+        padding-bottom: 49px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u23809-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 24px;
+        width: 100%;
+    }
+
+    #u27481 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u27483-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u27572 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u27573-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u27665 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u27667-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u23806,
+    #u27480,
+    #u27571,
+    #u27662,
+    #u27753 {
+        position: relative;
+        width: 100%;
+    }
+
+    #u27754 {
+        min-height: 29px;
+        padding-bottom: 50px;
+        position: relative;
+        margin-right: -10000px;
+        width: 100%;
+    }
+
+    #u23807.MuseMenuActive,
+    #u27481.MuseMenuActive,
+    #u27572.MuseMenuActive,
+    #u27665.MuseMenuActive,
+    #u27754.MuseMenuActive {
+        min-height: 29px;
+        width: 100%;
+        margin: 0px -10000px 0px 0%;
+    }
+
+    #u27757-4 {
+        min-height: 29px;
+        position: relative;
+        margin-right: -10000px;
+        top: 25px;
+        width: 100%;
+    }
+
+    #u23807.MuseMenuActive #u23809-4,
+    #u27481.MuseMenuActive #u27483-4,
+    #u27572.MuseMenuActive #u27573-4,
+    #u27665.MuseMenuActive #u27667-4,
+    #u27754.MuseMenuActive #u27757-4 {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        min-height: 29px;
+        width: 100%;
+        margin: 0px -10000px 0px 0%;
+    }
+
+    #u23822 {
+        position: absolute;
+        padding-bottom: 3px;
+        width: 100%;
+    }
+
+    #u23823-4 {
+        z-index: 132;
+        min-height: 22px;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 5px;
+        width: 74.2%;
+        left: 12.91%;
+    }
+
+    #u23822popup {
+        margin-top: 22px;
+        height: 30px;
+        margin-right: -10000px;
+        width: 9.26%;
+        margin-left: 45.38%;
+    }
+
+    #ppamphletu24415 {
+        margin-left: 0%;
+    }
+
+    #pamphletu24415 {
+        margin-left: 0%;
+        left: 0px;
+    }
+
+    #u24454popup {
+        height: 1066px;
+    }
+
+    #u24456 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-gas%20natural.jpg?crc=401588418");
+    }
+
+    #u24463 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-gas%20lp.jpg?crc=4162347015");
+    }
+
+    #u24459 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-gas%20avion.jpg?crc=346465254");
+    }
+
+    #u24458 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-turbosina.jpg?crc=270611160");
+    }
+
+    #u24460 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-biodiesel.jpg?crc=4115163416");
+    }
+
+    #u24455 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-gasolina.jpg?crc=11480550");
+    }
+
+    #u24462 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-diesel%20marino.jpg?crc=40226398");
+    }
+
+    #u24457 {
+        height: 1066px;
+        background-image: url("../images/lrcp-productos-foto-diesel.jpg?crc=3777195829");
+    }
+
+    #u24416 {
+        margin-top: 267px;
+        width: 67.9%;
+        left: 25.27%;
+    }
+
+    #u24445 {
+        width: 100%;
+    }
+
+    #u24445:hover {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    #u24446 {
+        width: 24.71%;
+    }
+
+    #u24445:hover #u24446 {
+        margin-top: 0px;
+        width: 24.71%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24446 {
+        margin-top: 0px;
+        width: 24.71%;
+        margin-left: 0%;
+    }
+
+    #u24448-4 {
+        min-height: 50px;
+        margin-top: 13px;
+        width: 70.2%;
+        left: 29.81%;
+    }
+
+    #u24445:hover #u24448-4 {
+        margin-top: 13px;
+        min-height: 50px;
+        width: 70.2%;
+        margin-left: 0%;
+    }
+
+    #u24445:active #u24448-4 {
+        margin-top: 13px;
+        min-height: 50px;
+        width: 70.2%;
+        margin-left: 0%;
+    }
+
+    #u24445.PamphletThumbSelected #u24448-4 {
+        margin-top: 13px;
+        min-height: 50px;
+        width: 70.2%;
+        margin-left: 0%;
+    }
+
+    #u24445popup {
+        height: 63px;
+        width: 98.84%;
+    }
+
+    #u24429 {
+        padding-bottom: 1px;
+        width: 100%;
+    }
+
+    #u24447,
+    #u24429:hover {
+        width: 100%;
+    }
+
+    #u24431 {
+        width: 24.42%;
+    }
+
+    #u24429:hover #u24431 {
+        width: 24.42%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24431 {
+        width: 24.42%;
+        margin-left: 0%;
+    }
+
+    #u24430-4 {
+        min-height: 47px;
+        margin-top: 16px;
+        width: 70.94%;
+        left: 29.07%;
+    }
+
+    #u24429:hover #u24430-4 {
+        margin-top: 16px;
+        min-height: 47px;
+        width: 70.94%;
+        margin-left: 0%;
+    }
+
+    #u24429.PamphletThumbSelected #u24430-4 {
+        margin-top: 16px;
+        min-height: 47px;
+        width: 70.94%;
+        margin-left: 0%;
+    }
+
+    #u24429popup {
+        height: 64px;
+        margin-top: 26px;
+        width: 100%;
+    }
+
+    #u24429.PamphletThumbSelected,
+    #u24432,
+    #u24425 {
+        width: 100%;
+    }
+
+    #u24425:hover {
+        width: 100%;
+    }
+
+    #u24426 {
+        margin-top: 1px;
+        width: 24.02%;
+    }
+
+    #u24425:hover #u24426 {
+        margin-top: 1px;
+        width: 24.02%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24426 {
+        margin-top: 1px;
+        width: 24.02%;
+        margin-left: 0%;
+    }
+
+    #u24428-4 {
+        min-height: 47px;
+        margin-top: 15px;
+        width: 70.48%;
+        left: 29.53%;
+    }
+
+    #u24425:hover #u24428-4 {
+        margin-top: 15px;
+        min-height: 47px;
+        width: 70.48%;
+        margin-left: 0%;
+    }
+
+    #u24425.PamphletThumbSelected #u24428-4 {
+        margin-top: 15px;
+        min-height: 47px;
+        width: 70.48%;
+        margin-left: 0%;
+    }
+
+    #u24425popup {
+        height: 62px;
+        margin-top: 27px;
+        width: 98.45%;
+    }
+
+    #u24425.PamphletThumbSelected,
+    #u24427,
+    #u24437 {
+        width: 100%;
+    }
+
+    #u24437:hover {
+        width: 100%;
+    }
+
+    #u24439 {
+        margin-top: 1px;
+        width: 24.21%;
+    }
+
+    #u24437:hover #u24439 {
+        margin-top: 1px;
+        width: 24.21%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24439 {
+        margin-top: 1px;
+        width: 24.21%;
+        margin-left: 0%;
+    }
+
+    #u24438-4 {
+        min-height: 49px;
+        margin-top: 14px;
+        width: 70.24%;
+        left: 29.77%;
+    }
+
+    #u24437:hover #u24438-4 {
+        margin-top: 14px;
+        min-height: 49px;
+        width: 70.24%;
+        margin-left: 0%;
+    }
+
+    #u24437.PamphletThumbSelected #u24438-4 {
+        margin-top: 14px;
+        min-height: 49px;
+        width: 70.24%;
+        margin-left: 0%;
+    }
+
+    #u24437popup {
+        height: 64px;
+        margin-top: 26px;
+        width: 97.68%;
+    }
+
+    #u24437.PamphletThumbSelected,
+    #u24440,
+    #u24433 {
+        width: 100%;
+    }
+
+    #u24433:hover {
+        width: 100%;
+    }
+
+    #u24434 {
+        margin-top: 3px;
+        width: 22.93%;
+        left: 0.8%;
+    }
+
+    #u24433:hover #u24434 {
+        margin-top: 3px;
+        width: 22.93%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24434 {
+        margin-top: 3px;
+        width: 22.93%;
+        margin-left: 0%;
+    }
+
+    #u24436-4 {
+        min-height: 45px;
+        margin-top: 18px;
+        width: 70.36%;
+        left: 29.65%;
+    }
+
+    #u24433:hover #u24436-4 {
+        margin-top: 18px;
+        min-height: 45px;
+        width: 70.36%;
+        margin-left: 0%;
+    }
+
+    #u24433.PamphletThumbSelected #u24436-4 {
+        margin-top: 18px;
+        min-height: 45px;
+        width: 70.36%;
+        margin-left: 0%;
+    }
+
+    #u24433popup {
+        height: 63px;
+        margin-top: 26px;
+        width: 98.07%;
+    }
+
+    #u24421 {
+        padding-bottom: 11px;
+        width: 100%;
+    }
+
+    #u24433.PamphletThumbSelected,
+    #u24435,
+    #u24421:hover {
+        width: 100%;
+    }
+
+    #u24423 {
+        margin-top: 4px;
+        width: 22.53%;
+        left: 0.8%;
+    }
+
+    #u24421:hover #u24423 {
+        margin-top: 4px;
+        width: 22.53%;
+        margin-left: 0%;
+    }
+
+    #u24421.PamphletThumbSelected #u24423 {
+        margin-top: 4px;
+        width: 22.53%;
+        margin-left: 0%;
+    }
+
+    #u24422-6 {
+        min-height: 43px;
+        margin-top: 5px;
+        width: 70.36%;
+        left: 29.65%;
+    }
+
+    #u24421:hover #u24422-6 {
+        margin-top: 5px;
+        min-height: 43px;
+        width: 70.36%;
+    }
+
+    #u24421:active #u24422-6 {
+        margin-top: 5px;
+        min-height: 43px;
+        width: 70.36%;
+    }
+
+    #u24421.PamphletThumbSelected #u24422-6 {
+        margin-top: 5px;
+        min-height: 43px;
+        width: 70.36%;
+    }
+
+    #u24421popup {
+        height: 72px;
+        margin-top: 25px;
+        width: 98.07%;
+    }
+
+    #u24417 {
+        padding-bottom: 1px;
+        width: 100%;
+    }
+
+    #u24421.PamphletThumbSelected,
+    #u24424,
+    #u24417:hover {
+        width: 100%;
+    }
+
+    #u24419 {
+        width: 24.02%;
+    }
+
+    #u24417:hover #u24419 {
+        width: 24.02%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24419 {
+        width: 24.02%;
+        margin-left: 0%;
+    }
+
+    #u24418-4 {
+        min-height: 41px;
+        margin-top: 20px;
+        width: 70.48%;
+        left: 29.53%;
+    }
+
+    #u24417:hover #u24418-4 {
+        margin-top: 20px;
+        min-height: 41px;
+        width: 70.48%;
+        margin-left: 0%;
+    }
+
+    #u24417.PamphletThumbSelected #u24418-4 {
+        margin-top: 20px;
+        min-height: 41px;
+        width: 70.48%;
+        margin-left: 0%;
+    }
+
+    #u24417popup {
+        height: 62px;
+        margin-top: 17px;
+        width: 98.45%;
+    }
+
+    #u24441 {
+        padding-bottom: 1px;
+        width: 100%;
+    }
+
+    #u24417.PamphletThumbSelected,
+    #u24420,
+    #u24441:hover {
+        width: 100%;
+    }
+
+    #u24443 {
+        width: 23.33%;
+        left: 0.4%;
+    }
+
+    #u24441:hover #u24443 {
+        width: 23.33%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24443 {
+        width: 23.33%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected,
+    #u24444 {
+        width: 100%;
+    }
+
+    #u24442-4 {
+        min-height: 43px;
+        margin-top: 17px;
+        width: 70.36%;
+        left: 29.65%;
+    }
+
+    #u24441:hover #u24442-4 {
+        margin-top: 17px;
+        min-height: 43px;
+        width: 70.36%;
+        margin-left: 0%;
+    }
+
+    #u24441.PamphletThumbSelected #u24442-4 {
+        margin-top: 17px;
+        min-height: 43px;
+        width: 70.36%;
+        margin-left: 0%;
+    }
+
+    #u24441popup {
+        height: 61px;
+        margin-top: 27px;
+        width: 98.07%;
+    }
+
+    #u24468-4 {
+        min-height: 137px;
+        line-height: 29px;
+        font-size: 24px;
+        position: relative;
+        margin-right: -10000px;
+        margin-top: 82px;
+        width: 60%;
+        margin-left: 20%;
+        left: 0px;
+    }
+
+    #u24550 {
+        min-height: 242px;
+    }
+
+    #u24550_align_to_page {
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        width: 100%;
+    }
+
+    #u24551 {
+        width: 82px;
+        left: -41px;
+        margin: 190px -10000px -30px 50%;
+    }
+
+    #u24550-bw {
+        min-height: 242px;
+        margin-top: 966px;
+    }
+
+    #u24553-6 {
+        min-height: 57px;
+        line-height: 24px;
+        font-size: 20px;
+        margin-top: 250px;
+        position: relative;
+        width: 82.64%;
+        left: 0%;
+        margin-left: 8.69%;
+    }
+
+    #u24554-4 {
+        width: 119px;
+        min-height: 30px;
+        margin-top: 17px;
+        left: -59px;
+    }
+
+    #u24554-4:hover {
+        margin-top: 17px;
+        min-height: 30px;
+        width: 119px;
+        left: -59px;
+    }
+
+    .css_verticalspacer .verticalspacer {
+        height: 100px !important;
+        min-height: 83px;
+    }
+
+    #u23861 {
+        min-height: 42px;
+        padding-bottom: 8px;
+    }
+
+    #u23859-8 {
+        z-index: 136;
+        min-height: 32px;
+        margin-top: 6px;
+        width: 88.69%;
+        margin-left: 5.66%;
+        left: -1px;
+    }
+
+    #u23861-bw {
+        min-height: 42px;
+        margin-top: -1px;
+    }
+
+    body {
+        overflow-x: hidden;
+        min-width: 320px;
+    }
+
+    .verticalspacer {
+        min-height: 83px;
+    }
+}

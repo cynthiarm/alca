@@ -1,0 +1,703 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.lrcapitalpacifico.com" resolutions="1x" timestamp="1524597648599">
+  <folder name="css">
+    <file name="site_global.css" crc="513788154"/>
+    <file name="master_esp-master.css" crc="4098781803" ref="nosotros:aviso-de-privacidad:contacto:productos:cobertura:index"/>
+    <file name="nomq_preview_master_esp-master.css" crc="4066252480" ref="nosotros:aviso-de-privacidad:contacto:productos:cobertura:index"/>
+    <file name="master_eng-master.css" crc="414058067" ref="home:contact:territory:about-us:products:privacy-statement"/>
+    <file name="nomq_preview_master_eng-master.css" crc="158087701" ref="home:contact:territory:about-us:products:privacy-statement"/>
+    <file name="nosotros.css" crc="4116467937" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="4238782340" ref="nosotros"/>
+    <file name="home.css" crc="508820608" ref="home"/>
+    <file name="nomq_home.css" crc="4288550846" ref="home"/>
+    <file name="contact.css" crc="3821564680" ref="contact"/>
+    <file name="nomq_contact.css" crc="3798758656" ref="contact"/>
+    <file name="aviso-de-privacidad.css" crc="321006654" ref="aviso-de-privacidad"/>
+    <file name="nomq_aviso-de-privacidad.css" crc="187916561" ref="aviso-de-privacidad"/>
+    <file name="contacto.css" crc="4050397620" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="313080415" ref="contacto"/>
+    <file name="productos.css" crc="3952781032" ref="productos"/>
+    <file name="nomq_productos.css" crc="473649297" ref="productos"/>
+    <file name="territory.css" crc="4030318729" ref="territory"/>
+    <file name="nomq_territory.css" crc="298414735" ref="territory"/>
+    <file name="about-us.css" crc="4090671432" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="4025725826" ref="about-us"/>
+    <file name="cobertura.css" crc="4290670879" ref="cobertura"/>
+    <file name="nomq_cobertura.css" crc="429210257" ref="cobertura"/>
+    <file name="index.css" crc="4217087469" ref="index"/>
+    <file name="nomq_index.css" crc="3778226107" ref="index"/>
+    <file name="products.css" crc="3862133619" ref="products"/>
+    <file name="nomq_products.css" crc="371723334" ref="products"/>
+    <file name="privacy-statement.css" crc="406930533" ref="privacy-statement"/>
+    <file name="nomq_privacy-statement.css" crc="21147212" ref="privacy-statement"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:nosotros:cobertura:contacto:productos:home:products:territory:about-us"/>
+    <file name="webpro.js" crc="242022427" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u5447.php" crc="4207392008" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="require.js" crc="4157109226" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="form-u8437.php" crc="517538658" ref="contacto"/>
+    <file name="form-u22131.php" crc="4207392008" ref="home"/>
+    <file name="form-u26202.php" crc="4179443762" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="esp-master-favicon.ico" crc="4077564559" ref="index"/>
+    <file name="lrcp-logo-home-negativo.svg" crc="4122307684" seo="true" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="productos" alt=""/>
+      <caption webpage="cobertura" alt=""/>
+      <caption webpage="cobertura" alt=""/>
+      <caption webpage="cobertura" alt=""/>
+      <caption webpage="cobertura" alt=""/>
+      <caption webpage="cobertura" alt=""/>
+      <caption webpage="cobertura" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="territory" alt=""/>
+      <caption webpage="territory" alt=""/>
+      <caption webpage="territory" alt=""/>
+      <caption webpage="territory" alt=""/>
+      <caption webpage="territory" alt=""/>
+      <caption webpage="territory" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="aviso-de-privacidad" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="privacy-statement" alt=""/>
+      <caption webpage="privacy-statement" alt=""/>
+      <caption webpage="privacy-statement" alt=""/>
+      <caption webpage="privacy-statement" alt=""/>
+      <caption webpage="privacy-statement" alt=""/>
+      <caption webpage="privacy-statement" alt=""/>
+    </file>
+    <file name="lrcp-logo home-negativo_poster_.png" crc="337885016" ref="index"/>
+    <file name="lrcp-home-slide-1.jpg" crc="521606397" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:cobertura:contacto:aviso-de-privacidad:productos:home:products:territory:contact:privacy-statement:about-us"/>
+    <file name="lrcp-home-slide-2.jpg" crc="4084065244" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-3.jpg" crc="50040297" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-icon-prev.svg" crc="445917764" ref="index:home"/>
+    <file name="lrcp-icon-prev_poster_u5085.png" crc="3769626581" ref="index:home"/>
+    <file name="lrcp-icon-next.svg" crc="4178269232" ref="index:home"/>
+    <file name="lrcp-icon-next_poster_u5069.png" crc="4268019375" ref="index:home"/>
+    <file name="loading.gif" crc="3815509949" ref="index:home"/>
+    <file name="lrcp-ondas-fluid.png" crc="4254982386" ref="index:productos:home:products">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lrcp-logo.svg" crc="303906189" seo="true" ref="index:nosotros:cobertura:contacto:productos:home:products:territory:contact:about-us">
+      <caption webpage="home" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="home" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="home" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="home" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="home" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="home" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contacto" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contacto" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contacto" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contacto" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contacto" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contacto" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="index" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="index" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="index" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="index" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="index" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="index" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Logotipo de LR Capital Pacífico"/>
+      <caption webpage="contact" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contact" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contact" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contact" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contact" alt="Es el logotipo de LR Capital Pacífico"/>
+      <caption webpage="contact" alt="Es el logotipo de LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-logo_poster_.png" crc="4062501180" ref="index"/>
+    <file name="lrcp-nosotros-somos.jpg" crc="3889342630" ref="nosotros:contacto:contact:about-us">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="lrcp-nosotros-logo-cre.png" crc="4068532406" seo="true" ref="nosotros:about-us">
+      <caption webpage="about-us" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Comsión Reguladora de Energía"/>
+    </file>
+    <file name="lrcp-nosotros-logo-sener.jpg" crc="4216327702" seo="true" ref="nosotros:about-us">
+      <caption webpage="about-us" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="about-us" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Secretaría de Energía"/>
+      <caption webpage="nosotros" alt="LRCP Logo de la Secretaría de Energía"/>
+    </file>
+    <file name="lrcp-nosotros-legal-u6629-fr.jpg" crc="229354077" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-icono-checklist_blanco.svg" crc="4081134909" seo="true" ref="nosotros:about-us">
+      <caption webpage="about-us" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Es un ícono de checklist blanco en LR Capital Pacífico "/>
+    </file>
+    <file name="lrcp-nosotros-icono-checklist_blanco_poster_.png" crc="156697341" ref="nosotros"/>
+    <file name="lrcp-productos-icono-diesel-blanco.svg" crc="211879649" seo="true" ref="nosotros:productos:products:about-us">
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de combustible LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="lrcp-productos-icono-diesel-blanco_poster_.png" crc="3787534839" ref="nosotros"/>
+    <file name="lrcp-productos-icono-gasolina-blanco.svg" crc="89695671" seo="true" ref="nosotros:productos:products:about-us">
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un tanque de gasolina en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="lrcp-productos-icono-gasolina-blanco_poster_.png" crc="492703068" ref="nosotros"/>
+    <file name="lrcp-productos-icono-turbosina-blanco.svg" crc="3955445320" seo="true" ref="nosotros:productos:products:about-us">
+      <caption webpage="productos" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un avión en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="lrcp-productos-icono-turbosina-blanco_poster_.png" crc="3940396519" ref="nosotros"/>
+    <file name="lrcp-productos-icono-gas-lp-blanco.svg" crc="4293792103" seo="true" ref="nosotros:productos:products:about-us">
+      <caption webpage="productos" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un Ícono blanco de Gas LP en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="lrcp-productos-icono-gas lp-blanco_poster_.png" crc="3908407986" ref="nosotros"/>
+    <file name="lrcp-nosotros-responsabilidad.jpg" crc="4053573867" ref="nosotros:about-us">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="lrcp-nosotros-icono-responsabilidad.svg" crc="4266856053" seo="true" ref="nosotros:productos:products:about-us">
+      <caption webpage="productos" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de bio diesel en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de flor bio diésel en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-nosotros-icono-responsabilidad_poster_.png" crc="202438990" ref="nosotros"/>
+    <file name="lrcp-nosotros-icono-mision.svg" crc="12699482" seo="true" ref="nosotros:about-us">
+      <caption webpage="about-us" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="about-us" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+      <caption webpage="nosotros" alt="Ícono de ingeniero en combustibles en LR Capital Pacífico "/>
+    </file>
+    <file name="lrcp-nosotros-icono-mision_poster_.png" crc="458141833" ref="nosotros"/>
+    <file name="lrcp-nosotros-icono-vision.svg" crc="53753119" seo="true" ref="nosotros:about-us">
+      <caption webpage="about-us" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de objetivo con flecha en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-nosotros-icono-vision_poster_.png" crc="4275592435" ref="nosotros"/>
+    <file name="lrcp-nosotros-icono-valores.svg" crc="4179977972" seo="true" ref="nosotros:about-us">
+      <caption webpage="about-us" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="about-us" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+      <caption webpage="nosotros" alt="Ícono de Valores de un equipo mejorando en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-nosotros-icono-valores_poster_.png" crc="318701606" ref="nosotros"/>
+    <file name="lrcp-nosotros-mision vision valores.jpg" crc="3809472261" ref="nosotros:about-us">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="lrcp-nosotros-legal-u6629-fr2.jpg" crc="54669869" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-mision vision valores-u6925-fr.jpg" crc="4124508935" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-legal-u6629-fr3.jpg" crc="507856521" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-mision vision valores-u6925-fr2.jpg" crc="62700675" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-legal-u6629-fr4.jpg" crc="394670889" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-responsabilidad-u6821-fr.jpg" crc="433855815" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-mision vision valores-u6925-fr3.jpg" crc="4190668937" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-legal.jpg" crc="4071921475" ref="nosotros:about-us">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="lrcp-nosotros-mision vision valores-u6925-fr4.jpg" crc="456677061" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-legal-u6629-fr5.jpg" crc="4283404300" ref="nosotros:about-us"/>
+    <file name="lrcp-nosotros-mision vision valores-u6925-fr5.jpg" crc="112001780" ref="nosotros:about-us"/>
+    <file name="lrcp-cobertura-foto.jpg" crc="3868331434" ref="cobertura:territory">
+      <caption webpage="cobertura" alt=""/>
+    </file>
+    <file name="lrcp-cobertura-mapa mexico.png" crc="4010793475" seo="true" ref="cobertura:territory">
+      <caption webpage="territory" alt="Es un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-cobertura-icono-mexico-blanco.svg" crc="4064596111" seo="true" ref="cobertura:territory">
+      <caption webpage="territory" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="territory" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+      <caption webpage="cobertura" alt="Es un ícono blanco de un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-cobertura-icono-mexico-blanco_poster_.png" crc="3966146671" ref="cobertura"/>
+    <file name="lrcp-cobertura-mapa mexico723x369.png" crc="4112363162" seo="true" ref="cobertura">
+      <caption webpage="cobertura" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-cobertura-mapa mexico558x285.png" crc="177952299" seo="true" ref="cobertura">
+      <caption webpage="cobertura" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-cobertura-mapa mexico480x245.png" crc="387568395" seo="true" ref="cobertura">
+      <caption webpage="cobertura" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-cobertura-mapa mexico507x259.png" crc="46481151" seo="true" ref="cobertura">
+      <caption webpage="cobertura" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-cobertura-foto-u7794-fr.jpg" crc="3802973031" ref="cobertura:territory"/>
+    <file name="lrcp-cobertura-mapa mexico332x169.png" crc="4141478401" seo="true" ref="cobertura">
+      <caption webpage="cobertura" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-nosotros-somos760x428.jpg" crc="375923493" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-gas natural.jpg" crc="401588418" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-gas lp.jpg" crc="4162347015" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-gas avion.jpg" crc="346465254" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-turbosina.jpg" crc="270611160" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-biodiesel.jpg" crc="4115163416" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-gasolina.jpg" crc="11480550" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-diesel marino.jpg" crc="40226398" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-foto-diesel.jpg" crc="3777195829" ref="productos:products">
+      <caption webpage="productos" alt=""/>
+    </file>
+    <file name="lrcp-productos-icono-diesel-marino-blanco.svg" crc="191049721" seo="true" ref="productos:products">
+      <caption webpage="productos" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un barco en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-productos-icono-diesel marino-blanco_poster_.png" crc="401019828" ref="productos"/>
+    <file name="lrcp-productos-icono-gas-avion-blanco.svg" crc="4239183429" seo="true" ref="productos:products">
+      <caption webpage="productos" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de un helicóptero en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-productos-icono-gas avion-blanco_poster_.png" crc="486987239" ref="productos"/>
+    <file name="lrcp-productos-icono-gas-natural-blanco.svg" crc="3829595948" seo="true" ref="productos:products">
+      <caption webpage="productos" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="productos" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+      <caption webpage="products" alt="Es un ícono blanco de gas natural en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-productos-icono-gas natural-blanco_poster_.png" crc="4260573576" ref="productos"/>
+    <file name="lrcp-productos-foto-gas natural-u12363-fr.jpg" crc="3809777384" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas lp-u12359-fr.jpg" crc="524091810" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas avion-u12364-fr.jpg" crc="4031133181" ref="productos:products"/>
+    <file name="lrcp-productos-foto-turbosina-u12362-fr.jpg" crc="3880623518" ref="productos:products"/>
+    <file name="lrcp-productos-foto-biodiesel-u12361-fr.jpg" crc="308636212" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gasolina-u12365-fr.jpg" crc="4131071015" ref="productos:products"/>
+    <file name="lrcp-productos-foto-diesel marino-u12367-fr.jpg" crc="4090354407" ref="productos:products"/>
+    <file name="lrcp-productos-foto-diesel-u12360-fr.jpg" crc="4250921723" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas natural-u12363-fr2.jpg" crc="353840961" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas lp-u12359-fr2.jpg" crc="3862063533" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas avion-u12364-fr2.jpg" crc="3816094232" ref="productos:products"/>
+    <file name="lrcp-productos-foto-turbosina-u12362-fr2.jpg" crc="3856070786" ref="productos:products"/>
+    <file name="lrcp-productos-foto-biodiesel-u12361-fr2.jpg" crc="4074835502" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gasolina-u12365-fr2.jpg" crc="3901947542" ref="productos:products"/>
+    <file name="lrcp-productos-foto-diesel marino-u12367-fr2.jpg" crc="3793264213" ref="productos:products"/>
+    <file name="lrcp-productos-foto-diesel-u12360-fr2.jpg" crc="162742578" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas natural-u12363-fr3.jpg" crc="95489822" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas lp-u12359-fr3.jpg" crc="4279177204" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gas avion-u12364-fr3.jpg" crc="169074972" ref="productos:products"/>
+    <file name="lrcp-productos-foto-turbosina-u12362-fr3.jpg" crc="36038383" ref="productos:products"/>
+    <file name="lrcp-productos-foto-biodiesel-u12361-fr3.jpg" crc="4226352411" ref="productos:products"/>
+    <file name="lrcp-productos-foto-gasolina-u12365-fr3.jpg" crc="4044984848" ref="productos:products"/>
+    <file name="lrcp-productos-foto-diesel marino-u12367-fr3.jpg" crc="4040856377" ref="productos:products"/>
+    <file name="lrcp-productos-foto-diesel-u12360-fr3.jpg" crc="4010069958" ref="productos:products"/>
+    <file name="eng-master-favicon.ico" crc="4077564559" ref="home"/>
+    <file name="lrcp-home-slide-1-mini-crop-u22206.jpg" crc="362520670" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-3-mini.jpg" crc="4078107567" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-2-mini-crop-u22208.jpg" crc="4017120708" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-1-mini-crop-u222062.jpg" crc="4140713082" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-2-mini-crop-u222082.jpg" crc="4235485177" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-1-mini-crop-u222063.jpg" crc="3944149913" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-2-mini-crop-u222083.jpg" crc="3769913700" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-1-mini-crop-u222064.jpg" crc="510965473" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-2-mini-crop-u222084.jpg" crc="269594310" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-1-mini-crop-u222065.jpg" crc="510965473" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-2-mini-crop-u222085.jpg" crc="269594310" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-1-mini-crop-u222066.jpg" crc="4250738055" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-home-slide-2-mini-crop-u222086.jpg" crc="4250548239" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="lrcp-cobertura-mapa mexico732x373.png" crc="3796211261" seo="true" ref="territory">
+      <caption webpage="territory" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-cobertura-mapa mexico598x305.png" crc="3898128692" seo="true" ref="territory">
+      <caption webpage="territory" alt="Es un mapa de México en LR Capital Pacífico"/>
+    </file>
+    <file name="lrcp-nosotros-somos-u28801-fr.jpg" crc="406143318" ref="about-us"/>
+  </folder>
+  <file name="index.html" crc="4150070865" seo="true" mt="1524519578967" redirect="true"/>
+  <file name="nosotros.html" crc="534248264" seo="true" mt="1524519578987" redirect="true"/>
+  <file name="cobertura.html" crc="3878103963" seo="true" mt="1524519578967" redirect="true"/>
+  <file name="contacto.html" crc="368152178" seo="true" mt="1524519578967" redirect="true"/>
+  <file name="aviso-de-privacidad.html" crc="392049438" seo="true" mt="1524519578967" redirect="true"/>
+  <file name="productos.html" crc="450876327" seo="true" mt="1524519578967" redirect="true"/>
+  <file name="home.html" crc="3837893340" seo="true" mt="1524519578977" redirect="true"/>
+  <file name="products.html" crc="348697840" seo="true" mt="1524519578977" redirect="true"/>
+  <file name="territory.html" crc="3923170752" seo="true" mt="1524519578977" redirect="true"/>
+  <file name="contact.html" crc="3924464593" seo="true" mt="1524519578977" redirect="true"/>
+  <file name="privacy-statement.html" crc="4190524547" seo="true" mt="1524519578977" redirect="true"/>
+  <file name="about-us.html" crc="3888954870" seo="true" mt="1524519578988" redirect="true"/>
+</manifest>
