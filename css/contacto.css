@@ -24,6 +24,7 @@
     padding-bottom: 50px;
     margin-right: -10000px;
     height: 0px;
+    background: #FFFFFF url("../images/iStock-1081329100 - Copy.jpg") repeat center top scroll;
 }
 
 #u122 {
@@ -104,7 +105,7 @@
 }
 
 #u8361 {
-    background-color: #FFFFFF;
+    background-color: #04040452;
     z-index: 2;
     position: relative;
 }
@@ -137,8 +138,9 @@
 }
 
 #u8399-4 {
+    text-align: center;
     background-color: transparent;
-    color: #000000;
+    color: #ffffff;
     font-weight: 300;
     font-family: lato, sans-serif;
     z-index: 8;
@@ -151,6 +153,7 @@
     background-color: transparent;
     z-index: 12;
     position: relative;
+    color: #ffffff;
 }
 
 #u8417-2 {
@@ -182,6 +185,7 @@
     font-family: lato, sans-serif;
     background-color: transparent;
     position: relative;
+    color: #ffffff;
 }
 
 #widgetu8437 {
@@ -204,11 +208,13 @@
     border-width: 1px;
     background-color: #f9f6f600;
     border-style: solid;
+    position: relative;
     padding: 7px 0px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
 }
 
 #widgetu8438 {
@@ -257,7 +263,7 @@
     overflow: hidden;
     font-weight: 300;
     font-family: lato, sans-serif;
-    color: #B5B5B5;
+    color: #ffffff;
     position: absolute;
     font-style: normal;
 }
@@ -372,7 +378,7 @@
     overflow: hidden;
     font-weight: 300;
     font-family: lato, sans-serif;
-    color: #B5B5B5;
+    color: #ffffff;
     position: absolute;
 }
 
@@ -532,11 +538,7 @@
 }
 
 .html {
-    background-repeat: no-repeat;
-    background-color: #FFFFFF;
-    background-attachment: scroll;
-    background-position: center center;
-    background-size: cover;
+    background: #FFFFFF url("../images/shutterstock_2138221493.jpg") repeat center bottom scroll;
 }
 
 body {
@@ -741,10 +743,14 @@ print {
         padding-top: 39px;
         padding-bottom: 56px;
         margin-right: -10000px;
-        margin-top: 62px;
-        width: 82.56%;
-        margin-left: 8.73%;
-        left: 0px;
+        margin-top: 122px;
+        width: 45.56%;
+        margin-left: 25.73%;
+        left: 30px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u8343-4 {
@@ -764,14 +770,13 @@ print {
     }
 
     #u8399-4 {
-        width: 613px;
+        width: 713px;
         min-height: 82px;
-        line-height: 22px;
-        text-align: center;
-        font-size: 18px;
+        line-height: 24px;
+        font-size: 20px;
         margin-top: 41px;
         margin-left: 50%;
-        left: -257px;
+        left: -297px;
     }
 
     #pu8417-18 {
@@ -1004,7 +1009,7 @@ print {
     }
 
     .html {
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image:  url("../images/shutterstock_2138221493.jpg") repeat center bottom scroll;
     }
 
     .verticalspacer {
