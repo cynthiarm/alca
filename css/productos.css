@@ -739,7 +739,7 @@ print {
     }
 
     #page {
-        min-height: 1414px;
+        min-height: 1184px;
     }
 
     #u348 {
@@ -940,43 +940,43 @@ print {
 
     #u12363 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-gas%20natural.jpg?crc=401588418");
+        background-image: url("../images/products1.jpg");
     }
 
     #u12359 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-gas%20lp.jpg?crc=4162347015");
+        background-image: url("../images/products2.jpg");
     }
-
+    
     #u12364 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-gas%20avion.jpg?crc=346465254");
+        background-image: url("../images/products3.jpg");
     }
 
     #u12362 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-turbosina.jpg?crc=270611160");
+        background-image: url("../images/products4.jpg");
     }
 
     #u12361 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-biodiesel.jpg?crc=4115163416");
+        background-image: url("../images/products5.jpg");
     }
 
     #u12365 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-gasolina.jpg?crc=11480550");
+        background-image: url("../images/products6.jpg");
     }
 
     #u12367 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-diesel%20marino.jpg?crc=40226398");
+        background-image: url("../images/products7.jpg");
     }
 
-    #u12360 {
+  /*  #u12360 {
         height: 876px;
-        background-image: url("../images/lrcp-productos-foto-diesel.jpg?crc=3777195829");
-    }
+        background-image: url("../images/products7.jpg");
+    }*/
 
     #u12321 {
         margin-top: 329px;
@@ -1441,10 +1441,8 @@ print {
 
     #u12529 {
         width: 118px;
-        margin-bottom: -30px;
-        margin-right: -10000px;
-        margin-top: 284px;
-        left: 45.94%;
+        left: -59px;
+        margin: 284px -10000px -30px 50%;
     }
 
     #u12530 {
@@ -1454,6 +1452,7 @@ print {
     #u13769-bw {
         min-height: 373px;
         margin-top: 495px;
+    
     }
 
     #u12238-6 {
@@ -1470,7 +1469,9 @@ print {
 
     #u12531-6 {
         min-height: 57px;
-        margin-top: 52px;
+        line-height: 24px;
+        font-size: 20px;
+        margin-top: 50px;
         position: relative;
         width: 61.45%;
         left: 0%;
@@ -1482,7 +1483,7 @@ print {
         min-height: 32px;
         margin-top: 21px;
         left: -101px;
-        margin-left: 49%;
+        margin-left: 50%;
     }
 
     #u12528-4:hover {
@@ -1490,11 +1491,12 @@ print {
         min-height: 32px;
         width: 203px;
         left: -101px;
-        margin-left: 49%;
+        margin-left: 50%;
     }
 
     .css_verticalspacer .verticalspacer {
-        height: calc(100vh - 1319px);
+        height: 100px !important;
+        min-height: 83px;
     }
 
     #u256 {
@@ -1734,59 +1736,59 @@ print {
 
     #u12363 {
         height: 820px;
-        background-image: url("../images/lrcp-productos-foto-gas%20natural-u12363-fr.jpg?crc=3809777384");
+        background-image: url("../images/products1.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12359 {
         height: 820px;
-        background-image: url("../images/lrcp-productos-foto-gas%20lp-u12359-fr.jpg?crc=524091810");
+        background-image: url("../images/products2.jpg0");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12364 {
         height: 820px;
-        background-image: url("../images/lrcp-productos-foto-gas%20avion-u12364-fr.jpg?crc=4031133181");
+        background-image: url("../images/products3.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12362 {
         height: 820px;
-        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr.jpg?crc=3880623518");
+        background-image: url("../images/products4.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12361 {
         height: 820px;
-        background-image: url("../images/lrcp-productos-foto-biodiesel-u12361-fr.jpg?crc=308636212");
+        background-image: url("../images/products5.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12365 {
         height: 820px;
-        background-image: url("../images/lrcp-productos-foto-gasolina-u12365-fr.jpg?crc=4131071015");
+        background-image: url("../images/products6.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12367 {
         height: 820px;
-        background-image: url("../images/lrcp-productos-foto-diesel%20marino-u12367-fr.jpg?crc=4090354407");
+        background-image: url("../images/products7.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
-    #u12360 {
+  /*  #u12360 {
         height: 820px;
         background-image: url("../images/lrcp-productos-foto-diesel-u12360-fr.jpg?crc=4250921723");
         margin-left: 0%;
         left: 0px;
-    }
+    }*/
 
     #u12321 {
         margin-top: 265px;
@@ -2536,43 +2538,43 @@ print {
 
     #u12363 {
         height: 752px;
-        background-image: url("../images/lrcp-productos-foto-gas%20natural-u12363-fr2.jpg?crc=353840961");
+        background-image: url("../images/products1.jpg");
     }
 
     #u12359 {
         height: 752px;
-        background-image: url("../images/lrcp-productos-foto-gas%20lp-u12359-fr2.jpg?crc=3862063533");
+        background-image: url("../images/products2.jpg");
     }
 
     #u12364 {
         height: 752px;
-        background-image: url("../images/lrcp-productos-foto-gas%20avion-u12364-fr2.jpg?crc=3816094232");
+        background-image: url("../images/products3.jpg");
     }
 
     #u12362 {
         height: 752px;
-        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr2.jpg?crc=3856070786");
+        background-image: url("../images/products4.jpg");
     }
 
     #u12361 {
         height: 752px;
-        background-image: url("../images/lrcp-productos-foto-biodiesel-u12361-fr2.jpg?crc=4074835502");
+        background-image: url("../images/products5.jpg");
     }
 
     #u12365 {
         height: 752px;
-        background-image: url("../images/lrcp-productos-foto-gasolina-u12365-fr2.jpg?crc=3901947542");
+        background-image: url("../images/products6.jpg");
     }
 
     #u12367 {
         height: 752px;
-        background-image: url("../images/lrcp-productos-foto-diesel%20marino-u12367-fr2.jpg?crc=3793264213");
+        background-image: url("../images/products7.jpg");
     }
 
-    #u12360 {
+  /*  #u12360 {
         height: 752px;
         background-image: url("../images/lrcp-productos-foto-diesel-u12360-fr2.jpg?crc=162742578");
-    }
+    }*/
 
     #u12321 {
         margin-top: 241px;
@@ -3349,43 +3351,43 @@ print {
 
     #u12363 {
         height: 622px;
-        background-image: url("../images/lrcp-productos-foto-gas%20natural-u12363-fr3.jpg?crc=95489822");
+        background-image: url("../images/products1.jpg");
     }
 
     #u12359 {
         height: 622px;
-        background-image: url("../images/lrcp-productos-foto-gas%20lp-u12359-fr3.jpg?crc=4279177204");
+        background-image: url("../images/products2.jpg");
     }
 
     #u12364 {
         height: 622px;
-        background-image: url("../images/lrcp-productos-foto-gas%20avion-u12364-fr3.jpg?crc=169074972");
+        background-image: url("../images/products3.jpg");
     }
 
     #u12362 {
         height: 622px;
-        background-image: url("../images/lrcp-productos-foto-turbosina-u12362-fr3.jpg?crc=36038383");
+        background-image: url("../images/products4.jpg");
     }
 
     #u12361 {
         height: 622px;
-        background-image: url("../images/lrcp-productos-foto-biodiesel-u12361-fr3.jpg?crc=4226352411");
+        background-image: url("../images/products5.jpg");
     }
 
     #u12365 {
         height: 622px;
-        background-image: url("../images/lrcp-productos-foto-gasolina-u12365-fr3.jpg?crc=4044984848");
+        background-image: url("../images/products6.jpg");
     }
 
     #u12367 {
         height: 622px;
-        background-image: url("../images/lrcp-productos-foto-diesel%20marino-u12367-fr3.jpg?crc=4040856377");
+        background-image: url("../images/products7.jpg");
     }
 
-    #u12360 {
+  /*  #u12360 {
         height: 622px;
         background-image: url("../images/lrcp-productos-foto-diesel-u12360-fr3.jpg?crc=4010069958");
-    }
+    }*/
 
     #u12321 {
         margin-top: 234px;
@@ -4301,59 +4303,59 @@ print {
 
     #u12363 {
         height: 963px;
-        background-image: url("../images/lrcp-productos-foto-gas%20natural.jpg?crc=401588418");
+        background-image: url("../images/products1.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12359 {
         height: 963px;
-        background-image: url("../images/lrcp-productos-foto-gas%20lp.jpg?crc=4162347015");
+        background-image: url("../images/products2.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12364 {
         height: 963px;
-        background-image: url("../images/lrcp-productos-foto-gas%20avion.jpg?crc=346465254");
+        background-image: url("../images/products3.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12362 {
         height: 963px;
-        background-image: url("../images/lrcp-productos-foto-turbosina.jpg?crc=270611160");
+        background-image: url("../images/products4.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12361 {
         height: 963px;
-        background-image: url("../images/lrcp-productos-foto-biodiesel.jpg?crc=4115163416");
+        background-image: url("../images/products5.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12365 {
         height: 963px;
-        background-image: url("../images/lrcp-productos-foto-gasolina.jpg?crc=11480550");
+        background-image: url("../images/products6.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
     #u12367 {
         height: 963px;
-        background-image: url("../images/lrcp-productos-foto-diesel%20marino.jpg?crc=40226398");
+        background-image: url("../images/products7.jpg");
         margin-left: 0%;
         left: 0px;
     }
 
-    #u12360 {
+  /*  #u12360 {
         height: 963px;
         background-image: url("../images/lrcp-productos-foto-diesel.jpg?crc=3777195829");
         margin-left: 0%;
         left: 0px;
-    }
+    }*/
 
     #u12321 {
         padding-bottom: 0px;
@@ -5235,43 +5237,43 @@ print {
 
     #u12363 {
         height: 1066px;
-        background-image: url("../images/lrcp-productos-foto-gas%20natural.jpg?crc=401588418");
+        background-image: url("../images/products1.jpg");
     }
 
     #u12359 {
         height: 1066px;
-        background-image: url("../images/lrcp-productos-foto-gas%20lp.jpg?crc=4162347015");
+        background-image: url("../images/products2.jpg");
     }
 
     #u12364 {
         height: 1066px;
-        background-image: url("../images/lrcp-productos-foto-gas%20avion.jpg?crc=346465254");
+        background-image: url("../images/products3.jpg");
     }
 
     #u12362 {
         height: 1066px;
-        background-image: url("../images/lrcp-productos-foto-turbosina.jpg?crc=270611160");
+        background-image: url("../images/products4.jpg");
     }
 
     #u12361 {
         height: 1066px;
-        background-image: url("../images/lrcp-productos-foto-biodiesel.jpg?crc=4115163416");
+        background-image: url("../images/products5.jpg");
     }
 
     #u12365 {
         height: 1066px;
-        background-image: url("../images/lrcp-productos-foto-gasolina.jpg?crc=11480550");
+        background-image: url("../images/products6.jpg");
     }
 
     #u12367 {
         height: 1066px;
-        background-image: url("../images/lrcp-productos-foto-diesel%20marino.jpg?crc=40226398");
+        background-image: url("../images/products7.jpg");
     }
 
-    #u12360 {
+  /*  #u12360 {
         height: 1066px;
         background-image: url("../images/lrcp-productos-foto-diesel.jpg?crc=3777195829");
-    }
+    }*/
 
     #u12321 {
         margin-top: 227px;

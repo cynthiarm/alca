@@ -126,7 +126,7 @@
 }
 
 #u7810_img {
-    width: 100%;
+    width: 55%;
 }
 
 #u7945 {
@@ -157,18 +157,20 @@
 #u7966-4 {
     text-align: justify;
     background-color: transparent;
-    z-index: 11;
+    z-index: 24;
     font-weight: 300;
     font-family: lato, sans-serif;
-    color: #000000;
+    line-height: 22px;
+    font-size: 18px;
+    color: #ffffff;
     position: relative;
 }
 
 #u39757 {
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFff9934, endColorstr=#FF39B54A, GradientType=0);
-    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFff9934', endColorstr='#FF39B54A', GradientType=0)";
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFff9934, endColorstr=#FFff9934, GradientType=0);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFff9934', endColorstr='#FFff9934', GradientType=0)";
     width: 100%;
-    z-index: 15;
+    z-index: 11;
     position: relative;
 }
 
@@ -185,16 +187,16 @@
 
 #u8084-6 {
     background-color: transparent;
-    z-index: 18;
+    color: #000000;
     font-weight: 300;
     font-family: lato, sans-serif;
-    color: #FFFFFF;
+    z-index: 14;
     position: relative;
 }
 
 #u8094-4 {
     border-color: transparent;
-    z-index: 24;
+    z-index: 20;
     text-align: center;
     font-family: work-sans, sans-serif;
     border-radius: 2px;
@@ -272,7 +274,7 @@ print {
     }
 
     #page {
-        min-height: 1211px;
+        min-height: 500px
     }
 
     #u348 {
@@ -465,35 +467,35 @@ print {
 
     #pu7794 {
         z-index: 2;
-        width: 87.59%;
+        width: 100%;
     }
 
     #u7794 {
-        background-image: url("../images/lrcp-cobertura-foto.jpg?crc=3868331434");
-        padding-bottom: 3px;
+        background-image: url("../images/cobertura.jpg");
+        margin-top: -200px;
         position: relative;
         margin-right: -10000px;
-        width: 57.09%;
+        width: 100%;
     }
 
     #u7810 {
         margin-top: 294px;
-        width: 120.83%;
-        left: 9.8%;
+        width: 110%;
+        left: .5%;
+    }
     }
 
     #pu7945 {
         z-index: 9;
-        padding-bottom: 0px;
         margin-right: -10000px;
-        margin-top: 190px;
-        width: 27.96%;
-        margin-left: 72.05%;
+        margin-top: 120px;
+        width: 28.36%;
+        margin-left: 61.65%;
     }
 
     #u7945 {
-        width: 26.2%;
-        margin-left: 36.91%;
+        width: 28.86%;
+        margin-left: 35.58%;
     }
 
     #u7924-4 {
@@ -505,17 +507,14 @@ print {
     }
 
     #u7966-4 {
-        min-height: 142px;
-        line-height: 22px;
-        font-size: 18px;
-        margin-top: 13px;
-        width: 100%;
+        min-height: 138px;
+        margin-top: 6px;
+        width: 99.72%;
+        margin-left: 0.29%;
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934a3));
-        background: -webkit-linear-gradient(top, #ff9934, #ff9934a3 60%);
-        background: linear-gradient(to bottom, #ff9934, #ff9934a3 60%);
+        background-color: #FFFFFF;
         padding-bottom: 5px;
         top: -1px;
         margin-bottom: -1px;
@@ -534,11 +533,19 @@ print {
     }
 
     #pu8084-6 {
-        z-index: 18;
+        z-index: 14;
         margin-right: -10000px;
-        margin-top: 134px;
+        margin-top: 77px;
         width: 25.25%;
-        margin-left: 48.56%;
+        margin-left: 42%;
+        margin-bottom: 30px;
+    }
+
+    #u24551 {
+        width: 118px;
+        left: -59px;
+        margin: 5px -900px 40px 25%;
+        margin-bottom: 40px;
     }
 
     #u8084-6 {
@@ -549,17 +556,17 @@ print {
     }
 
     #u8094-4 {
-        min-height: 32px;
+        min-height: 30px;
         margin-top: 16px;
-        width: 28%;
-        margin-left: 28%;
+        width: 29.79%;
+        margin-left: 23%;
     }
 
     #u8094-4:hover {
         margin-top: 16px;
-        min-height: 32px;
+        min-height: 30px;
         width: 29.79%;
-        margin-left: 28%;
+        margin-left: 23%;
     }
 
     .css_verticalspacer .verticalspacer {

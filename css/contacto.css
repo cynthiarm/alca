@@ -24,7 +24,7 @@
     padding-bottom: 50px;
     margin-right: -10000px;
     height: 0px;
-    background: #FFFFFF url("../images/iStock-1081329100 - Copy.jpg") repeat center top scroll;
+    background: #FFFFFF url("../images/contact.jpg") no-repeat center top scroll;
 }
 
 #u122 {
@@ -538,7 +538,7 @@
 }
 
 .html {
-    background: #FFFFFF url("../images/shutterstock_2138221493.jpg") repeat center bottom scroll;
+    background: #FFFFFF url("../images/contact.jpg") no-repeat center top scroll;
 }
 
 body {
@@ -1009,7 +1009,9 @@ print {
     }
 
     .html {
-        background-image:  url("../images/shutterstock_2138221493.jpg") repeat center bottom scroll;
+        background-image:  url("../images/contact.jpg");
+
+        
     }
 
     .verticalspacer {
@@ -1482,7 +1484,8 @@ print {
     }
 
     .html {
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image: url("../images/contact.jpg");
+
     }
 
     body {
@@ -1961,7 +1964,7 @@ print {
     }
 
     .html {
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image: url("../images/contact.jpg");
     }
 
     body {
@@ -2446,7 +2449,7 @@ print {
     }
 
     .html {
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image: url("../images/contact.jpg");
     }
 
     body {
@@ -3019,7 +3022,8 @@ print {
     }
 
     .html {
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image: url("../images/contact.jpg");
+
     }
 
     body {
@@ -3598,7 +3602,8 @@ print {
     }
 
     .html {
-        background-image: url("../images/lrcp-nosotros-somos760x428.jpg?crc=375923493");
+        background-image: url("../images/contact.jpg");
+     
     }
 
     body {

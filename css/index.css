@@ -765,17 +765,10 @@ print {
     }
 
     #u1214 {
-        padding-top: 39px;
-        padding-bottom: 56px;
-        margin-right: -10000px;
-        margin-top: 122px;
-        width: 45.56%;
-        margin-left: 25.73%;
-        left: 30px;
-        border-top-left-radius: 5px;
-        border-bottom-left-radius: 5px;
-        border-top-right-radius: 5px;
-        border-bottom-right-radius: 5px;
+        width: 99px;
+        padding-bottom: 36px;
+        position: relative;
+    }
     }
 
     #u1216-4 {
