@@ -882,7 +882,7 @@ print {
     }
 
     #u39749 {
-        background: (#ff9934), color-stop(60%, #ff9934));
+        background: (#ff9934), color-stop(60%, #ff9934);
         background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
         background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
         padding-bottom: 126px;
@@ -1225,7 +1225,7 @@ print {
     #u39749 {
         background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
         background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
-        background: linear-gradient(to bottom, #009u25388-4245, #ff9934 60%);
+        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
         padding-bottom: 137px;
     }
 

@@ -268,8 +268,8 @@
     border-width: 0px;
     margin-right: -10000px;
     width: 100%;
-    background-color: #B52435;
-    z-index: 95;
+    background-color: #ff9934;
+    z-index: 97;
     position: relative;
 }
 
@@ -287,7 +287,7 @@
 
 #u7259-8 {
     text-align: center;
-    background-color: #C9142F;
+    background-color: #f9a34e;
     z-index: 102;
     font-weight: 300;
     font-family: lato, sans-serif;
@@ -315,7 +315,7 @@
     font-weight: 300;
     line-height: 29px;
     font-size: 24px;
-    background-color: #D62A3B;
+    background-color: #f9ad61;
     color: #FFFFFF;
     position: relative;
 }
@@ -337,7 +337,7 @@
     color: #FFFFFF;
     font-size: 24px;
     font-family: lato, sans-serif;
-    background-color: #E52D40;
+    background-color: #f9b26b;
     z-index: 124;
     position: relative;
     font-weight: 300;
@@ -362,7 +362,7 @@
 
 #u7260-8 {
     text-align: center;
-    background-color: #F7313E;
+    background-color: #f9b775;
     z-index: 135;
     font-family: lato, sans-serif;
     font-weight: 300;
@@ -394,9 +394,10 @@
 #u7277 {
     border-color: transparent;
     border-width: 0px;
-    background-color: #8E1C22;
+    background-color: #FF5722;
     padding-bottom: 5px;
     position: absolute;
+
 }
 
 #u7277:hover {
