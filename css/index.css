@@ -1180,7 +1180,7 @@ print {
     .verticalspacer {
         min-height: 94px;
     }
-}
+
 
 @media (min-width: 1201px) and (max-width: 1400px) {
     #muse_css_mq {

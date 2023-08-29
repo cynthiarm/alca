@@ -1285,7 +1285,7 @@ print {
         left: 0%;
         margin-left: 0%;
     }
-}
+
 
 @media (min-width: 1201px) and (max-width: 1400px) {
     #muse_css_mq {
