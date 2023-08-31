@@ -1452,8 +1452,8 @@ print {
     #u13769-bw {
         min-height: 373px;
         margin-top: 495px;
-    
     }
+    
 
     #u12238-6 {
         min-height: 72px;
@@ -1495,8 +1495,8 @@ print {
     }
 
     .css_verticalspacer .verticalspacer {
-        height: 100px !important;
-        min-height: 83px;
+        height: 100px;
+        min-height: 8px!important;
     }
 
     #u256 {
@@ -1514,13 +1514,13 @@ print {
 
     #u256-bw {
         min-height: 33px;
-        margin-top: -1px;
+        margin-top: 40px;
     }
 
     .verticalspacer {
         min-height: 94px;
     }
-}
+
 
 @media (min-width: 1201px) and (max-width: 1400px) {
     #muse_css_mq {
@@ -2296,6 +2296,7 @@ print {
 
     .css_verticalspacer .verticalspacer {
         height: calc(100vh - 1214px);
+
     }
 
     #u256 {

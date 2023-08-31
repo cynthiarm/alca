@@ -119,7 +119,7 @@
 #u6566-14 {
     color: #FFFFFF;
     margin-right: -10000px;
-    z-index: 73;
+    z-index: 3;
     position: relative;
     -pie-background: rgba(0, 104, 55, 0.65);
 }
@@ -443,6 +443,7 @@
     width: 100%;
     background-color: #ff9934;
     position: absolute;
+    border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -1282,7 +1283,7 @@ print {
 
     #u6925 {
         height: 283px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores.jpg?crc=3809472261");
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores.jpg");
     }
 
     #u6925-bw {
@@ -1291,6 +1292,7 @@ print {
 
     .css_verticalspacer .verticalspacer {
         height: calc(100vh - 2372px);
+        min-height: 8px!important;
     }
 
     #u256 {
