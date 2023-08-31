@@ -776,7 +776,7 @@ print {
         font-size: 20px;
         margin-top: 41px;
         margin-left: 50%;
-        left: -297px;
+        left: -337px;
     }
 
     #pu8417-18 {
@@ -1010,8 +1010,9 @@ print {
 
     .html {
         background-image:  url("../images/contact.jpg");
-
-        
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;      
     }
 
     .verticalspacer {
@@ -3603,6 +3604,7 @@ print {
 
     .html {
         background-image: url("../images/contact.jpg");
+        filter: brightness(0.7);
      
     }
 

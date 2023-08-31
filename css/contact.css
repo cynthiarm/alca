@@ -532,7 +532,12 @@
 }
 
 .html {
-    background: #FFFFFF url("../images/shutterstock_2138221493.jpg") repeat center bottom scroll;
+    background-image:  url("../images/contact.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+    
  
 }
 
