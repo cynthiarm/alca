@@ -2535,17 +2535,18 @@ print {
     }
 
     #u23786 {
-        left: 60px;
+        left: 20px;
     }
 
     #u39374-4 {
         z-index: 124;
-        right: 131px;
+        right: 12px;
     }
 
     #u39375-4 {
         z-index: 128;
-        right: 96px;
+        right: 12px;
+        padding-top: 15px!important
     }
 
     #ppamphletu23788 {
@@ -2583,7 +2584,7 @@ print {
         padding-bottom: 17px;
         position: fixed;
         top: 0px;
-        right: 27px;
+        right: 7px;
     }
 
     #u23826 {
@@ -2804,18 +2805,15 @@ print {
     }
 
     #u26390 {
-        padding-top: 31px;
+        padding-top: 41px;
         padding-bottom: 71.33617886178854px;
         margin-top: 12px;
-        width: 98.78%;
-        margin-left: 10.43%;
-        width: 50.56%;
-        margin-left: 25.73%;
-        left: 0px;
-        border-top-left-radius:5px;
-        border-bottom-left-radius:5px;
-        border-top-right-radius:5px;
-        border-bottom-right-radius:5px;
+        width: 100%;
+        margin-left: 9%;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u26197-4 {
@@ -2823,7 +2821,7 @@ print {
         min-height: 33px;
         line-height: 31px;
         font-size: 26px;
-        left: -111px;
+        left: -141px;
     }
 
     #u26391 {
@@ -3000,7 +2998,7 @@ print {
         height: 23px;
         margin-top: 5px;
         margin-left: 50%;
-        left: -67px;
+        left: -90px;
     }
 
     #u26218-4:hover {
@@ -3060,7 +3058,7 @@ print {
     #u26199 {
         width: 95px;
         margin-top: 37px;
-        left: -58px;
+        left: -40px;
     }
 
     .css_verticalspacer .verticalspacer {
