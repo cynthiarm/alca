@@ -1043,7 +1043,7 @@ print {
 
     #u29137-3 {
         min-height: 261px;
-        background-image: url("../images/iStock-478071674.jpg");
+        background-image: url("../images/permits.jpg");
         position: relative;
         margin-right: -10000px;
         width: 39.21%;
@@ -1299,7 +1299,7 @@ print {
 
     #u28793 {
         height: 283px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores.jpg?crc=3809472261");
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores.jpg");
     }
 
     #u28793-bw {
@@ -3166,22 +3166,24 @@ print {
     }
 
     #page {
-        min-height: 3243px;
+        min-height: 243px;
         max-width: 780px;
     }
 
     #u23786 {
-        left: 60px;
+        left: 20px;
     }
 
     #u39281-4 {
         z-index: 209;
-        right: 131px;
+        right: 109px!important;
+        margin-top: 0px;
     }
 
     #u39282-4 {
         z-index: 213;
-        right: 96px;
+        right: 107px!important;
+        margin-top: 15px!important;
     }
 
     #ppamphletu23788 {
@@ -3441,9 +3443,10 @@ print {
     }
 
     #u28801 {
-        min-height: 588px;
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
-        padding-bottom: 98px;
+        min-height: 554px;
+        background-image: url(../images/about.jpg);
+        padding-bottom: 180px;
+        filter: brightness(.9);
     }
 
     #u28801_align_to_page {
@@ -3454,12 +3457,16 @@ print {
     }
 
     #u28812-14 {
-        min-height: 449px;
-        background-color: #599C7D;
-        background-color: rgba(0, 104, 55, 0.65);
-        margin-top: 139px;
-        width: 73.21%;
-        left: 14.11%;
+        min-height: 227px;
+        background-color: #ff9934;
+        background-color: rgb(247 133 56 / 74%);
+        margin-top: 127px;
+        width: 80%;
+        left: 10%;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u28812-12 {
@@ -3471,6 +3478,7 @@ print {
         margin-top: 93px;
         width: 14.24%;
         left: 42.95%;
+       
     }
 
     #permits {
@@ -3489,8 +3497,14 @@ print {
     }
 
     #u29137-3 {
-        min-height: 209px;
-        background-image: url("../images/lrcp-nosotros-legal.jpg?crc=4071921475");
+        min-height: 161px;
+        background-image: url("../images/permits.jpg");
+        position: relative;
+        margin-right: -10000px;
+        width: 39.21%;
+        left: 60.8%;
+        margin-left: 40.2%;
+        filter: brightness(.7);
     }
 
     #u29137-3-bw {
@@ -3639,6 +3653,7 @@ print {
     #u28786,
     #u28910 {
         width: 100%;
+        height: 76px;
     }
 
     #u28910:hover {
@@ -3662,7 +3677,7 @@ print {
 
     #u28806 {
         min-height: 527px;
-        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg?crc=4053573867");
+        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg");
     }
 
     #u28806_align_to_page {
@@ -3698,8 +3713,8 @@ print {
     }
 
     #u28810 {
-        margin-top: 131px;
-        margin-left: 70.07%;
+        margin-top: 50px;
+        margin-left: 67%;
     }
 
     #u28808-4 {
@@ -3710,8 +3725,8 @@ print {
     }
 
     #u28789 {
-        margin-top: 64px;
-        margin-left: 71.15%;
+        margin-top: 34px;
+        margin-left: 69%;
     }
 
     #u28802-4 {
@@ -3722,8 +3737,8 @@ print {
     }
 
     #u28794 {
-        margin-top: 44px;
-        margin-left: 70.61%;
+        margin-top: 34px;
+        margin-left: 68%;
     }
 
     #u28805-4,
@@ -3746,7 +3761,7 @@ print {
 
     #u28793 {
         height: 252px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr4.jpg?crc=456677061");
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr4.jpg");
     }
 
     #u28793-bw {
@@ -3781,7 +3796,17 @@ print {
     }
 
     .verticalspacer {
-        min-height: 215px;
+        min-height: 0px;
+    }
+
+    #u28812-5, #u28812-6, #u28812-8, #u28812-9, #u28812-11 {
+        text-align: justify;
+        padding-left: 40px;
+        line-height: 25px;
+        font-weight: 300;
+        font-size: 14px;
+        font-family: lato, sans-serif;
+        padding-right: 40px;
     }
 }
 

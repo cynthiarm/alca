@@ -78,7 +78,7 @@
     min-height: 50px;
     font-size: 14px;
     background-color: transparent;
-    color: #008C3F;
+    color: #ff9934;
     position: fixed;
 }
 
@@ -2540,13 +2540,13 @@ print {
 
     #u39374-4 {
         z-index: 124;
-        right: 12px;
+        right: 26px!important;
     }
 
     #u39375-4 {
         z-index: 128;
-        right: 12px;
-        padding-top: 15px!important
+        right: 25px;
+        padding-top: 15px!important;
     }
 
     #ppamphletu23788 {
@@ -2584,7 +2584,7 @@ print {
         padding-bottom: 17px;
         position: fixed;
         top: 0px;
-        right: 7px;
+        right: 20px;
     }
 
     #u23826 {
@@ -2809,7 +2809,7 @@ print {
         padding-bottom: 71.33617886178854px;
         margin-top: 12px;
         width: 100%;
-        margin-left: 9%;
+        margin-left: 10%;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
         border-top-right-radius: 5px;
@@ -3002,11 +3002,10 @@ print {
     }
 
     #u26218-4:hover {
-        margin-right: 80px;
-        margin-top: 4px;
         height: 23px;
+        margin-top: 5px;
         margin-left: 50%;
-        left: -68px;
+        left: -90px;
     }
 
     #u26218-4:active {
@@ -3014,7 +3013,7 @@ print {
         margin-top: 4px;
         height: 23px;
         margin-left: 50%;
-        left: -68px;
+        left: -90px;
     }
 
     #pu26213-4 {
