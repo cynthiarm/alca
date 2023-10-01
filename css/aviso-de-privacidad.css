@@ -391,6 +391,12 @@ print {
     .verticalspacer {
         min-height: 207px;
     }
+
+    #u8695{
+        width: 118px;
+        left: -59px;
+        margin: 284px -10000px -30px 50%;
+    }
 }
 
 @media (min-width: 1201px) and (max-width: 1400px) {

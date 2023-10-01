@@ -44,7 +44,7 @@
 #u23786 {
     top: 5px;
     width: 403px;
-    z-index: 11;
+    z-index: 88;
     position: fixed;
 }
 
@@ -94,6 +94,11 @@
     background-color: transparent;
     color: #666666;
     position: fixed;
+}
+
+#u8695 {
+    display: block;
+    z-index: 87;
 }
 
 #u39405-4:hover,
@@ -412,18 +417,29 @@ print {
     }
 
     #u23861-bw {
-        min-height: 33px;
-        margin-top: -1px;
+        right: 10px!important;
     }
 
     .verticalspacer {
         min-height: 168px;
+    }
+
+
+    #u8695 {
+        left: 34.9%;
+        margin-top: 20px;
+        position: absolute;
     }
 }
 
 @media (min-width: 1201px) and (max-width: 1400px) {
     #muse_css_mq {
         background-color: #000578;
+    }
+
+    #u8695 {
+        left: 34.9%;
+        margin-top: 20px;
     }
 
     #bp_1400.active {
@@ -481,6 +497,11 @@ print {
         min-height: 14px;
         width: 98px;
         margin: 0px -10000px 0px 0px;
+    }
+    #u12529 {
+        width: 118px;
+        left: -59px;
+        margin: 284px -10000px -30px 50%;
     }
 
     #u27205 {
@@ -563,6 +584,13 @@ print {
         top: 18px;
     }
 
+
+    #u12529 {
+        z-index: 86;
+        background-color: transparent;
+        position: relative;
+    }
+
     #u27299:hover #u27300-4 {
         padding-top: 0px;
         padding-bottom: 0px;
@@ -633,6 +661,11 @@ print {
         right: 62px;
     }
 
+    #u8695 img {
+        left: 34.9%;
+        margin-top: 20px;
+    }
+
     #u27045-7 {
         min-height: 185px;
         margin-right: -10000px;
@@ -670,6 +703,16 @@ print {
     .verticalspacer {
         min-height: 202px;
     }
+
+    #u12529 {
+        z-index: 86;
+        background-color: transparent;
+        position: relative;
+    }
+    
+    #u8695 {
+        width: 100%;
+    }
 }
 
 @media (min-width: 961px) and (max-width: 1200px) {
@@ -684,6 +727,12 @@ print {
     #page {
         min-height: 630px;
         max-width: 1200px;
+    }
+
+
+    #u8695 {
+        left: 34.9%;
+        margin-top: 20px;
     }
 
     #u23786 {
@@ -1387,6 +1436,12 @@ print {
         width: 100%;
     }
 
+    #u12529 {
+        width: 118px;
+        left: -59px;
+        margin: 284px -10000px -30px 50%;
+    }
+
     #u23806,
     #u27480,
     #u27571,
@@ -1395,6 +1450,8 @@ print {
         position: relative;
         width: 100%;
     }
+
+
 
     #u27754 {
         min-height: 29px;
@@ -1498,13 +1555,27 @@ print {
         display: block;
     }
 
+    #u12529 {
+        width: 96px;
+        top: -7px;
+        margin-bottom: -7px;
+        left: 0%;
+        margin-left: 46.01%;
+    }
+
+    #u12529 {
+        width: 118px;
+        left: -59px;
+        margin: 284px -10000px -30px 50%;
+    }
+
     #page {
         min-height: 660px;
         max-width: 380px;
     }
 
     #u23786 {
-        left: 40px;
+        left: 20px;
     }
 
     #u39405-4 {

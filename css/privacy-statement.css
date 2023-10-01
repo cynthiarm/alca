@@ -106,6 +106,7 @@
     padding-top: 40px;
 }
 
+
 #u27045-7 {
     text-align: justify;
     color: #000000;
@@ -407,6 +408,12 @@ print {
 
     .verticalspacer {
         min-height: 168px;
+    }
+
+    #u8695 {
+        left: 34.9%;
+        margin-top: 20px;
+        position: absolute;
     }
 }
 
@@ -1178,17 +1185,18 @@ print {
     }
 
     #u23786 {
-        left: 60px;
+        left: 20px;
     }
 
     #u39405-4 {
         z-index: 65;
-        right: 131px;
+        right: 11px!important;
     }
 
     #u39406-4 {
         z-index: 69;
-        right: 96px;
+        right: 10px!important;
+        margin-top: 15px!important;
     }
 
     #u27045-7 {
@@ -1227,7 +1235,7 @@ print {
         padding-bottom: 17px;
         position: fixed;
         top: 0px;
-        right: 27px;
+        right: 7px;
     }
 
     #u23826 {
