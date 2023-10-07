@@ -108,12 +108,10 @@
 }
 
 #u6526 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-    z-index: 2;
-    opacity: 1;
-    filter: alpha(opacity=100);
-    background: transparent url("../images/lrcp-nosotros-somos.jpg?crc=3889342630") no-repeat center center;
-    background-size: cover;
+    min-height: 554px;
+    background-image: url("../images/about.jpg");
+    padding-bottom: 180px;
+    filter: brightness(.9);
 }
 
 #u6566-14 {
@@ -3084,7 +3082,7 @@ print {
 
     #u6925 {
         height: 170px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr3.jpg?crc=4190668937");
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr3.jpg");
     }
 
     #u6925-bw {
@@ -3154,27 +3152,29 @@ print {
     }
 
     #page {
-        min-height: 3060px;
+        min-height: 243px;
         max-width: 780px;
     }
 
     #u348 {
-        left: 60px;
+        left: 20px;
     }
 
     #u39092-4 {
         z-index: 207;
-        right: 131px;
+        right: 10px!important;
+        margin-top: 15px!important;
     }
 
     #u39093-4 {
         z-index: 211;
-        right: 96px;
+        right: 10px!important;
+        margin-top: 0px!important;
     }
 
     #ppamphletu2546 {
         z-index: 155;
-        height: 2869.9500000000007px;
+        height: 2800px;
         padding-bottom: 0px;
         margin-right: -10000px;
         width: 188.85%;
@@ -3208,7 +3208,7 @@ print {
         padding-bottom: 17px;
         position: fixed;
         top: 0px;
-        right: 27px;
+        right: 9px;
     }
 
     #u2593 {
@@ -3440,12 +3440,16 @@ print {
     }
 
     #u6566-14 {
-        min-height: 342px;
-        background-color: #599C7D;
-        background-color: rgba(0, 104, 55, 0.65);
-        margin-top: 59px;
-        width: 73.21%;
-        left: 13.34%;
+        min-height: 227px;
+        background-color: #ff9934;
+        background-color: rgb(247 133 56 / 74%);
+        margin-top: 47px;
+        width: 80%;
+        left: 10%;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u6566-2 {
@@ -3482,8 +3486,10 @@ print {
     }
 
     #u6545 {
-        width: 14.24%;
-        left: 42.95%;
+        margin-top: 3px;
+        width: 25%;
+        left: 39%;
+        height: 178px;
     }
 
     #permisos {
@@ -3496,10 +3502,10 @@ print {
         min-height: 595px;
     }
 
-    #u6629 {
+ /*   #u6629 {
         min-height: 209px;
         background-image: url("../images/lrcp-nosotros-legal.jpg?crc=4071921475");
-    }
+    }*/
 
     #u6629_align_to_page {
         margin-left: auto;
@@ -3509,13 +3515,13 @@ print {
     }
 
     #u6741-4 {
-        min-height: 26px;
+        min-height: 36px;
         line-height: 24px;
-        font-size: 20px;
+        font-size: 18px;
         margin-right: -10000px;
-        margin-top: 183px;
-        width: 57.7%;
-        left: 21.16%;
+        margin-top: 64px;
+        width: 78%;
+        left: 10%;
     }
 
     #u6629-bw {
@@ -3524,17 +3530,16 @@ print {
     }
 
     #u6749-4 {
-        min-height: 81px;
-        margin-top: 14px;
-        width: 30.55%;
-        margin-left: 58.25%;
+        min-height: 91px;
+        margin-top: -84px;
+        width: 40.55%;
+        margin-left: 53%;
     }
 
     #ppu6777 {
-        z-index: 0;
         margin-top: 13px;
-        width: 30.28%;
-        margin-left: 58.25%;
+        width: 40%;
+        margin-left: 53.25%;
     }
 
     #pu6777 {
@@ -3577,9 +3582,10 @@ print {
     }
 
     #u7274 {
-        margin-right: -10000px;
-        width: 14.28%;
-        left: 90.13%;
+        width: 34.2729%;
+        margin-left: 80%;
+        left: 30px;
+        height: 39px;
     }
 
     #u7275 {
@@ -3589,6 +3595,7 @@ print {
     #u7276-4 {
         min-height: 21px;
         width: 100%;
+        margin-top: 8px;
     }
 
     #u7275:hover #u7276-4 {
@@ -3655,6 +3662,7 @@ print {
     #u6661,
     #u7277 {
         width: 100%;
+        height: 76px;
     }
 
     #u7277:hover {
@@ -3693,15 +3701,15 @@ print {
         line-height: 24px;
         font-size: 20px;
         margin-top: 24px;
-        width: 57.7%;
-        left: 21.16%;
+        width: 77.7%;
+        left: 11.16%;
     }
 
     #u6855-4 {
         min-height: 94px;
         margin-top: 16px;
-        width: 57.7%;
-        left: 21.16%;
+        width: 78%;
+        left: 11%;
     }
 
     #u6821-bw {
@@ -3710,9 +3718,8 @@ print {
     }
 
     #u7180 {
-        margin-top: 131px;
-        width: 5.91%;
-        margin-left: 69.93%;
+        margin-top: 50px;
+        margin-left: 67%;
     }
 
     #u7114-4 {
@@ -3723,47 +3730,67 @@ print {
     }
 
     #u7192 {
-        margin-top: 64px;
-        width: 5.91%;
-        margin-left: 71.08%;
+        margin-top: 34px;
+        margin-left: 23%;    
     }
 
     #u6990-4 {
         min-height: 69px;
         margin-top: 11px;
         width: 30.55%;
-        margin-left: 58.25%;
+        margin-left: 21%;
     }
 
     #u7186 {
         margin-top: 54px;
-        width: 5.91%;
-        margin-left: 70.61%;
+        width: 87px;
+        margin-left: -20%;
     }
 
-    #u7277:active,
-    #u7176,
-    #u7188,
+
     #u7182 {
         width: 100%;
     }
 
-    #u7132-4,
-    #u7008-4,
+    #u7277:active,
+    #u7176,
+    #u7188 {
+        width: 100%;
+    }
+
+    #u7132-4 {
+        min-height: 26px;
+        line-height: 24px;
+        font-size: 20px;
+        margin-top: 14px;
+        width: 30.55%;
+        margin-left: 58%;
+    }
+
+
     #u7163-4 {
         min-height: 26px;
         line-height: 24px;
         font-size: 20px;
         margin-top: 14px;
         width: 30.55%;
-        margin-left: 58.25%;
+        margin-left: -13%;
+    }
+
+    #u7008-4 {
+        min-height: 26px;
+        line-height: 24px;
+        font-size: 20px;
+        margin-top: 14px;
+        width: 30.55%;
+        margin-left: 22%;
     }
 
     #u7145-14 {
         min-height: 105px;
         margin-top: 11px;
         width: 30.55%;
-        margin-left: 58.25%;
+        margin-left: -13%;
     }
 
     #u6925 {
