@@ -62,7 +62,7 @@
     min-height: 50px;
     font-size: 14px;
     background-color: transparent;
-    color: #008C3F;
+    color: #ff9934;
     position: fixed;
 }
 
@@ -800,7 +800,7 @@ print {
     }
 
     #u7794 {
-        background-image: url("../images/lrcp-cobertura-foto.jpg?crc=3868331434");
+        background-image: url("../images/cobertura.jpg");
         padding-bottom: 2px;
         position: relative;
         margin-right: -10000px;
@@ -1124,7 +1124,7 @@ print {
     }
 
     #u7794 {
-        background-image: url("../images/lrcp-cobertura-foto.jpg?crc=3868331434");
+        background-image: url("../images/cobertura.jpg");
         position: relative;
         margin-right: -10000px;
         width: 56.08%;
@@ -1449,7 +1449,7 @@ print {
     }
 
     #u7794 {
-        background-image: url("../images/lrcp-cobertura-foto.jpg?crc=3868331434");
+        background-image: url("../images/cobertura.jpg");
         padding-bottom: 23px;
         position: relative;
         margin-right: -10000px;
@@ -1580,17 +1580,20 @@ print {
     }
 
     #u348 {
-        left: 60px;
+        left: 20px;
     }
 
     #u39187-4 {
         z-index: 82;
-        right: 131px;
+        right: 10px;
+        padding-top: 20px;
+
     }
 
     #u39188-4 {
         z-index: 86;
-        right: 96px;
+        right: 10px;
+        padding-top: 20px;
     }
 
     #ppamphletu2546 {
@@ -1629,7 +1632,7 @@ print {
         padding-bottom: 17px;
         position: fixed;
         top: 0px;
-        right: 27px;
+        right: 7px;
     }
 
     #u2593 {
@@ -1851,7 +1854,12 @@ print {
 
     #u7794 {
         min-height: 301px;
-        background-image: url("../images/lrcp-cobertura-foto.jpg?crc=3868331434");
+        background-image: url("../images/cobertura.jpg");
+        background-position: unset;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 180px;
+
     }
 
     #u7794_align_to_page {
@@ -1863,18 +1871,28 @@ print {
 
     #u7810 {
         margin-bottom: -23px;
-        margin-top: 66px;
-        width: 65%;
-        left: 17.57%;
+        margin-top: 126px;
+        width: 140%;
+        left: 15%;
     }
 
     #u7945 {
-        width: 118px;
+        width: 80px;
         margin-right: -10000px;
-        margin-top: 92px;
+        margin-top: -380px;
         margin-left: 50%;
-        left: -59px;
+        left: -39px;
     }
+
+    #u7946 {
+        width: 80px;
+        margin-right: -10000px;
+        margin-top: -380px;
+        margin-left: 40%;
+        left: -39px;
+    }
+
+
 
     #u7794-bw {
         z-index: 2;
@@ -1887,7 +1905,7 @@ print {
         min-height: 26px;
         line-height: 24px;
         font-size: 20px;
-        margin-top: 47px;
+        margin-top: -250px;;
         width: 64.11%;
         margin-left: 17.95%;
         left: 0px;
@@ -1896,18 +1914,29 @@ print {
     #u7966-4 {
         min-height: 140px;
         line-height: 22px;
-        font-size: 18px;
-        margin-top: 14px;
+        font-size: 14px;
+        margin-top: -200px;
         width: 64.11%;
         margin-left: 17.95%;
         left: 0px;
+        color: #ffffff;
+    }
+
+    #u7966-4 {
+        text-align: justify;
+        background-color: transparent;
+        z-index: 24;
+        font-weight: 300;
+        font-family: lato, sans-serif;
+        line-height: 22px;
+        font-size: 14px;
+        color: #ffffff;
+        position: relative;
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #39B54A));
-        background: -webkit-linear-gradient(top, #ff9934, #39B54A 60%);
-        background: linear-gradient(to bottom, #ff9934, #39B54A 60%);
-        padding-top: 81px;
+        background: #ffffff;
+        padding-top: 350px;
         padding-bottom: 73.19999999999993px;
         margin-top: 116px;
         left: 0%;
@@ -1918,12 +1947,14 @@ print {
         width: 110px;
         margin-left: 50%;
         left: -55px;
+        margin-top: -35px
+        
     }
 
     #u8084-6 {
         line-height: 22px;
         text-align: center;
-        font-size: 18px;
+        font-size: 16px;
         margin-top: 20px;
         width: 75.65%;
         margin-left: 12.18%;
@@ -1964,7 +1995,7 @@ print {
 
     #u256-bw {
         min-height: 41px;
-        margin-top: 1px;
+        margin-top: 105px;
     }
 
     body {
@@ -2257,7 +2288,7 @@ print {
 
     #u7794 {
         min-height: 232px;
-        background-image: url("../images/lrcp-cobertura-foto-u7794-fr.jpg?crc=3802973031");
+        background-image: url("../images/cobertura.jpg");
         padding-bottom: 4px;
     }
 

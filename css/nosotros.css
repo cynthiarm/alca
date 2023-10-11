@@ -112,6 +112,7 @@
     background-image: url("../images/about.jpg");
     padding-bottom: 180px;
     filter: brightness(.9);
+    
 }
 
 #u6566-14 {
@@ -895,7 +896,7 @@ print {
     }
 
     #pu6526 {
-        z-index: 2;
+        z-index: 3;
         padding-bottom: 0px;
         margin-right: -10000px;
         margin-top: 50px;
@@ -905,8 +906,12 @@ print {
     #u6526 {
         min-height: 554px;
         background-image: url(../images/about.jpg);
+        background-position: unset;
+        background-repeat: no-repeat;
+        background-size: cover;
         padding-bottom: 180px;
         filter: brightness(.9);
+
     }
 
     #u6566-14 {
@@ -3500,7 +3505,20 @@ print {
     #u6526,
     #u6526-bw {
         min-height: 595px;
+        
     }
+
+
+    #u6526 {
+    min-height: 554px;
+    background-image: url(../images/about.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 180px;
+    filter: brightness(.9);
+    }
+
 
  /*   #u6629 {
         min-height: 209px;

@@ -942,7 +942,10 @@ print {
 
     #u28801 {
         min-height: 554px;
-        background-image: url("../images/about.jpg");
+        background-image: url(../images/about.jpg);
+        background-position: unset;
+        background-repeat: no-repeat;
+        background-size: cover;
         padding-bottom: 180px;
         filter: brightness(.9);
     }
@@ -1556,7 +1559,7 @@ print {
 
     #u28801 {
         min-height: 534px;
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image: url("../images/lrcp-nosotros-somos.jpg");
         padding-bottom: 75px;
     }
 
@@ -1905,7 +1908,7 @@ print {
 
     #u28793 {
         height: 259px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr.jpg?crc=4124508935");
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr.jpg");
     }
 
     #u28793-bw {
@@ -2168,7 +2171,7 @@ print {
 
     #u28801 {
         min-height: 534px;
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image: url("../images/lrcp-nosotros-somos.jpg");
         padding-bottom: 58px;
     }
 
@@ -2774,7 +2777,7 @@ print {
 
     #u28801 {
         min-height: 540px;
-        background-image: url("../images/lrcp-nosotros-somos.jpg?crc=3889342630");
+        background-image: url("../images/lrcp-nosotros-somos.jpg");
         padding-bottom: 52px;
     }
 
@@ -2869,7 +2872,7 @@ print {
 
     #u29137-3 {
         min-height: 232px;
-        background-image: url("../images/lrcp-nosotros-legal-u6629-fr4.jpg?crc=394670889");
+        background-image: url("../images/lrcp-nosotros-legal-u6629-fr4.jpg");
         position: relative;
         margin-right: -10000px;
         width: 36.44%;
@@ -2991,7 +2994,7 @@ print {
 
     #u28806 {
         min-height: 392.90000000000055px;
-        background-image: url("../images/lrcp-nosotros-responsabilidad-u6821-fr.jpg?crc=433855815");
+        background-image: url("../images/lrcp-nosotros-responsabilidad-u6821-fr.jpg");
         padding-bottom: 0px;
     }
 
@@ -3115,7 +3118,7 @@ print {
 
     #u28793 {
         height: 170px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr3.jpg?crc=4190668937");
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr3.jpg");
     }
 
     #u28793-bw {
@@ -3445,6 +3448,9 @@ print {
     #u28801 {
         min-height: 554px;
         background-image: url(../images/about.jpg);
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
         padding-bottom: 180px;
         filter: brightness(.9);
     }
@@ -4105,7 +4111,7 @@ print {
 
     #u28801 {
         height: 592px;
-        background-image: url("../images/lrcp-nosotros-somos-u28801-fr.jpg?crc=406143318");
+        background-image: url("../images/lrcp-nosotros-somos-u28801-fr.jpg");
     }
 
     #u28801-bw {
