@@ -3497,6 +3497,13 @@ print {
         height: 178px;
     }
 
+    #u6546 {
+        margin-top: -20px;
+        width: 12%;
+        left: 45%;
+        height: 178px;
+    }
+
     #permisos {
         margin-top: 21px;
         left: 48.59%;
@@ -3868,7 +3875,7 @@ print {
     }
 
     #u348 {
-        left: 40px;
+        left: 20px;
     }
 
     #u39092-4 {
@@ -4138,17 +4145,29 @@ print {
     }
 
     #u6526 {
-        min-height: 530px;
+        min-height: 554px;
         padding-bottom: 62px;
+        background-image: url(../images/about.jpg);
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 180px;
+        filter: brightness(.9);
     }
 
     #u6566-14 {
         min-height: 430px;
-        background-color: #599C7D;
-        background-color: rgba(0, 104, 55, 0.65);
+
         margin-top: 94px;
         width: 76.06%;
         left: 12.64%;
+        min-height: 427px;
+        background-color: #ff9934;
+        background-color: rgb(247 133 56 / 74%);
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u6566-2 {
@@ -4235,7 +4254,7 @@ print {
     }
 
     #u6629 {
-        background-image: url("../images/lrcp-nosotros-legal-u6629-fr5.jpg?crc=4283404300");
+        background-image: url("../images/permits.jpg");
         margin-top: 16px;
         position: relative;
         width: 39.42%;
@@ -4382,7 +4401,7 @@ print {
 
     #u6821 {
         min-height: 542.9000000000005px;
-        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg?crc=4053573867");
+        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg");
         padding-bottom: 0px;
     }
 
@@ -4447,9 +4466,10 @@ print {
     }
 
     #u7192 {
-        width: 87px;
-        margin-top: 47px;
-        margin-left: 68.25%;
+        min-height: 97px;
+        margin-top: 10px;
+        width: 39.56%;
+        margin-left: 23.77%;
     }
 
     #u7008-4 {
@@ -4458,20 +4478,20 @@ print {
         font-size: 20px;
         margin-top: 10px;
         width: 39.56%;
-        margin-left: 53.77%;
+        margin-left: 18%;
     }
 
     #u6990-4 {
         min-height: 70px;
         margin-top: 11px;
         width: 39.56%;
-        margin-left: 53.77%;
+        margin-left: 18%;
     }
 
     #u7186 {
         width: 87px;
         margin-top: 36px;
-        margin-left: 67.41%;
+        margin-left: -17.41%;
     }
 
     #u7163-4 {
@@ -4480,19 +4500,19 @@ print {
         font-size: 20px;
         margin-top: 19px;
         width: 39.56%;
-        margin-left: 53.77%;
+        margin-left: -18%;
     }
 
     #u7145-14 {
         min-height: 105px;
         margin-top: 11px;
         width: 39.56%;
-        margin-left: 53.77%;
+        margin-left: -18%;
     }
 
     #u6925 {
         height: 147px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr5.jpg?crc=112001780");
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr5.jpg");
     }
 
     #u6925-bw {
@@ -4520,7 +4540,7 @@ print {
 
     #u256-bw {
         min-height: 42px;
-        margin-top: -1px;
+        margin-top: 128px;
     }
 
     body {

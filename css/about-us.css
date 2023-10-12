@@ -3834,7 +3834,7 @@ print {
     }
 
     #u23786 {
-        left: 40px;
+        left: 20px;
     }
 
     #u39281-4 {
@@ -4110,8 +4110,13 @@ print {
     }
 
     #u28801 {
-        height: 592px;
-        background-image: url("../images/lrcp-nosotros-somos-u28801-fr.jpg");
+        min-height: 554px;
+        background-image: url(../images/about.jpg);
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 180px;
+        filter: brightness(.9);
     }
 
     #u28801-bw {
@@ -4138,11 +4143,27 @@ print {
 
     #u28812-14 {
         min-height: 430px;
-        background-color: #599C7D;
-        background-color: rgba(0, 104, 55, 0.65);
         margin-top: 94px;
         width: 76.06%;
         left: 12.64%;
+        min-height: 427px;
+        background-color: #ff9934;
+        background-color: rgb(247 133 56 / 74%);
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+
+    #u28812-5, #u28812-6, #u28812-8, #u28812-9, #u28812-11 {
+        text-align: justify;
+        padding-left: 40px;
+        line-height: 25px;
+        font-weight: 300;
+        font-size: 14px;
+        font-family: lato, sans-serif;
+        padding-right: 40px;
     }
 
     #u28812-12 {
@@ -4187,7 +4208,7 @@ print {
 
     #u29137-3 {
         min-height: 72px;
-        background-image: url("../images/lrcp-nosotros-legal-u6629-fr5.jpg?crc=4283404300");
+        background-image: url("../images/permits.jpg");
         position: relative;
         margin-right: -10000px;
         width: 100%;
@@ -4326,7 +4347,7 @@ print {
 
     #u28806 {
         min-height: 542.9000000000005px;
-        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg?crc=4053573867");
+        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg");
         padding-bottom: 0px;
     }
 
@@ -4337,7 +4358,7 @@ print {
 
     #u28814 {
         width: 23.16%;
-        left: 48%;
+        left: 40%;
     }
 
     #u28910:active,
