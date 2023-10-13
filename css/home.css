@@ -2359,7 +2359,7 @@ print {
     }
 
     #u23786 {
-        left: 80px;
+        left: 20px;
     }
 
     #menuu23830 {
@@ -2653,7 +2653,7 @@ print {
     }
 
     #u22141 {
-        width: 71px;
+        width: 100px;
         margin-bottom: -34px;
         margin-top: 194px;
         left: 14.9%;
@@ -2662,9 +2662,10 @@ print {
     #u22140-10 {
         margin-bottom: -45px;
         margin-right: -10000px;
-        margin-top: 183px;
+        margin-top: 320px;
         width: 35%;
-        left: 32.94%;
+        left: 20%;
+        text-align: center;
     }
 
     #widgetu22131 {
@@ -2821,15 +2822,15 @@ print {
 
     #u23859-8 {
         z-index: 115;
-        min-height: 27px;
+        min-height: 47px;
         margin-top: 11px;
-        width: 72.09%;
-        left: 13.96%;
+        width: 70%;
+        left: 1%;
     }
 
     #u23861-bw {
         min-height: 38px;
-        margin-top: -1px;
+        margin-top: 130px;
     }
 
     body {
@@ -3167,19 +3168,19 @@ print {
     #u22212popup {
         top: 164px;
         height: 112px;
-        width: 70%;
+        width: 52%;
         min-height: 27px;
         background-color: rgb(8 8 8 /30%);
-        left: 15.76%;
+        left: 7%;
         border-top-left-radius: 8px;
         border-bottom-left-radius: 8px;
         border-top-right-radius: 8px;
-        border-bottom-right-radius: 8px;   
+        border-bottom-right-radius: 8px;;
     }
 
     #u22213-9, #u22215-9, #u22214-9 {
         min-height: 161px;
-        margin-top: 10px!important;
+        margin-top: 28px!important;
   
     }
 
@@ -3227,12 +3228,12 @@ print {
 
     #u22217-3popup {
         top: 231px;
-        left: 5.52%;
+        left: 2%;
     }
 
     #u22216-3popup {
         top: 231px;
-        left: 90.65%;
+        left: 60%;
     }
 
     #u22336 {
@@ -3250,7 +3251,7 @@ print {
         width: 401px;
         margin-bottom: 100px;
         margin-top: 140px;
-        left: 40%;
+        left: 28%;
     }
 
     #u22336-bw {
@@ -3260,8 +3261,8 @@ print {
 
     #u22140-10 {
         margin-top: 256px;
-        width: 76.29%;
-        margin-left: 11.93%;
+        width: 60%;
+        margin-left: 5%;
     }
 
 
@@ -3290,12 +3291,12 @@ print {
         padding-bottom: 0px;
         margin-top: -15px;
         width: 51.29%;
-        margin-left: -5%;
+        margin-left: 20%;
     }
 
     #widgetu22136 {
         width: 100.5%;
-        left: -0.25%;
+        left: -5%;
     }
 
     #widgetu22136.fld-err-st {
@@ -3306,12 +3307,13 @@ print {
     #u22137-4 {
         min-height: 16px;
         width: 99.51%;
+        margin-left: 5%;
     }
 
     #widgetu22136:hover #u22137-4 {
         min-height: 16px;
         width: 99.51%;
-        margin-left: 0%;
+        margin-left: 5%
     }
 
     #widgetu22136.focus-st #u22137-4 {
@@ -3341,7 +3343,7 @@ print {
         height: 19px;
         margin-top: 6px;
         width: 32.5%;
-        margin-left: 33.75%;
+        margin-left: -18%;
     }
 
     #u22135-4:hover {
@@ -3394,13 +3396,13 @@ print {
         z-index: 134;
         min-height: 32px;
         margin-top: 9px;
-        width: 88.72%;
-        left: 5.65%;
+        width: 95%;
+        left: 3%;
     }
 
     #u23861-bw {
         min-height: 41px;
-        margin-top: -30px;
+        margin-top: 19px;
     }
 
     body {
@@ -3732,10 +3734,16 @@ print {
     }
 
     #u22212popup {
-        top: 189px;
-        height: 174px;
-        width: 84.48%;
-        left: 7.9%;
+        top: 164px;
+        height: 112px;
+        width: 48%;
+        min-height: 27px;
+        background-color: rgb(8 8 8 /30%);
+        left: 11%;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 8px;
+        border-top-right-radius: 8px;
+        border-bottom-right-radius: 8px;
     }
 
     #u22213-2 {
@@ -3747,7 +3755,7 @@ print {
     #u22215-9,
     #u22214-9 {
         min-height: 154px;
-        margin-top: 100px;
+        margin-top: 10px;
     }
 
     #u22215-2,
@@ -3781,13 +3789,13 @@ print {
     }
 
     #u22217-3popup {
-        top: 419px;
-        left: 40.79%;
+        top: 235px;
+        left: 2%;
     }
 
     #u22216-3popup {
-        top: 419px;
-        left: 51.32%;
+        top: 235px;
+        left: 60%;
     }
 
     #u22336 {
