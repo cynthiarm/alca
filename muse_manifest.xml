@@ -244,7 +244,7 @@
       <caption webpage="contact" alt="Es el logotipo de LR Capital Pacífico"/>
     </file>
     <file name="lrcp-logo_poster_.png" crc="4062501180" ref="index"/>
-    <file name="lrcp-nosotros-somos.jpg" crc="3889342630" ref="nosotros:contacto:contact:about-us">
+    <file name="about.jpg" crc="3889342630" ref="nosotros:contacto:contact:about-us">
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -488,7 +488,7 @@
     <file name="lrcp-nosotros-mision vision valores.jpg" crc="3809472261" ref="nosotros:about-us">
       <caption webpage="nosotros" alt=""/>
     </file>
-    <file name="lrcp-nosotros-legal-u6629-fr2.jpg" crc="54669869" ref="nosotros:about-us"/>
+    <file name="permits.jpg" crc="54669869" ref="nosotros:about-us"/>
     <file name="lrcp-nosotros-mision vision valores-u6925-fr.jpg" crc="4124508935" ref="nosotros:about-us"/>
     <file name="lrcp-nosotros-legal-u6629-fr3.jpg" crc="507856521" ref="nosotros:about-us"/>
     <file name="lrcp-nosotros-mision vision valores-u6925-fr2.jpg" crc="62700675" ref="nosotros:about-us"/>

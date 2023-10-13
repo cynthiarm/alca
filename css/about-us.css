@@ -1361,7 +1361,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 22px;
         right: 150px;
     }
 
@@ -1559,7 +1559,7 @@ print {
 
     #u28801 {
         min-height: 534px;
-        background-image: url("../images/lrcp-nosotros-somos.jpg");
+        background-image: url("../images/about.jpg");
         padding-bottom: 75px;
     }
 
@@ -1572,11 +1572,15 @@ print {
 
     #u28812-14 {
         min-height: 427px;
-        background-color: #599C7D;
-        background-color: rgba(0, 104, 55, 0.65);
-        margin-top: 107px;
-        width: 44%;
-        left: 28.01%;
+        background-color: #ff9934;
+        background-color: rgb(247 133 56 / 74%);
+        margin-top: 127px;
+        width: 42.49%;
+        left: 28.76%;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u28812-12 {
@@ -1655,9 +1659,9 @@ print {
     }
 
     #u29137-3 {
-        width: 262px;
+        width: 400px;
         min-height: 246px;
-        background-image: url("../images/lrcp-nosotros-legal-u6629-fr2.jpg?crc=54669869");
+        background-image: url(../images/permits.jpg);
         position: relative;
         margin-right: -10000px;
         left: 62.47%;
@@ -1679,9 +1683,9 @@ print {
 
     #pamphletu28902 {
         margin-right: -10000px;
-        margin-top: 221px;
+        margin-top: 219px;
         width: 99.43%;
-        margin-left: 50.58%;
+        margin-left: 60%;
         left: 1px;
     }
 
@@ -1802,7 +1806,7 @@ print {
         font-size: 23px;
         margin-top: 19px;
         width: 24.29%;
-        left: 57.65%;
+        left: 40%;
     }
 
     #u28809-4 {
@@ -1811,7 +1815,7 @@ print {
         font-size: 16px;
         margin-top: 11px;
         width: 24.29%;
-        left: 35.5%;
+        left: 40%;
     }
 
     #u28806-bw {
@@ -1972,7 +1976,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 20px;
         right: 200px;
     }
 
@@ -2171,7 +2175,7 @@ print {
 
     #u28801 {
         min-height: 534px;
-        background-image: url("../images/lrcp-nosotros-somos.jpg");
+        background-image: url("../images/about.jpg");
         padding-bottom: 58px;
     }
 
@@ -2184,11 +2188,15 @@ print {
 
     #u28812-14 {
         min-height: 427px;
-        background-color: #599C7D;
-        background-color: rgba(0, 104, 55, 0.65);
-        margin-top: 107px;
-        width: 51.34%;
-        left: 24.34%;
+        background-color: #ff9934;
+        background-color: rgb(247 133 56 / 74%);
+        margin-top: 127px;
+        width: 65%;
+        left: 18.76%;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u28812-12 {
@@ -2268,10 +2276,10 @@ print {
 
     #u29137-3 {
         min-height: 245px;
-        background-image: url("../images/lrcp-nosotros-legal-u6629-fr3.jpg?crc=507856521");
+        background-image: url("../images/permits.jpg");
         position: relative;
         margin-right: -10000px;
-        width: 39.01%;
+        width: 65%;
         left: 60.86%;
         margin-left: 35.18%;
     }
@@ -2293,7 +2301,7 @@ print {
         margin-right: -10000px;
         margin-top: 219px;
         width: 80.43%;
-        margin-left: 44.9%;
+        margin-left: 55%;
         left: 1px;
     }
 
@@ -2777,7 +2785,7 @@ print {
 
     #u28801 {
         min-height: 540px;
-        background-image: url("../images/lrcp-nosotros-somos.jpg");
+        background-image: url("../images/about.jpg");
         padding-bottom: 52px;
     }
 
