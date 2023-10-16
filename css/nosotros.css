@@ -114,6 +114,16 @@
     filter: brightness(.9);
     
 }
+#u6526 {
+    filter: alpha(opacity=100);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    z-index: 3;
+    background-position: center center;
+    background-size: cover;
+}
 
 #u6566-14 {
     color: #FFFFFF;
@@ -1032,10 +1042,10 @@ print {
 
     #u6629 {
         min-height: 261px;
-        background-image: url(../images/permits.jpg);
+        background-image: url("../images/permits.jpg");
         position: relative;
         margin-right: -10000px;
-        width: 49.21%;
+        width: 39.21%;
         left: 60.8%;
         margin-left: 40.2%;
         filter: brightness(.7);
@@ -2261,6 +2271,7 @@ print {
     }
 
     #u6629 {
+        min-height: 261px;
         background-image: url("../images/permits.jpg");
         position: relative;
         margin-right: -10000px;
@@ -2865,6 +2876,7 @@ print {
     }
 
     #u6629 {
+        min-height: 261px;
         background-image: url("../images/permits.jpg");
         position: relative;
         margin-right: -10000px;
@@ -3516,13 +3528,13 @@ print {
 
 
     #u6526 {
-    min-height: 554px;
-    background-image: url(../images/about.jpg);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-bottom: 180px;
-    filter: brightness(.9);
+        min-height: 554px;
+        background-image: url(../images/about.jpg);
+        background-position: right;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 180px;
+        filter: brightness(.9);
     }
 
 
@@ -4253,6 +4265,7 @@ print {
     }
 
     #u6629 {
+        min-height: 261px;
         background-image: url("../images/permits.jpg");
         margin-top: 16px;
         position: relative;
