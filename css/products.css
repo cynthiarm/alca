@@ -1604,7 +1604,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 22px;
         right: 150px;
     }
 
@@ -1632,7 +1632,7 @@ print {
         min-height: 14px;
         position: relative;
         margin-right: -10000px;
-        top: 40px;
+        top: 18px;
     }
 
     #u23832:hover #u23835-4 {

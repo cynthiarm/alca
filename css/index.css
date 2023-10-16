@@ -1310,7 +1310,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 22px;
         right: 150px;
     }
 
@@ -2862,7 +2862,7 @@ print {
 
     #u39061-4 {
         z-index: 124;
-        right: 179px!important;
+        right: 177px!important;
         margin-top: 0px;
     }
 
@@ -2906,7 +2906,7 @@ print {
         padding-top: 17px;
         padding-bottom: 17px;
         position: fixed;
-        top: 0px;
+        top: 20px;
         right: 47px;
 
     }
@@ -3330,6 +3330,7 @@ print {
     #widgetu22136_input {
         min-height: 16px;
         width: 100%;
+        left: -140px;
     }
 
     #widgetu22136_prompt {
@@ -3343,7 +3344,8 @@ print {
         height: 19px;
         margin-top: 6px;
         width: 32.5%;
-        margin-left: 28.75%;
+        margin-left: 25%;
+        color: #FFFFFF;
     }
 
     #u22135-4:hover {
@@ -3352,6 +3354,7 @@ print {
         height: 19px;
         width: 32.5%;
         margin-left: 33.75%;
+        color: #FFFFFF;
     }
 
     #u22135-4:active {
@@ -3402,7 +3405,7 @@ print {
 
     #u23861-bw {
         min-height: 41px;
-        margin-top: -30px;
+        margin-top: 16px;
     }
 
     body {
@@ -3434,12 +3437,13 @@ print {
 
     #u39061-4 {
         z-index: 142;
-        right: 129px;
+        right: 10px;
+        margin-top: 15px;
     }
 
     #u39062-4 {
         z-index: 146;
-        right: 94px;
+        right: 10px;
     }
 
     #ppamphletu23788 {
@@ -3476,7 +3480,7 @@ print {
         padding-bottom: 18px;
         position: fixed;
         top: 0px;
-        right: 39px;
+        right: 5px;
     }
 
     #u23826 {
@@ -3819,6 +3823,7 @@ print {
         margin-top: 63px;
         width: 84.22%;
         margin-left: 7.9%;
+        text-align: center;
     }
 
     #widgetu22131 {
@@ -3829,7 +3834,7 @@ print {
 
     #widgetu22136 {
         width: 100.65%;
-        left: -0.33%;
+        left: -1%;
     }
 
     #widgetu22136.fld-err-st {
@@ -3869,7 +3874,8 @@ print {
 
     #widgetu22136_prompt {
         height: 16px;
-        width: 100%;
+        width: 120%;
+        left: -190px;
     }
 
     #u22135-4 {
@@ -3879,6 +3885,15 @@ print {
         margin-left: 34.94%;
     }
 
+    #u22140-16 {
+        text-align: center;
+        min-height: 0px;
+        background-color: transparent;
+        z-index: 52;
+        position: relative;
+        width: 100%;
+        left: 55%;
+    }
     #u22135-4:hover {
         margin-right: 0px;
         margin-top: 9px;

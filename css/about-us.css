@@ -81,7 +81,7 @@
     min-height: 50px;
     font-size: 14px;
     background-color: transparent;
-    color: #008C3F;
+    color: #ff9934;
     position: fixed;
 }
 
@@ -3187,13 +3187,13 @@ print {
 
     #u39281-4 {
         z-index: 209;
-        right: 9px!important;
+        right: 10px!important;
         margin-top: 0px;
     }
 
     #u39282-4 {
         z-index: 213;
-        right: 7px!important;
+        right: 10px!important;
         margin-top: 15px!important;
     }
 

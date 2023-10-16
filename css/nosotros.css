@@ -985,7 +985,7 @@ print {
         z-index: 0;
         margin-top: 48px;
         width: 55.59%;
-        margin-left: 22.35%;
+        margin-left: 5%;
     }
 
     #pu6741-4 {
@@ -1032,19 +1032,20 @@ print {
 
     #u6629 {
         min-height: 261px;
-        background-image: url(../images/iStock-478071674.jpg);
+        background-image: url(../images/permits.jpg);
         position: relative;
         margin-right: -10000px;
-        width: 39.21%;
-        margin-left: 5%;
-        margin-top: 28px;
+        width: 49.21%;
+        left: 60.8%;
+        margin-left: 40.2%;
         filter: brightness(.7);
     }
 
     #u6645 {
         padding-bottom: 12px;
         width: 32.28%;
-        margin-left: 38%;
+        margin-left: -25%;
+    
     }
 
     #u6665 {
@@ -1344,7 +1345,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 22px;
         right: 150px;
     }
 
@@ -1524,16 +1525,22 @@ print {
 
     #u6526 {
         min-height: 534px;
+        background-image: url(../images/about.jpg);
         padding-bottom: 75px;
+    }
     }
 
     #u6566-14 {
         min-height: 427px;
-        background-color: #599C7D;
-        background-color: rgba(0, 104, 55, 0.65);
-        margin-top: 107px;
-        width: 44%;
-        left: 28.01%;
+        background-color: #ff9934;
+        background-color: rgb(247 133 56 / 74%);
+        margin-top: 127px;
+        width: 42.49%;
+        left: 28.76%;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
     }
 
     #u6566-2 {
@@ -1599,11 +1606,11 @@ print {
     }
 
     #pu6741-4 {
-        z-index: 75;
+        z-index: 61;
         margin-right: -10000px;
-        width: 56.88%;
+        width: 53.48%;
         left: 0%;
-        margin-left: 50.29%;
+        margin-left: 40.2%;
     }
 
     #u6741-4 {
@@ -1643,15 +1650,6 @@ print {
         left: 60.96%;
     }
 
-    #u6629 {
-        width: 262px;
-        background-image: url("../images/permits.jpg");
-        padding-bottom: 159px;
-        position: relative;
-        margin-right: -10000px;
-        left: 62.47%;
-        margin-left: 50.29%;
-    }
 
     #u6645 {
         width: 84px;
@@ -1668,10 +1666,11 @@ print {
 
     #pamphletu7254 {
         margin-right: -10000px;
-        margin-top: 220px;
-        width: 99.43%;
-        margin-left: 50.58%;
-        left: -1px;
+        margin-top: 235px;
+        width: 225%;
+        margin-left: -129%;
+        left: 9px;
+
     }
 
     #u7274 {
@@ -1771,7 +1770,7 @@ print {
 
     #u6821 {
         min-height: 407.5500000000004px;
-        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg?crc=4053573867");
+        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg");
         padding-bottom: 0px;
     }
 
@@ -1782,7 +1781,7 @@ print {
 
     #u6877 {
         width: 106px;
-        left: 70.08%;
+        left: 48%;
     }
 
     #u6837-4 {
@@ -1790,8 +1789,8 @@ print {
         line-height: 28px;
         font-size: 23px;
         margin-top: 19px;
-        width: 24.29%;
-        left: 61.72%;
+        width: 28.35%;
+        left: 35.5%;
     }
 
     #u6855-4 {
@@ -1799,8 +1798,8 @@ print {
         line-height: 19px;
         font-size: 16px;
         margin-top: 11px;
-        width: 24.29%;
-        left: 61.72%;
+        width: 28.35%;
+        left: 35.5%;
     }
 
     #u6821-bw {
@@ -1929,7 +1928,7 @@ print {
 
     #u256-bw {
         min-height: 32px;
-        margin-top: -1px;
+        margin-top: 27px;
     }
 
     body {
@@ -1939,7 +1938,7 @@ print {
     .verticalspacer {
         min-height: 30px;
     }
-}
+
 
 @media (min-width: 961px) and (max-width: 1200px) {
     #muse_css_mq {
