@@ -407,6 +407,7 @@
     padding: 6px 33px 6px 32px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    margin-top: -1px;
 }
 
 #u26218-4:hover,
@@ -933,6 +934,7 @@ print {
         margin-right: -10001px;
         margin-top: 156px;
         height: 23px;
+        padding: 7px 0px 0px;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
         padding: 6px 33px 6px 32px;
@@ -940,16 +942,30 @@ print {
         border-bottom-right-radius: 5px;
     }
 
+    #u26218-4:hover, #u26218-4:active {
+        border-color: transparent;
+        padding-top: 7px;
+        background-color: #ff9934;
+        border-width: 1px;
+        padding-bottom: 0px;
+        min-height: 0px;
+        width: 130px;
+        border-style: solid;
+        margin-bottom: -1px;
+    }
+
     #u26218-4:active {
         margin-left: 80px;
         margin-right: -10001px;
         margin-top: 156px;
         height: 23px;
+        padding: 7px 0px 0px;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
         padding: 6px 33px 6px 32px;
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
+
     }
 
     #widgetu26214 {
@@ -1257,8 +1273,8 @@ print {
         padding-top: 41px;
         padding-bottom: 71px;
         margin-top: 115px;
-        width: 95%;
-        margin-left: 8%;
+        width: 80%;
+        margin-left: 15%;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
         border-top-right-radius: 5px;
@@ -1423,24 +1439,24 @@ print {
     }
 
     #u26218-4 {
-        height: 22px;
+        height: 23px;
         margin-right: -10000px;
         margin-top: 172px;
         margin-left: 80px;
     }
 
     #u26218-4:hover {
+        height: 23px;
+        margin-right: -10000px;
+        margin-top: 172px;
         margin-left: 80px;
-        margin-right: -10001px;
-        margin-top: 156px;
-        height: 22px;
     }
 
     #u26218-4:active {
-        margin-left: -1px;
+        margin-left: 80px;
         margin-right: -10001px;
-        margin-top: 156px;
-        height: 22px;
+        margin-top: 172px;
+        height: 23px;
     }
 
     #widgetu26214 {

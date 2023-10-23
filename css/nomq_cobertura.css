@@ -248,9 +248,9 @@
 }
 
 #u39757 {
-    background: -webkit-gradient(linear, center top, center bottom, from(#009245), color-stop(60%, #39B54A));
-    background: -webkit-linear-gradient(top, #009245, #39B54A 60%);
-    background: linear-gradient(to bottom, #009245, #39B54A 60%);
+    background: -webkit-gradient(linear, center top, center bottom, from(#009245), color-stop(60%, #ff9934));
+    background: -webkit-linear-gradient(top, #009245, #ff9934 60%);
+    background: linear-gradient(to bottom, #009245, #ff9934 60%);
     padding-bottom: 122px;
     top: -1px;
     margin-bottom: -1px;

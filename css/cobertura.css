@@ -847,9 +847,9 @@ print {
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #39B54A));
-        background: -webkit-linear-gradient(top, #ff9934, #39B54A 60%);
-        background: linear-gradient(to bottom, #ff9934, #39B54A 60%);
+        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
+        background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
+        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
         padding-bottom: 125px;
     }
 
@@ -1171,9 +1171,9 @@ print {
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #39B54A));
-        background: -webkit-linear-gradient(top, #ff9934, #39B54A 60%);
-        background: linear-gradient(to bottom, #ff9934, #39B54A 60%);
+        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
+        background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
+        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
         padding-bottom: 129px;
     }
 
@@ -1496,9 +1496,9 @@ print {
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #39B54A));
-        background: -webkit-linear-gradient(top, #ff9934, #39B54A 60%);
-        background: linear-gradient(to bottom, #ff9934, #39B54A 60%);
+        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
+        background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
+        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
         padding-bottom: 127px;
     }
 
@@ -2337,9 +2337,9 @@ print {
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #39B54A));
-        background: -webkit-linear-gradient(top, #ff9934, #39B54A 60%);
-        background: linear-gradient(to bottom, #ff9934, #39B54A 60%);
+        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
+        background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
+        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
         padding-top: 80px;
         padding-bottom: 121.19999999999982px;
         margin-top: 143px;

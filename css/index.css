@@ -581,7 +581,7 @@
 }
 
 #widgetu22131.frm-sub-st #u22135-4 {
-    background-color: #39B54A;
+    background-color: #ff9934;
 }
 
 #pu22132-4 {
@@ -1170,7 +1170,8 @@ print {
 
     #widgetu22131.frm-sub-st #u22132-4,
     #widgetu22131.frm-subm-err-st #u22133-4 {
-        left: 0px;
+        left: 370px;
+        margin-top: 45px;
         margin-left: 0px;
     }
 
@@ -1189,14 +1190,15 @@ print {
     }
 
     #u22135-4 {
+        margin-right: -10000px;
+        margin-top: 0px;
         width: 130px;
         height: 19px;
-        margin-right: -10000px;
         margin-left: 50%;
         left: 95px;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
-        padding: 9px 43px 6px 42px;
+        padding: 6px 43px 6px 42px;
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
     }
