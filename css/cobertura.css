@@ -615,9 +615,11 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
-        right: 150px;
+        top: 22px;
+        right: 375px;
+
     }
+
 
     #u979 {
         width: 98px;
@@ -778,12 +780,12 @@ print {
 
     #u39187-4 {
         z-index: 63;
-        right: 97px;
+        right: 320px;
     }
 
     #u39188-4 {
         z-index: 67;
-        right: 62px;
+        right: 285px;;
     }
 
     #ppu7794 {
@@ -796,7 +798,7 @@ print {
 
     #pu7794 {
         z-index: 2;
-        width: 89.43%;
+        width: 86.15%;
     }
 
     #u7794 {
@@ -804,21 +806,23 @@ print {
         padding-bottom: 2px;
         position: relative;
         margin-right: -10000px;
-        width: 55.92%;
+        width: 120%;
+        
     }
 
     #u7810 {
-        margin-top: 290px;
-        width: 103.29%;
-        left: 23.86%;
+        margin-top: 175px;
+        width: 104.58%;
+        left: 8%;
+    
     }
 
     #pu7945 {
         z-index: 9;
         margin-right: -10000px;
-        margin-top: 134px;
-        width: 32.19%;
-        margin-left: 67.82%;
+        margin-top: 144px;
+        width: 25.46%;
+        margin-left: 74.55%;
     }
 
     #u7945 {
@@ -833,24 +837,33 @@ print {
     #u7924-4 {
         min-height: 33px;
         line-height: 31px;
-        font-size: 26px;
-        margin-top: 27px;
+        font-size: 22px;
+        margin-top: 28px;
         width: 100%;
     }
 
     #u7966-4 {
-        min-height: 142px;
+        text-align: justify;
+        background-color: transparent;
+        z-index: 24;
+        font-weight: 300;
+        font-family: lato, sans-serif;
         line-height: 22px;
-        font-size: 18px;
-        margin-top: 13px;
-        width: 100%;
+        font-size: 16px;
+        color: #ffffff;
+        position: relative;
     }
 
+    #u7966-4 {
+        min-height: 165px;
+        margin-top: 8px;
+        width: 100%;
+    }
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
-        background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
-        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
-        padding-bottom: 125px;
+        background-color: #FFFFFF;
+        padding-bottom: 5px;
+        top: -20px;
+        margin-bottom: -1px;
     }
 
     #u8060 {
@@ -879,7 +892,7 @@ print {
         width: 109px;
         min-height: 32px;
         margin-top: 12px;
-        margin-left: 28%;
+        margin-left: 20%;
     }
 
     #u8094-4:hover {
@@ -896,6 +909,15 @@ print {
     #u256 {
         min-height: 32px;
         padding-bottom: 18px;
+    }
+
+
+    #u24551 {
+        width: 118px;
+        left: -59px;
+        margin: 5px -900px 40px 25%;
+        margin-bottom: 40px;
+        margin-left: 100px;
     }
 
     #u3887-6 {
