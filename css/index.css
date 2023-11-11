@@ -39,7 +39,7 @@
 
 #u23786 {
     top: 5px;
-    width: 403px;
+    width: 295px;
     z-index: 88;
     position: fixed;
 }
@@ -51,11 +51,11 @@
 #u39061-4 {
     text-align: center;
     width: 35px;
-    top: 0px;
+    top: 45px;
     font-family: lato, sans-serif;
     font-weight: 400;
     line-height: 14px;
-    min-height: 50px;
+    min-height: 20px;
     font-size: 14px;
     background-color: transparent;
     color: #666666;
@@ -70,11 +70,12 @@
 #u39062-4 {
     text-align: center;
     width: 35px;
-    top: 0px;
+    top: 50px;
     font-family: lato, sans-serif;
     font-weight: 400;
     line-height: 14px;
-    min-height: 50px;
+    min-height: 20px;
+    max-height: 20px;
     font-size: 14px;
     background-color: transparent;
     color: #ff9934;
@@ -100,7 +101,7 @@
 
 #u39061-2,
 #u39062-2 {
-    padding-top: 40px;
+    padding-top: 0px;
 }
 
 #pslideshowu22202 {
@@ -239,6 +240,7 @@
     margin-right: -10000px;
     z-index: 17;
 }
+
 
 #u22213-9 {
     border-color: transparent;
@@ -904,11 +906,13 @@ print {
     #u39061-4 {
         z-index: 123;
         right: 115px;
+        top: 40px!important;
     }
 
     #u39062-4 {
         z-index: 127;
         right: 80px;
+        top: 0px!important;
     }
 
     #pslideshowu22202 {
@@ -2362,7 +2366,7 @@ print {
     }
 
     #u23786 {
-        left: 80px;
+        left: 10px;
     }
 
     #menuu23830 {
@@ -2370,7 +2374,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 22px;
         right: 110px;
     }
 
@@ -2602,13 +2606,23 @@ print {
     }
 
     #u22212popup {
-        top: 231px;
-        height: 134px;
-        width: 68.96%;
-        left: 15.53%;
+            top: 164px;
+            height: 900px;
+            width: 65%;
+            min-height: 127px;
+            background-color: rgb(8 8 8 /30%);
+            left: 18%;
+            border-top-left-radius: 8px;
+            border-bottom-left-radius: 8px;
+            border-top-right-radius: 8px;
+            border-bottom-right-radius: 8px;
     }
+    
+    #u22212 {
+            height: 314px!important;
+    }   
 
-    #u22213-2 {
+    #u22213-2, #u22213-3 {
         font-size: 28px;
         line-height: 31px;
         padding-top: 25px;
@@ -2618,7 +2632,7 @@ print {
     #u22215-9,
     #u22214-9 {
         min-height: 114px;
-        margin-top: 100px;
+        margin-top: 70px;
     }
 
     #u22215-2,
@@ -2656,10 +2670,10 @@ print {
     }
 
     #u22141 {
-        width: 71px;
+        width: 100px;
         margin-bottom: -34px;
         margin-top: 194px;
-        left: 14.9%;
+        left: 3%;
     }
 
     #u22140-10 {
@@ -2667,22 +2681,23 @@ print {
         margin-right: -10000px;
         margin-top: 183px;
         width: 35%;
-        left: 32.94%;
+        left: 18%;
     }
 
     #widgetu22131 {
         margin-bottom: -25px;
         margin-right: -10000px;
-        margin-top: 193px;
+        margin-top: 210px;
         width: 29.17%;
-        left: 55.63%;
+        left: 46%;
     }
 
     #widgetu22136 {
-        width: 282px;
+        width: 22px;
         height: 30px;
         margin-left: 50%;
-        left: -141px;
+        left: -60px;
+    
     }
 
     #widgetu22136.fld-err-st {
@@ -2864,13 +2879,13 @@ print {
 
     #u39061-4 {
         z-index: 124;
-        right: 177px!important;
+        right: 195px!important;
         margin-top: 0px;
     }
 
     #u39062-4 {
         z-index: 146;
-        right: 177px!important;
+        right: 195px!important;
         margin-top: 15px!important;
 
     }
@@ -2885,7 +2900,7 @@ print {
     #pamphletu23788 {
         z-index: 90;
         position: relative;
-        width: 81.03%;
+        width: 71.03%;
         margin-left: 7.7%;
     }
 
@@ -2905,11 +2920,11 @@ print {
     #u23825 {
         width: 47px;
         height: 16px;
-        padding-top: 17px;
+        padding-top: 20px;
         padding-bottom: 17px;
         position: fixed;
-        top: 20px;
-        right: 47px;
+        top: 30px;
+        left: 370px;
 
     }
 
@@ -3364,7 +3379,7 @@ print {
         margin-top: 6px;
         height: 19px;
         width: 32.5%;
-        margin-left: 33.75%;
+        margin-left: 27%;
     }
 
     #pu22132-4 {

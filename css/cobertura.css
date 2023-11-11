@@ -43,7 +43,7 @@
 
 #u348 {
     top: 5px;
-    width: 403px;
+    width: 295px;
     z-index: 30;
     position: fixed;
 }
@@ -55,11 +55,11 @@
 #u39187-4 {
     text-align: center;
     width: 35px;
-    top: 0px;
+    top: 44px;
     font-family: lato, sans-serif;
     font-weight: 400;
     line-height: 14px;
-    min-height: 50px;
+    min-height: 20px;
     font-size: 14px;
     background-color: transparent;
     color: #ff9934;
@@ -68,7 +68,7 @@
 
 #u39187-4.MuseLinkActive p {
     text-align: center;
-    padding-top: 40px;
+    padding-top: 0px;
     color: #ff9934;
     visibility: inherit;
 }
@@ -76,11 +76,11 @@
 #u39188-4 {
     text-align: center;
     width: 35px;
-    top: 0px;
+    top: 12px;
     font-family: lato, sans-serif;
     font-weight: 400;
     line-height: 14px;
-    min-height: 50px;
+    min-height: 20px;
     font-size: 14px;
     background-color: transparent;
     color: #666666;
@@ -91,7 +91,7 @@
 #u39188-4:hover {
     padding-top: 0px;
     padding-bottom: 0px;
-    min-height: 50px;
+    min-height: 20px;
     width: 35px;
     margin: 0px;
 }
@@ -104,7 +104,7 @@
 
 #u39187-2,
 #u39188-2 {
-    padding-top: 40px;
+    padding-top: 0px;
 }
 
 #u7794 {
@@ -450,11 +450,13 @@ print {
     #u39187-4 {
         z-index: 63;
         right: 115px;
+        top: 40px!important;
     }
 
     #u39188-4 {
         z-index: 67;
         right: 80px;
+        top: 40px!important;
     }
 
     #ppu7794 {
@@ -781,11 +783,13 @@ print {
     #u39187-4 {
         z-index: 63;
         right: 320px;
+        top: 40px;
     }
 
     #u39188-4 {
         z-index: 67;
-        right: 285px;;
+        right: 285px;
+        top: 40px;
     }
 
     #ppu7794 {
@@ -961,7 +965,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 20px;
         right: 200px;
     }
 
@@ -1006,6 +1010,8 @@ print {
         position: relative;
         margin-right: -10000px;
         left: 100px;
+      
+
     }
 
     #u12880 {
@@ -1102,7 +1108,7 @@ print {
         min-height: 14px;
         position: relative;
         margin-right: -10000px;
-        top: 40px;
+        top: 20px;
     }
 
     #u1214.MuseMenuActive #u1216-4,
@@ -1125,11 +1131,13 @@ print {
     #u39187-4 {
         z-index: 63;
         right: 137px;
+        top: 40px;
     }
 
     #u39188-4 {
         z-index: 67;
         right: 102px;
+        top: 40px;
     }
 
     #ppu7794 {
@@ -1142,29 +1150,31 @@ print {
 
     #pu7794 {
         z-index: 2;
-        width: 89.17%;
+        width: 100%;
     }
 
     #u7794 {
         background-image: url("../images/cobertura.jpg");
         position: relative;
         margin-right: -10000px;
-        width: 56.08%;
+
+
+        width: 100%;
+        left: 0%;
     }
 
     #u7810 {
-        margin-bottom: -2px;
-        margin-top: 297px;
-        width: 93%;
-        left: 25.67%;
+        margin-top: 294px;
+        width: 110%;
+        left: .5%;
     }
 
     #pu7945 {
         z-index: 9;
         margin-right: -10000px;
-        margin-top: 103px;
+        margin-top: 173px;
         width: 31.5%;
-        margin-left: 68.51%;
+        margin-left: 58.51%;
     }
 
     #u7945 {
@@ -1193,10 +1203,10 @@ print {
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
-        background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
-        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
-        padding-bottom: 129px;
+        background-color: #FFFFFF;
+        padding-bottom: 5px;
+        top: -1px;
+        margin-bottom: -1px;
     }
 
     #u8060 {
@@ -1278,7 +1288,7 @@ print {
     }
 
     #u348 {
-        left: 80px;
+        left: 10px;
     }
 
     #menuu978 {
@@ -1286,7 +1296,7 @@ print {
         width: 400px;
         height: 50px;
         position: fixed;
-        top: 0px;
+        top: 20px;
         right: 110px;
     }
 
@@ -1351,7 +1361,7 @@ print {
         min-height: 14px;
         position: relative;
         margin-right: -10000px;
-        top: 40px;
+        top: 18px;
     }
 
     #u980.MuseMenuActive #u983-4,
@@ -1427,7 +1437,7 @@ print {
         min-height: 14px;
         position: relative;
         margin-right: -10000px;
-        top: 40px;
+        top: 18px;
     }
 
     #u1214.MuseMenuActive #u1216-4,
@@ -1450,11 +1460,13 @@ print {
     #u39187-4 {
         z-index: 63;
         right: 65px;
+        top: 40px;
     }
 
     #u39188-4 {
         z-index: 67;
         right: 30px;
+        top: 40px;
     }
 
     #ppu7794 {
@@ -1471,17 +1483,19 @@ print {
     }
 
     #u7794 {
-        background-image: url("../images/cobertura.jpg");
-        padding-bottom: 23px;
+
+
+        background-image: url(../images/cobertura.jpg);
         position: relative;
         margin-right: -10000px;
-        width: 56.74%;
+        width: 120%;
+        left: 0%;
     }
 
     #u7810 {
         margin-top: 312px;
         width: 100%;
-        left: 26.67%;
+        left: 6.67%;
     }
 
     #pu7945 {
@@ -1518,10 +1532,17 @@ print {
     }
 
     #u39757 {
-        background: -webkit-gradient(linear, center top, center bottom, from(#ff9934), color-stop(60%, #ff9934));
-        background: -webkit-linear-gradient(top, #ff9934, #ff9934 60%);
-        background: linear-gradient(to bottom, #ff9934, #ff9934 60%);
-        padding-bottom: 127px;
+        background-color: #FFFFFF;
+        padding-bottom: 5px;
+        top: -1px;
+        margin-bottom: -1px;
+    }
+
+    #u24551 {
+        width: 118px;
+        left: -59px;
+        margin: 5px -900px 40px 25%;
+        margin-bottom: 40px;
     }
 
     #u8060 {
@@ -1602,19 +1623,19 @@ print {
     }
 
     #u348 {
-        left: 20px;
+        left: 10px;
     }
 
     #u39187-4 {
         z-index: 82;
-        right: 10px;
+        right: 40px;
         padding-top: 20px;
 
     }
 
     #u39188-4 {
         z-index: 86;
-        right: 10px;
+        right: 40px;
         padding-top: 15px;
     }
 
@@ -1648,13 +1669,13 @@ print {
     }
 
     #u2590 {
-        width: 47px;
+        width: 40px;
         height: 16px;
         padding-top: 17px;
         padding-bottom: 17px;
         position: fixed;
-        top: 0px;
-        right: 7px;
+        top: 17px;
+        right: 0px;
     }
 
     #u2593 {
@@ -1910,8 +1931,9 @@ print {
         width: 80px;
         margin-right: -10000px;
         margin-top: -380px;
-        margin-left: 40%;
-        left: -39px;
+        margin-left: 42%;
+
+
     }
 
 

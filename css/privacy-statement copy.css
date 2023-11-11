@@ -55,11 +55,11 @@
 #u39405-4 {
     text-align: center;
     width: 35px;
-    top: 0px;
+    top: 32px;
     font-family: lato, sans-serif;
     font-weight: 400;
     line-height: 14px;
-    min-height: 50px;
+    min-height: 20px;
     font-size: 14px;
     background-color: transparent;
     color: #666666;
@@ -78,7 +78,7 @@
     font-family: lato, sans-serif;
     font-weight: 400;
     line-height: 14px;
-    min-height: 50px;
+    min-height: 20px;
     font-size: 14px;
     background-color: transparent;
     color: #fc8004;
@@ -89,21 +89,21 @@
 #u39406-4.MuseLinkActive {
     padding-top: 0px;
     padding-bottom: 0px;
-    min-height: 50px;
+    min-height: 20px;
     width: 35px;
     margin: 0px;
 }
 
 #u39406-4.MuseLinkActive p {
     text-align: center;
-    padding-top: 40px;
+    padding-top: 0px;
     color: #fc8004;
     visibility: inherit;
 }
 
 #u39405-2,
 #u39406-2 {
-    padding-top: 40px;
+    padding-top: 0px;
 }
 
 #u27045-7 {
