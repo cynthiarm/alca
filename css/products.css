@@ -5195,17 +5195,19 @@ print {
     }
 
     #u23786 {
-        left: 40px;
+        left: 5px;
     }
 
     #u39312-4 {
         z-index: 144;
-        right: 129px;
+        right: 38px!important;
+        margin-top: -5px!important;
     }
 
     #u39313-4 {
         z-index: 148;
-        right: 94px;
+        right: 36px!important;
+        margin-top: 15px!important;
     }
 
     #ppamphletu23788 {
@@ -5239,11 +5241,11 @@ print {
     #u23825 {
         width: 47px;
         height: 16px;
-        padding-top: 16px;
-        padding-bottom: 18px;
+        padding-top: 17px;
+        padding-bottom: 17px;
         position: fixed;
-        top: 0px;
-        right: 39px;
+        top: 22px;
+        right: 0px;
     }
 
     #u23826 {
@@ -5994,8 +5996,10 @@ print {
 
     #u24551 {
         width: 82px;
+        margin-right: -10000px;
+        margin-top: 55px;
+        margin-left: 50%;
         left: -41px;
-        margin: 190px -10000px -30px 50%;
     }
 
     #u24550-bw {
@@ -6007,7 +6011,7 @@ print {
         min-height: 57px;
         line-height: 24px;
         font-size: 20px;
-        margin-top: 250px;
+        margin-top: -65px;
         position: relative;
         width: 82.64%;
         left: 0%;

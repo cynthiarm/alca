@@ -3134,18 +3134,19 @@ print {
     }
 
     #u23786 {
-        left: 10px;
+        left: 5px;
     }
 
     #u39374-4 {
         z-index: 124;
-        right: 10px;
-        margin-top: 15px;
+        right: 36px!important;
+        margin-top: 15px!important;
     }
 
     #u39375-4 {
         z-index: 128;
-        right: 10px;
+        right: 35px!important;
+        margin-top: -25px!important;
     }
 
     #ppamphletu23788 {
@@ -3179,11 +3180,11 @@ print {
     #u23825 {
         width: 47px;
         height: 16px;
-        padding-top: 16px;
-        padding-bottom: 18px;
+        padding-top: 17px;
+        padding-bottom: 17px;
         position: fixed;
-        top: 0px;
-        right: 5px;
+        top: 22px;
+        right: 0px;
     }
 
     #u23826 {

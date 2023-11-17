@@ -3845,16 +3845,16 @@ print {
 
 @media (max-width: 380px) {
     #muse_css_mq {
-        background-color: #00017c;
+        background-color: #00030c;
     }
 
-    #bp_380.active {
+    #bp_780.active {
         display: block;
     }
 
     #page {
-        min-height: 2840px;
-        max-width: 380px;
+        min-height: 243px;
+        max-width: 780px;
     }
 
     #u23786 {
@@ -3863,30 +3863,31 @@ print {
 
     #u39281-4 {
         z-index: 209;
-        right: 88px;
-        margin-top: 0px;
+        right: 47px!important;
+        margin-top: -5px!important;
+
     }
 
     #u39282-4 {
         z-index: 213;
-        right: 88px;
-        top: 40px !important;
+        right: 45px!important;
+        margin-top: 30px!important;
     }
 
     #ppamphletu23788 {
         z-index: 155;
-        height: 2785.6999999999994px;
+        height: 2700px;
         padding-bottom: 0px;
         margin-right: -10000px;
-        width: 188.95%;
-        margin-left: -88.95%;
+        width: 188.85%;
+        margin-left: -88.85%;
     }
 
     #pamphletu23788 {
         z-index: 155;
         position: relative;
-        width: 46.66%;
-        margin-left: 50.14%;
+        width: 42.91%;
+        margin-left: 51.13%;
     }
 
     #pamphletu23788_position_content {
@@ -3898,18 +3899,18 @@ print {
         z-index: 156;
         padding-bottom: 50px;
         position: relative;
-        width: 14.03%;
-        margin-left: 80.9%;
+        width: 7.44%;
+        margin-left: 102.22%;
     }
 
     #u23825 {
         width: 47px;
         height: 16px;
-        padding-top: 16px;
-        padding-bottom: 18px;
+        padding-top: 17px;
+        padding-bottom: 17px;
         position: fixed;
-        top: 31px;
-        right: 46px;
+        top: 22px;
+        right: 0px;
     }
 
     #u23826 {
@@ -3961,8 +3962,8 @@ print {
 
     #pu23789 {
         z-index: 161;
-        margin-top: 4px;
         width: 100%;
+        margin-left: 2.22%;
     }
 
     #u23789 {
@@ -3972,14 +3973,14 @@ print {
 
     #u23789popup {
         z-index: 161;
-        height: 515px;
+        height: 520px;
         margin-right: -10000px;
         width: 100%;
     }
 
     #u23790 {
         z-index: 162;
-        padding-bottom: 52px;
+        padding-bottom: 57px;
         margin-right: -10000px;
         position: relative;
         width: 100%;
@@ -3990,8 +3991,8 @@ print {
         position: relative;
         margin-right: -10000px;
         margin-top: 69px;
-        width: 92.84%;
-        left: 3.59%;
+        width: 92.09%;
+        left: 3.96%;
     }
 
     #u23807 {
@@ -4117,22 +4118,16 @@ print {
         position: relative;
         margin-right: -10000px;
         margin-top: 5px;
-        width: 74.2%;
-        left: 12.91%;
+        width: 98.11%;
+        left: 1.04%;
     }
 
     #u23822popup {
-        margin-top: 22px;
+        margin-top: 27px;
         height: 30px;
         margin-right: -10000px;
-        width: 9.26%;
-        margin-left: 45.38%;
-    }
-
-    #pu28801 {
-        z-index: 3;
-        width: 52.93%;
-        margin-left: 47.08%;
+        width: 91.78%;
+        margin-left: 4.12%;
     }
 
     #u28801 {
@@ -4145,51 +4140,24 @@ print {
         filter: brightness(.9);
     }
 
-    #u28801-bw {
-        height: 592px;
-    }
-
-    #u28807-4 {
-        min-height: 132px;
-        margin-right: -10000px;
-        margin-top: 829px;
-        width: 74.74%;
-        left: 12.64%;
-    }
-
-    #u28787-4 {
-        min-height: 18px;
-        line-height: 24px;
-        font-size: 20px;
-        margin-right: -10000px;
-        margin-top: 768px;
-        width: 74.74%;
-        left: 12.64%;
+    #u28801_align_to_page {
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        width: 100%;
     }
 
     #u28812-14 {
-        min-height: 430px;
-        margin-top: 94px;
-        width: 76.06%;
-        left: 12.64%;
-        min-height: 427px;
+        min-height: 227px;
         background-color: #ff9934;
         background-color: rgb(247 133 56 / 74%);
+        margin-top: 127px;
+        width: 80%;
+        left: 10%;
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
-    }
-
-
-    #u28812-5, #u28812-6, #u28812-8, #u28812-9, #u28812-11 {
-        text-align: justify;
-        padding-left: 40px;
-        line-height: 25px;
-        font-weight: 300;
-        font-size: 14px;
-        font-family: lato, sans-serif;
-        padding-right: 40px;
     }
 
     #u28812-12 {
@@ -4198,50 +4166,83 @@ print {
     }
 
     #u28799 {
-        width: 85px;
-        margin-top: 51px;
-        left: 38.95%;
+        margin-top: 93px;
+        width: 25%;
+        left: 39%;
+        height: 178px;
+       
     }
 
     #permits {
-        margin-top: 512px;
-        left: 48.69%;
+        margin-top: 542px;
+        left: 48.59%;
     }
 
-    #pu28797 {
-        z-index: 55;
-        margin-top: 8px;
-        width: 37.61%;
-        margin-left: 54.32%;
-    }
-
-    #u28797 {
-        width: 57.78%;
-    }
-
-    #u28803 {
-        margin-top: 3px;
-        width: 37.78%;
-        left: 62.23%;
+    #u28801-bw {
+        min-height: 588px;
     }
 
     #pu29137-3 {
         z-index: 47;
-        margin-top: 16px;
-        width: 39.42%;
-        margin-left: 68%;
+        width: 52.96%;
+        margin-left: 47.05%;
     }
 
     #u29137-3 {
-        min-height: 72px;
+        min-height: 161px;
         background-image: url("../images/permits.jpg");
         position: relative;
         margin-right: -10000px;
-        width: 100%;
+        width: 39.21%;
+        left: 60.8%;
+        margin-left: 40.2%;
+        filter: brightness(.7);
+    }
+
+    #u29137-3-bw {
+        z-index: 47;
+        min-height: 209px;
+    }
+
+    #u28787-4 {
+        min-height: 36px;
+        line-height: 24px;
+        font-size: 18px;
+        margin-right: -10000px;
+        margin-top: 64px;
+        width: 78%;
+        left: 10%;
+    }
+
+    #u28807-4 {
+        min-height: 91px;
+        margin-top: -84px;
+        width: 40.55%;
+        margin-left: 53%;
+    }
+
+    #ppu28797 {
+        z-index: 0;
+        margin-top: 13px;
+        width: 40%;
+        margin-left: 53.25%;
+    }
+
+    #pu28797 {
+        z-index: 55;
+        margin-right: -10000px;
+        width: 42.16%;
+        margin-left: 23.55%;
+    }
+
+    #responsibility {
+        margin-top: 11px;
+        left: 57.98%;
     }
 
     #u28791 {
-        width: 25.09%;
+        margin-top: 3px;
+        width: 15.92%;
     }
 
     #u28791 .fluid_height_spacer {
@@ -4249,107 +4250,27 @@ print {
     }
 
     #u28785 {
-        margin-top: 9px;
-        width: 19.09%;
-        left: 2.83%;
+        margin-top: 11px;
+        width: 11.89%;
+        left: 2.25%;
     }
 
-    #responsibility {
-        margin-top: 27px;
-        left: 48.77%;
+    #u28803 {
+        margin-top: 4px;
+        width: 28.03%;
+        left: 71.98%;
     }
 
     #pamphletu28902 {
-        margin-top: 17px;
-        width: 75.63%;
-    }
-
-    #pamphletu28902_position_content {
-        margin-top: -433px;
-        width: 100%;
-    }
-
-    #pu28912 {
-        z-index: 96;
-        width: 46.23%;
-        margin-left: 74.04%;
-    }
-
-    #u28912 {
-        background-color: #444444;
-        background-color: rgba(48, 48, 48, 0.9);
-    }
-
-    #u28912popup {
-        height: 440px;
-        width: 100%;
-    }
-
-    #u28913 {
-        padding-top: 68px;
-        padding-bottom: 2px;
-    }
-
-    #u28918-4 {
-        min-height: 46px;
-        width: 99.61%;
-        margin-left: 0.4%;
-    }
-
-    #u28923-8 {
-        min-height: 74px;
-        margin-top: 24px;
-        width: 99.61%;
-        margin-left: 0.4%;
-    }
-
-    #u28914-8 {
-        min-height: 77px;
-        top: -1px;
-        margin-bottom: -1px;
-        width: 99.61%;
-        margin-left: 0.4%;
-    }
-
-    #u28919-8 {
-        min-height: 77px;
-        width: 99.61%;
-        margin-left: 0.4%;
-    }
-
-    #u28927-8 {
-        min-height: 74px;
-        top: -1px;
-        margin-bottom: -1px;
-        width: 99.61%;
-        margin-left: 0.4%;
-    }
-
-    #u28786,
-    #u28910 {
-        width: 100%;
-    }
-
-    #u28910:hover {
-        width: 100%;
-    }
-
-    #u28911-4 {
-        width: 66.67%;
-        left: 16.67%;
-    }
-
-    #u28910popup {
-        margin-top: 21px;
-        width: 11.96%;
-        margin-left: 43.83%;
+        margin-top: 9px;
+        width: 75%;
     }
 
     #u28905 {
-        margin-top: -7px;
-        margin-bottom: -7px;
-        width: 29.29%;
-        margin-left: 82.51%;
+        width: 40%;
+        margin-left: 78%;
+        left: 0px;
+        height: 45px;
     }
 
     #u28906 {
@@ -4359,6 +4280,7 @@ print {
     #u28907-4 {
         min-height: 21px;
         width: 100%;
+        margin-top: 8px;
     }
 
     #u28906:hover #u28907-4 {
@@ -4371,121 +4293,214 @@ print {
         width: 100%;
     }
 
-    #u28806 {
-        min-height: 542.9000000000005px;
-        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg");
-        padding-bottom: 0px;
+    #u28912 {
+        background-color: #444444;
+        background-color: rgba(48, 48, 48, 0.9);
     }
 
-    #u28806_align_to_page {
-        padding-top: 121px;
-        padding-bottom: 125px;
+    #u28912popup {
+        margin-top: -423px;
+        height: 439px;
+        width: 27.02%;
+        margin-left: 83.76%;
     }
 
-    #u28814 {
-        width: 23.16%;
-        left: 40%;
-    }
-
-    #u28910:active,
-    #u28815 {
+    #u28913_position_content {
+        padding-top: 68px;
+        padding-bottom: 1px;
         width: 100%;
     }
 
+    #u28918-4 {
+        min-height: 46px;
+        width: 99.67%;
+        margin-left: 0.34%;
+    }
+
+    #u28923-8 {
+        min-height: 74px;
+        margin-top: 24px;
+        width: 99.67%;
+    }
+
+    #u28914-8 {
+        min-height: 77px;
+        top: -1px;
+        margin-bottom: -1px;
+        width: 99.67%;
+    }
+
+    #u28919-8 {
+        min-height: 77px;
+        width: 99.67%;
+    }
+
+    #u28927-8 {
+        min-height: 74px;
+        top: -1px;
+        margin-bottom: -1px;
+        width: 99.67%;
+    }
+
+    #u28800,
+    #u28797,
+    #u28786,
+    #u28910 {
+        width: 100%;
+        height: 86px;
+    }
+
+    #u28910:hover {
+        width: 100%;
+    }
+
+    #u28910:active {
+        width: 100%;
+    }
+
+    #u28911-4 {
+        width: 66.13%;
+        left: 16.13%;
+    }
+
+    #u28910popup {
+        margin-top: -402px;
+        width: 5.57%;
+        margin-left: 94.44%;
+    }
+
+    #u28806 {
+        min-height: 527px;
+        background-image: url("../images/lrcp-nosotros-responsabilidad.jpg");
+    }
+
+    #u28806_align_to_page {
+        padding-top: 148px;
+        padding-bottom: 113px;
+    }
+
+    #u28814 {
+        width: 106px;
+        margin-left: -10%;
+        left: 52%;
+    }
+
     #u28813-4 {
-        min-height: 24px;
+        min-height: 26px;
         line-height: 24px;
         font-size: 20px;
-        margin-top: 25px;
-        width: 74.74%;
-        left: 12.64%;
+        margin-top: 24px;
+        width: 77.7%;
+        left: 11.16%;
     }
 
     #u28809-4 {
-        min-height: 136px;
-        line-height: 19px;
-        font-size: 16px;
-        margin-top: 24px;
-        width: 74.74%;
-        left: 12.64%;
+        min-height: 94px;
+        margin-top: 16px;
+        width: 78%;
+        left: 11%;
     }
 
     #u28806-bw {
-        min-height: 542.9000000000005px;
-        margin-top: 103px;
+        min-height: 527px;
+        margin-top: 80px;
     }
 
     #u28810 {
-        margin-top: 94px;
-        margin-left: 67%;
-    }
-
-    #u28805-4 {
-        min-height: 26px;
-        line-height: 24px;
-        font-size: 20px;
-        margin-top: 11px;
-        width: 39.56%;
-        margin-left: 53.77%;
+        margin-top: 50px;
+        margin-left: 69%;
     }
 
     #u28808-4 {
-        min-height: 97px;
-        margin-top: 10px;
-        width: 39.56%;
-        margin-left: 53.77%;
+        min-height: 78px;
+        margin-top: 11px;
+        width: 30.55%;
+        margin-left: 58.25%;
     }
 
     #u28789 {
-        margin-top: 47px;
-        margin-left: 68.25%;
-    }
-
-    #u28784-4 {
-        min-height: 26px;
-        line-height: 24px;
-        font-size: 20px;
-        margin-top: 10px;
-        width: 39.56%;
-        margin-left: 53.77%;
+        margin-top: 34px;
+        margin-left: 69%;
     }
 
     #u28802-4 {
-        min-height: 70px;
+        min-height: 69px;
         margin-top: 11px;
-        width: 39.56%;
-        margin-left: 53.77%;
+        width: 30.55%;
+        margin-left: 58.25%;
     }
 
     #u28794 {
-        margin-top: 36px;
-        margin-left: 67.41%;
+        margin-top: 34px;
+        margin-left: 69%;
     }
 
+    #u28805-4,
+    #u28784-4,
     #u28792-4 {
         min-height: 26px;
         line-height: 24px;
         font-size: 20px;
-        margin-top: 19px;
-        width: 39.56%;
-        margin-left: 53.77%;
+        margin-top: 14px;
+        width: 30.55%;
+        margin-left: 58.25%;
     }
 
     #u28796-14 {
         min-height: 105px;
         margin-top: 11px;
-        width: 39.56%;
-        margin-left: 53.77%;
+        width: 30.55%;
+        margin-left: 58.25%;
     }
 
     #u28793 {
-        height: 147px;
-        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr5.jpg?crc=112001780");
+        height: 252px;
+        background-image: url("../images/lrcp-nosotros-mision%20vision%20valores-u6925-fr4.jpg");
     }
 
     #u28793-bw {
-        margin-top: 22px;
-        height: 147px;
+        margin-top: 19px;
+        height: 252px;
+    }
+
+    .css_verticalspacer .verticalspacer {
+        height: calc(100vh - 3028px);
+    }
+
+    #u23861 {
+        min-height: 41px;
+        padding-bottom: 9px;
+    }
+
+    #u23859-8 {
+        z-index: 199;
+        min-height: 32px;
+        margin-top: 9px;
+        width: 88.72%;
+        left: 5.65%;
+    }
+
+    #u23861-bw {
+        min-height: 41px;
+        margin-top: 2px;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .verticalspacer {
+        min-height: 0px;
+    }
+
+    #u28812-5, #u28812-6, #u28812-8, #u28812-9, #u28812-11 {
+        text-align: justify;
+        padding-left: 40px;
+        line-height: 25px;
+        font-weight: 300;
+        font-size: 16px;
+        font-family: lato, sans-serif;
+        padding-right: 40px;
     }
 
     .css_verticalspacer .verticalspacer {
@@ -4508,7 +4523,7 @@ print {
 
     #u23861-bw {
         min-height: 42px;
-        margin-top: -1px;
+        margin-top: 110px;
     }
 
     body {
