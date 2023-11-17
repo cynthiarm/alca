@@ -1174,7 +1174,7 @@ print {
 
     #widgetu22131.frm-sub-st #u22132-4,
     #widgetu22131.frm-subm-err-st #u22133-4 {
-        left: 370px;
+        left: 365px;
         margin-top: 45px;
         margin-left: 0px;
     }
@@ -1224,6 +1224,7 @@ print {
     #widgetu22131.frm-sub-st #u22135-4 {
         margin-left: 50%;
         left: 40px;
+        position: sticky;
     }
 
     #u22135-4:active {
@@ -1498,11 +1499,13 @@ print {
     #u39061-4 {
         z-index: 123;
         right: 97px;
+        top: 40px;
     }
 
     #u39062-4 {
         z-index: 127;
         right: 62px;
+        top: 40px;
     }
 
     #ppslideshowu22202 {
@@ -1671,17 +1674,18 @@ print {
     }
 
     #widgetu22136:hover #u22137-4 {
-        margin-left: 0px;
+        margin-left: 100px;
         min-height: 0px;
         width: 340px;
         height: 16px;
     }
 
     #widgetu22136.focus-st #u22137-4 {
-        margin-left: 48%;
-        min-height: 0px;
         width: 340px;
+        margin-left: 70%;
+        left: 0px;
         height: 16px;
+        
     }
 
     #widgetu22136.fld-err-st #u22137-4 {
@@ -2223,6 +2227,13 @@ print {
         height: 16px;
     }
 
+    #widgetu22136.fld-err-st {
+        width: 342px;
+        height: 30px;
+        margin-left: 0%;
+    }
+
+
     #widgetu22136_input {
         width: 240px;
         height: 16px;
@@ -2556,11 +2567,15 @@ print {
     #u39061-4 {
         z-index: 123;
         right: 65px;
+        top: 40px;
+
     }
 
     #u39062-4 {
         z-index: 127;
         right: 30px;
+        top: 40px;
+
     }
 
     #pslideshowu22202 {
@@ -2774,7 +2789,7 @@ print {
 
     #widgetu22131.frm-sub-st #u22132-4,
     #widgetu22131.frm-subm-err-st #u22133-4 {
-        left: 0px;
+        left: 165px;
         margin-left: 0px;
     }
 
@@ -2880,13 +2895,13 @@ print {
     #u39061-4 {
         z-index: 124;
         right: 195px!important;
-        margin-top: 0px;
+        margin-top: -15px!important;
     }
 
     #u39062-4 {
         z-index: 146;
         right: 195px!important;
-        margin-top: 15px!important;
+        margin-top: 0px!important;
 
     }
 
@@ -2923,7 +2938,7 @@ print {
         padding-top: 20px;
         padding-bottom: 17px;
         position: fixed;
-        top: 30px;
+        top: 20px;
         left: 370px;
 
     }

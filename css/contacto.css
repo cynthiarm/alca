@@ -2500,18 +2500,21 @@ print {
     }
 
     #u348 {
-        left: 20px;
+        left: 10px;
+
     }
 
     #u39218-4 {
         z-index: 122;
         right: 51px;
+        margin-top: -10px!important;
+
     }
 
     #u39219-4 {
         z-index: 126;
         right: 50px;
-        margin-top: 0px;
+        margin-top: -10px!important;
     }
 
     #ppamphletu2546 {
@@ -2548,13 +2551,13 @@ print {
     }
 
     #u2590 {
-        width: 40px;
+        width: 47px;
         height: 16px;
         padding-top: 17px;
         padding-bottom: 17px;
         position: fixed;
-        top: 33px;
-        right: 11px;
+        top: 22px;
+        right: 0px;
     }
 
     #u2593 {

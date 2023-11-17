@@ -1172,8 +1172,9 @@ print {
 
     #widgetu22131.frm-sub-st #u22132-4,
     #widgetu22131.frm-subm-err-st #u22133-4 {
-        left: 0px;
+        left: 365px;
         margin-left: 0px;
+        margin-top: 40px;
     }
 
     #u22134-4 {
@@ -1653,13 +1654,15 @@ print {
     #widgetu22136 {
         width: 342px;
         height: 30px;
-        left: -15.3%;
+        left: -12%;
     }
 
     #widgetu22136.fld-err-st {
         width: 342px;
         height: 30px;
         margin-left: 0%;
+        left: 42%;
+
     }
 
     #u22137-4 {
@@ -1686,6 +1689,13 @@ print {
         min-height: 0px;
         width: 340px;
         height: 16px;
+    }
+
+    #widgetu22131.frm-sub-st #u22132-4,
+    #widgetu22131.frm-subm-err-st #u22133-4 {
+        left: 365px;
+        margin-left: 0px;
+        margin-top: 40px;
     }
 
     #widgetu22136_input {
@@ -2553,11 +2563,13 @@ print {
     #u39061-4 {
         z-index: 123;
         right: 65px;
+        top: 40px;
     }
 
     #u39062-4 {
         z-index: 127;
         right: 30px;
+        top: 40px;
     }
 
     #pslideshowu22202 {
@@ -2876,14 +2888,14 @@ print {
     #u39061-4 {
         z-index: 124;
         right: 149px!important;
-        margin-top: -10px;
+        margin-top: -10px!important;
 
     }
 
     #u39062-4 {
         z-index: 146;
         right: 147px!important;
-        margin-top: -12px!important;
+        margin-top: -10px!important;
 
 
     }
@@ -2921,7 +2933,7 @@ print {
         padding-top: 17px;
         padding-bottom: 17px;
         position: fixed;
-        top: 23px;
+        top: 22px;
         right: 100px;
     
     }
@@ -3311,7 +3323,7 @@ print {
 
     #widgetu22136 {
         width: 100.5%;
-        left: -5%;
+        left: -50%;
     }
 
     #widgetu22136.fld-err-st {
@@ -3322,30 +3334,31 @@ print {
     #u22137-4 {
         min-height: 16px;
         width: 99.51%;
-        margin-left: 5%;
+        margin-left: 45%;
     }
 
     #widgetu22136:hover #u22137-4 {
         min-height: 16px;
         width: 99.51%;
-        margin-left: 5%
+        margin-left: 40%;
     }
 
     #widgetu22136.focus-st #u22137-4 {
         min-height: 16px;
         width: 99.51%;
-        margin-left: 0%;
+        margin-left: 40%;
     }
 
     #widgetu22136.fld-err-st #u22137-4 {
         min-height: 16px;
         width: 99.51%;
-        margin-left: 0%;
+        margin-left: 120%;
     }
 
     #widgetu22136_input {
         min-height: 16px;
         width: 100%;
+        left: -145px;
     }
 
     #widgetu22136_prompt {
@@ -3366,7 +3379,7 @@ print {
         margin-top: 6px;
         height: 19px;
         width: 32.5%;
-        margin-left: 33.75%;
+        margin-left: -18%;
     }
 
     #u22135-4:active {
@@ -3374,7 +3387,8 @@ print {
         margin-top: 6px;
         height: 19px;
         width: 32.5%;
-        margin-left: 33.75%;
+        margin-left: -18%;
+
     }
 
     #pu22132-4 {
@@ -3444,7 +3458,7 @@ print {
     }
 
     #u23786 {
-        left: 20px;
+        left: 10px;
     }
 
     #u39061-4 {
@@ -3490,8 +3504,8 @@ print {
         padding-top: 16px;
         padding-bottom: 18px;
         position: fixed;
-        top: 0px;
-        right: 39px;
+        top: 40px;
+        right: 139px;
     }
 
     #u23826 {
@@ -3751,10 +3765,10 @@ print {
     #u22212popup {
         top: 164px;
         height: 112px;
-        width: 48%;
+        width: 70%;
         min-height: 27px;
         background-color: rgb(8 8 8 /30%);
-        left: 11%;
+        left: 15.76%;
         border-top-left-radius: 8px;
         border-bottom-left-radius: 8px;
         border-top-right-radius: 8px;
@@ -3810,7 +3824,7 @@ print {
 
     #u22216-3popup {
         top: 235px;
-        left: 60%;
+        left: 90%;
     }
 
     #u22336 {
@@ -3825,10 +3839,22 @@ print {
     }
 
     #u22141 {
-        width: 80px;
-        margin-bottom: -34px;
-        margin-top: 185px;
-        left: 39.48%;
+        width: 351px;
+        margin-bottom: 100px;
+        margin-top: 120px;
+        left: 40%;
+        
+    }
+
+    #u22140-16 {
+        text-align: center;
+        min-height: 0px;
+        background-color: transparent;
+        z-index: 52;
+        position: relative;
+        width: 250%;
+        left: -30%;
+        margin-top: 40px;
     }
 
     #u22336-bw {
@@ -3837,20 +3863,23 @@ print {
     }
 
     #u22140-10 {
-        margin-top: 63px;
-        width: 84.22%;
-        margin-left: 7.9%;
+        text-align: center;
+        min-height: 93px;
+        background-color: transparent;
+        z-index: 52;
+        position: relative;
+        margin-top: -60px;
     }
 
     #widgetu22131 {
         margin-top: 24px;
         width: 82.11%;
-        margin-left: 8.95%;
+        margin-left: -25%;
     }
 
     #widgetu22136 {
-        width: 100.65%;
-        left: -0.33%;
+        width: 80%;
+        left: 5%;
     }
 
     #widgetu22136.fld-err-st {
@@ -3889,6 +3918,7 @@ print {
     #widgetu22136_prompt {
         height: 16px;
         width: 100%;
+        left: -160px;
     }
 
     #u22135-4 {

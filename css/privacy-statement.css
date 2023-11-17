@@ -1763,17 +1763,19 @@ print {
     }
 
     #u23786 {
-        left: 40px;
+        left: 5px;
     }
 
     #u39405-4 {
         z-index: 65;
-        right: 129px;
+        right: 45px;
+        margin-top: -5px!important;
     }
 
     #u39406-4 {
         z-index: 69;
-        right: 94px;
+        right: 44px;
+        margin-top: -5px!important;
     }
 
     #ppamphletu23788 {
@@ -1809,8 +1811,8 @@ print {
         padding-top: 16px;
         padding-bottom: 18px;
         position: fixed;
-        top: 0px;
-        right: 39px;
+        top: 20px;
+        right: 5px;
     }
 
     #u23826 {
@@ -2108,6 +2110,7 @@ print {
         z-index: 86;
         background-color: transparent;
         position: relative;
+        margin-top: 195px;
     }
 
     #u24550 {
